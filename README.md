@@ -2,7 +2,7 @@
 
 ## Premise
 
-There probably is never going to be an official translated version of Sunless Sea by Failbetter Games. I get it, it's a lot of text, difficult to translate while preserving nuance and there is no money in it. The audience is small as it is, for any given translation probably close to zero. This is something I wanted to try for myself. Sunless Sea is one of my favorite games. I love it as it is. I would say my english is pretty good and I can pick up many of the small details hidden in the language. But I would like to be able to play this with my young daugther, when she is a little older. Her english is not going to be good enough for a long time. We'll see how far this goes.
+There probably is never going to be an official translated version of [Sunless Sea](https://store.steampowered.com/app/304650/SUNLESS_SEA/) by [Failbetter Games](https://www.failbettergames.com/). I get it, it's a lot of text, difficult to translate while preserving nuance and there is no money in it. The audience is small as it is, for any given translation probably close to zero. This is something I wanted to try for myself. Sunless Sea is one of my favorite games. I love it as it is. I would say my english is pretty good and I can pick up many of the small details hidden in the language. But I would like to be able to play this with my young daugther, when she is a little older. Her english is not going to be good enough for a long time. We'll see how far this goes.
 
 ## What this is
 
@@ -54,6 +54,8 @@ Ideally, I'd like to translate all the player facing text in the game, in my cas
 
 I will create a branch for each language, probably only german for now. I somebody wants to contribute, they are very welcome. You should ask yourself whether you're really up for this. I'd like to preserve as much of the flavour as possible, even if it means finding totally different expressions in german. You should bring at least decent english and german skills to the table.
 
+There will be text I'm not going to translate, such as some names that are characteristic. I have not made an official guide that defined what stays. Maybe I'll get to it at some point.
+
 ## Disclaimer
 
-I don't own any of the content. It's all Failbetter Games'. If there is a problem with me attempting this, let me know and I'll take this down. I don't know who this is hurting this late in the game's life cycle, but I don't mean to cause trouble. I have bought the game myself multiple times (Steam, iPad) and I suggest you do the same. It's perfect. I bought Sunless Skies as well but I could never bring myself to boot it up. I don't care much for the steampunk space setting. The <del>SUN</del> Zee hits home for me.
+I don't own any of the content. It's all [Failbetter Games](https://www.failbettergames.com/)'. If there is a problem with me attempting this, let me know and I'll take this down. I don't know who this is hurting this late in the game's life cycle, but I don't mean to cause trouble. I have bought the game myself multiple times (Steam, iPad) and I suggest you do the same. It's perfect. I bought Sunless Skies as well but I could never bring myself to boot it up. I don't care much for the steampunk space setting. The <del>SUN</del> Zee hits home for me.
