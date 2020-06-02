@@ -2,7 +2,7 @@
 
 ## Premise
 
-There probably is never going to be an official translated version of [Sunless Sea](https://store.steampowered.com/app/304650/SUNLESS_SEA/) by [Failbetter Games](https://www.failbettergames.com/). I get it, it's a lot of text, difficult to translate while preserving nuance and there is no money in it. The audience is small as it is, for any given translation probably close to zero. This is something I wanted to try for myself. Sunless Sea is one of my favorite games. I love it as it is. I would say my english is pretty good and I can pick up many of the small details hidden in the language. But I would like to be able to play this with my young daugther, when she is a little older. Her english is not going to be good enough for a long time. We'll see how far this goes.
+There probably is never going to be an official translated version of [Sunless Sea](https://store.steampowered.com/app/304650/SUNLESS_SEA/) by [Failbetter Games](https://www.failbettergames.com/). I get it, it's a lot of text (250,000 words), difficult to translate while preserving nuance and there is no money in it. The audience is small as it is, for any given translation probably close to zero. This is something I wanted to try for myself. Sunless Sea is one of my favorite games. I love it as it is. I would say my english is pretty good and I can pick up many of the small details hidden in the language. But I would like to be able to play this with my young daugther, when she is a little older. Her english is not going to be good enough for a long time. We'll see how far this goes.
 
 ## What this is
 
