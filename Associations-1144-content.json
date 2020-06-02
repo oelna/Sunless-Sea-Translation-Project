@@ -1,0 +1,288 @@
+[
+    {
+        "Name": "Associations",
+        "Ambiences": [
+            {
+                "Name": "Fathomking",
+                "AreaId": 101996,
+                "PrefabName": "Underwater"
+            },
+            {
+                "Name": "The Surface",
+                "AreaId": 102882,
+                "PrefabName": "Surface",
+                "MusicTrackName": "BustlingLondon"
+            },
+            {
+                "Name": "Victory Legacy",
+                "PrefabName": "Wolfstack",
+                "MusicTrackName": "VictoryMusic"
+            },
+            {
+                "Name": "Loss Legacy",
+                "PrefabName": "Underwater",
+                "MusicTrackName": "DeathMusic"
+            },
+            {
+                "Name": "ShatteredCitadel",
+                "AreaId": 104546,
+                "PrefabName": "Godfall"
+            },
+            {
+                "Name": "Whispways",
+                "AreaId": 104545,
+                "PrefabName": "Mangrove"
+            },
+            {
+                "Name": "GoEast",
+                "AreaId": 104181,
+                "PrefabName": "Worldsend",
+                "MusicTrackName": "OceanaLonissimusLeah"
+            },
+            {
+                "Name": "Vienna",
+                "AreaId": 104588,
+                "PrefabName": "Vienna",
+                "MusicTrackName": "SpookyUpLead"
+            },
+            {
+                "Name": "Funeral",
+                "AreaId": 105136,
+                "PrefabName": "Funeral",
+                "MusicTrackName": "VictoryMusic"
+            },
+            {
+                "Name": "Wineglasses",
+                "AreaId": 105137,
+                "PrefabName": "Wineglasses",
+                "MusicTrackName": "VictoryMusic"
+            },
+            {
+                "Name": "Kingdom",
+                "AreaId": 105138,
+                "PrefabName": "Garden",
+                "MusicTrackName": "VictoryMusic"
+            },
+            {
+                "Name": "Turn into a zee-monster",
+                "AreaId": 105139,
+                "PrefabName": "ZeeMonster",
+                "MusicTrackName": "VictoryMusic"
+            },
+            {
+                "Name": "Stargate",
+                "AreaId": 105140,
+                "PrefabName": "Stargate",
+                "MusicTrackName": "VictoryMusic"
+            },
+            {
+                "Name": "Zeppelin",
+                "AreaId": 105141,
+                "PrefabName": "Underwater",
+                "MusicTrackName": "VictoryMusic"
+            }
+        ],
+        "JettisonEvents": [
+            {
+                "Name": "Eject the Shady Sort",
+                "QualityId": 111745,
+                "Tooltip": "Captain! What are you thinking?"
+            },
+            {
+                "Name": "Eject the Checquered Character",
+                "QualityId": 112728,
+                "Tooltip": "Wrong move!"
+            },
+            {
+                "Name": "Eject the Unsettling Sage",
+                "QualityId": 109347,
+                "Tooltip": "No no no. We shall do... wonderful things together."
+            },
+            {
+                "Name": "Eject the Delightful Adventuress",
+                "QualityId": 114766,
+                "Tooltip": "I don't _think_ so."
+            }
+        ],
+        "LegacyUnlockQualities": [
+            {
+                "Name": "A Ironclad Will",
+                "Description": "Your next character inherits your Lodgings, along with any Heirlooms you have stored there.",
+                "Tooltip": "Upgrade your Lodgings and purchase a Will.",
+                "UnlockQualityId": 110641,
+                "Order": 1
+            },
+            {
+                "Name": "A Scion",
+                "Description": "This time, you can choose two legacies.",
+                "Tooltip": "Raise a child, and bring it gifts from the zee.",
+                "UnlockQualityId": 114230,
+                "AdditionalLegaciesAllowed": 1,
+                "Order": 2
+            },
+            {
+                "Name": "Horizon Codex",
+                "Description": "Increases your starting Pages by +25.",
+                "Tooltip": "Go North.",
+                "UnlockQualityId": 113320,
+                "QualityToIncreaseId": 102898,
+                "IncreaseLevel": 25,
+                "Order": 3
+            },
+            {
+                "Name": "Boke of Sharps",
+                "Description": "Increases your starting Iron by +25.",
+                "Tooltip": "Raise the Anarchists to prominence.",
+                "UnlockQualityId": 113575,
+                "QualityToIncreaseId": 102894,
+                "IncreaseLevel": 25,
+                "Order": 4
+            },
+            {
+                "Name": "A Travelling Light",
+                "Description": "Increases your starting Mirrors by +25.",
+                "Tooltip": "Rise high and go east.",
+                "UnlockQualityId": 114084,
+                "QualityToIncreaseId": 102895,
+                "IncreaseLevel": 25,
+                "Order": 5
+            },
+            {
+                "Name": "A Dream of Red",
+                "Description": "Increases your starting Hearts by +25.",
+                "Tooltip": "Carry a lost sister to her homeland.",
+                "UnlockQualityId": 114086,
+                "QualityToIncreaseId": 102897,
+                "IncreaseLevel": 25,
+                "Order": 6
+            },
+            {
+                "Name": "Manual of Miracles",
+                "Description": "Increases your starting Veils by +25.",
+                "Tooltip": "While forgotten, find one who is forgotten.",
+                "UnlockQualityId": 114087,
+                "QualityToIncreaseId": 102896,
+                "IncreaseLevel": 25,
+                "Order": 7
+            },
+            {
+                "Name": "An Adumbration of Her Heart",
+                "Description": "Increases your starting Pages by +10.",
+                "Tooltip": "Behold Her Ladyship.",
+                "UnlockQualityId": 128853,
+                "QualityToIncreaseId": 102898,
+                "IncreaseLevel": 10,
+                "Order": 8
+            }
+        ],
+        "TradeRoutes": [
+            {
+                "Name": "London > Palmerston",
+                "ShipNames": [
+                    "TraderTrampSteamer",
+                    "TraderCaligo"
+                ],
+                "OriginPortName": "FallenLondon",
+                "DestinationPortName": "MountPalmerston"
+            },
+            {
+                "Name": "AdamsWay > London",
+                "ShipNames": [
+                    "TraderTrampSteamer",
+                    "TraderCaligo"
+                ],
+                "OriginPortName": "ApisPort",
+                "DestinationPortName": "FallenLondon"
+            },
+            {
+                "Name": "Carnelian > Khan",
+                "ShipNames": [
+                    "TraderTrampSteamer",
+                    "TraderCaligo"
+                ],
+                "OriginPortName": "PortCarnelian",
+                "DestinationPortName": "KhansHeart"
+            },
+            {
+                "Name": "Venderbight > Palmerston",
+                "ShipNames": [
+                    "TraderTrampSteamer",
+                    "TraderCaligo"
+                ],
+                "OriginPortName": "Venderbight",
+                "DestinationPortName": "MountPalmerston"
+            },
+            {
+                "Name": "Palmerston > Khan",
+                "ShipNames": [
+                    "TraderTrampSteamer",
+                    "TraderCaligo"
+                ],
+                "OriginPortName": "MountPalmerston",
+                "DestinationPortName": "KhansHeart"
+            },
+            {
+                "Name": "London > Khan",
+                "ShipNames": [
+                    "TraderTrampSteamer",
+                    "TraderCaligo"
+                ],
+                "OriginPortName": "FallenLondon",
+                "DestinationPortName": "KhansHeart"
+            },
+            {
+                "Name": "Carnelian > Venderbight",
+                "ShipNames": [
+                    "TraderTrampSteamer",
+                    "TraderCaligo"
+                ],
+                "OriginPortName": "PortCarnelian",
+                "DestinationPortName": "Venderbight"
+            },
+            {
+                "Name": "London > Carnelian",
+                "ShipNames": [
+                    "TraderTrampSteamer",
+                    "TraderCaligo"
+                ],
+                "OriginPortName": "FallenLondon",
+                "DestinationPortName": "PortCarnelian"
+            },
+            {
+                "Name": "Khan > AdamsWay",
+                "ShipNames": [
+                    "TraderTrampSteamer",
+                    "TraderCaligo"
+                ],
+                "OriginPortName": "KhansHeart",
+                "DestinationPortName": "ApisPort"
+            }
+        ],
+        "UnlegacyableOfficers": [
+            {
+                "Name": "Longshanks",
+                "QualityId": 107458
+            },
+            {
+                "Name": "Sly",
+                "QualityId": 107459
+            },
+            {
+                "Name": "ShadyCook",
+                "QualityId": 107460
+            },
+            {
+                "Name": "GallEyed",
+                "QualityId": 107461
+            },
+            {
+                "Name": "Plausible",
+                "QualityId": 107462
+            },
+            {
+                "Name": "WhistfulDeviless",
+                "QualityId": 109475
+            }
+        ]
+    }
+]

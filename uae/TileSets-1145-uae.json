@@ -1,0 +1,8 @@
+{
+    "0 TextAsset Base": 
+    {
+        "1 string m_Name": "TileSets",
+        "1 string m_Script": "[\r\n{\r\n\t\"Name\":\"Purple\",\r\n\t\"TileNames\":[\"SeaOfAutumns\", \"StamfordsExpanse\", \"PromisedSea\",\"Myceligaea\",\"GenericPurple\"]\r\n},\r\n{\r\n\t\"Name\":\"Yellow\",\r\n\t\"TileNames\":[\"TheCalumnies\", \"EmpireOfHands\", \"GossamerWay\",\"Chelonate\"]\r\n},\r\n{\r\n\t\"Name\":\"Red\",\r\n\t\"TileNames\":[\"CorsairsForest\", \"StonesoulIsles\", \"ShepherdsWash\", \"DemeauxsGate\",\"TheSnares\", \"GenericRed\"]\r\n},\r\n{\r\n\t\"Name\":\"Orange\",\r\n\t\"TileNames\":[\"Rattsey\", \"SeaOfVoices\", \"PrinciplesOfCoral\",\"SaltSteppes\",\"SeaOfLilies\"]\r\n},\r\n{\r\n\t\"Name\":\"North\",\r\n\t\"TileNames\":[\"VoidsApproach\", \"PalmerstonsReach\", \"Stormbones\", \"Frostfound\"]\r\n}\r\n]",
+        "1 string m_PathName": ""
+    }
+}

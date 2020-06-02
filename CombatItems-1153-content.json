@@ -1,0 +1,96 @@
+[
+    {
+        "Name": "Pneumatic Ratsender",
+        "Image": "ratsender_square",
+        "Description": "Repairs 10 hull damage instantly.",
+        "AssociatedQualityId": 110532,
+        "ExoticEffectName": "RepairSmall",
+        "Cooldown": 3
+    },
+    {
+        "Name": "Unclear Device",
+        "Image": "lamppost_square",
+        "Description": "Obscures you from view for 5 seconds.",
+        "AssociatedQualityId": 110435,
+        "ExoticEffectName": "Disappear",
+        "IsUsableFuncName": "HasTarget",
+        "Cooldown": 3
+    },
+    {
+        "Name": "Strange Catch",
+        "Image": "carcass_square",
+        "Description": "Lures a submerged zee-beast to the surface.",
+        "AssociatedQualityId": 108654,
+        "ExoticEffectName": "Lure",
+        "IsUsableFuncName": "CanLure",
+        "Cooldown": 1
+    },
+    {
+        "Name": "Blue Scintillack",
+        "Image": "scintillack_square",
+        "Description": "Fill all of your firing solutions instantly.",
+        "AssociatedQualityId": 109974,
+        "ExoticEffectName": "FillSolution",
+        "IsUsableFuncName": "HasTarget",
+        "Cooldown": 20,
+        "IsInfinate": true
+    },
+    {
+        "Name": "Flare",
+        "Image": "flare_ability",
+        "Description": "Fire a flare, illuminating the ocean for 10 seconds.",
+        "AssociatedQualityId": 113263,
+        "ExoticEffectName": "Flare",
+        "IsUsableFuncName": "HasTarget",
+        "Cooldown": 6,
+        "IsInfinate": false
+    },
+    {
+        "Name": "Mountain-sherd",
+        "Image": "diamondblue_square",
+        "Description": "Summon Mt Nomad.\n\nYou must be in open waters in order to use this.",
+        "AssociatedQualityId": 114994,
+        "ExoticEffectName": "SummonBeastie,MtNomad",
+        "IsUsableFuncName": "CanDisengage",
+        "Cooldown": 1,
+        "IsInfinate": false
+    },
+    {
+        "Name": "Element of Dawn",
+        "Image": "dawnmachine_square",
+        "Description": "Summon The Tree of Ages.\n\nYou must be in open waters in order to use this.",
+        "AssociatedQualityId": 114995,
+        "ExoticEffectName": "SummonBeastie,TreeOfAges",
+        "IsUsableFuncName": "CanDisengage",
+        "Cooldown": 1,
+        "IsInfinate": false
+    },
+    {
+        "Name": "RepairShipBeastieSmall",
+        "ExoticEffectName": "RepairShipBeastieSmall",
+        "Cooldown": 6,
+        "IsInfinate": false
+    },
+    {
+        "Name": "GloriousFlare",
+        "ExoticEffectName": "GloriousFlare",
+        "Cooldown": 10,
+        "IsInfinate": false
+    },
+    {
+        "Name": "PirateFlare",
+        "ExoticEffectName": "Flare",
+        "Cooldown": 4,
+        "IsInfinate": false
+    },
+    {
+        "Name": "Hand-Carved Ushabti",
+        "Image": "ushabti_square",
+        "Description": "Summon The Pirate Poet.\n\nYou must be in open waters in order to use this.",
+        "AssociatedQualityId": 118651,
+        "ExoticEffectName": "SummonBeastie,Corvette",
+        "Cooldown": 1,
+        "IsInfinate": false,
+        "IsUsableFuncName": "CanDisengage"
+    }
+]
