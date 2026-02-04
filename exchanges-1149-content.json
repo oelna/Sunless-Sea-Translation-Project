@@ -402,7 +402,6 @@
                         "SellPrice": 300,
                         "PurchaseQuality": {
                             "Id": 102028
-
                         },
                         "Id": 530
                     },
@@ -1117,7 +1116,6 @@
             {
                 "Name": "Hollow Temple",
                 "Image": "ruins2",
-
                 "Description": "The image of a long-snouted reptile god still stands in the temple, but now storytellers gather here. ",
                 "Availabilities": [
                     {
@@ -1447,7 +1445,6 @@
                     },
                     {
                         "Quality": {
-
                             "Id": 115914
                         },
                         "SellPrice": 2,

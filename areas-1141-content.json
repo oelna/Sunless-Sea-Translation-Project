@@ -1,533 +1,533 @@
 [
     {
-        "Name": "Fallen London",
-        "Description": "FALLEN LONDON! Deep, dark and marvellous. All voyages start here: and this is where successful voyages end.",
+        "Name": "Gefallenes London",
+        "Description": "GEFALLENES LONDON! Tief, dunkel und wunderbar. Hier beginnen alle Reisen: Und hier enden erfolgreiche Reisen.",
         "ImageName": "fallenlondon_port",
         "Id": 100321
     },
     {
-        "Name": "REUSE",
-        "Description": "Fallen London",
+        "Name": "WIEDERVERWENDUNG",
+        "Description": "Gefallenes London",
         "ImageName": "city",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 100369
     },
     {
-        "Name": "Sea of Voices",
-        "Description": "Sea of Voices",
+        "Name": "Meer der Stimmen",
+        "Description": "Meer der Stimmen",
         "ImageName": "fish",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 100370
     },
     {
-        "Name": "Port Carnelian",
-        "Description": "Fallen London's sole Imperial possession. Treasure it.",
+        "Name": "Portkarneol",
+        "Description": "Der einzige kaiserliche Besitz des gefallenen London. Schätzen Sie es.",
         "ImageName": "portcarnelian_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 100371
     },
     {
-        "Name": "Adam's Way",
-        "Description": "On a bed of monumental ruins, warehouses and waystations of shroom-timber rise.",
+        "Name": "Adams Weg",
+        "Description": "Auf einem Bett aus monumentalen Ruinen erheben sich Lagerhäuser und Wegstationen aus Pilzholz.",
         "ImageName": "adamscape_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 100372
     },
     {
-        "Name": "Iron Republic",
-        "Description": "Hell's client-state. Be wary. Their laws are not the laws of Man or Nature.",
+        "Name": "Eiserne Republik",
+        "Description": "Der Kundenstaat der Hölle. Seien Sie vorsichtig. Ihre Gesetze sind nicht die Gesetze des Menschen oder der Natur.",
         "ImageName": "ironrepublic",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 100373
     },
     {
-        "Name": "Tomb-Colonies",
-        "Description": "Few die in Fallen London. They come here instead.",
+        "Name": "Grabkolonien",
+        "Description": "Nur wenige sterben im gefallenen London. Stattdessen kommen sie hierher.",
         "ImageName": "venderbight",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 100374
     },
     {
-        "Name": "Demeaux Island",
-        "Description": "A fervid forest of fungus.",
+        "Name": "Demeaux-Insel",
+        "Description": "Ein glühender Pilzwald.",
         "ImageName": "demeauxisland_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 100488
     },
     {
-        "Name": "The Unterzee",
-        "Description": "The waters beneath the Earth.",
+        "Name": "Das Unterzee",
+        "Description": "Das Wasser unter der Erde.",
         "ImageName": "shipwheel",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 101925
     },
     {
-        "Name": "Limbo",
+        "Name": "Schwebe",
         "ImageName": "generic_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 101956
     },
     {
-        "Name": "Whither",
-        "Description": "A chilly city beside a waste of salt.",
+        "Name": "Wohin",
+        "Description": "Eine kühle Stadt neben einer Salzverschwendung.",
         "ImageName": "whither_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101979
     },
     {
-        "Name": "Chapel of Lights",
-        "Description": "Do you hear music?",
+        "Name": "Kapelle der Lichter",
+        "Description": "Hörst du Musik?",
         "ImageName": "chapeloflights_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101980
     },
     {
-        "Name": "Chelonate",
-        "Description": "A shell as big as a wild dream?",
+        "Name": "Chelonat",
+        "Description": "Eine Muschel so groß wie ein wilder Traum?",
         "ImageName": "chelonate_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101981
     },
     {
-        "Name": "Gaider's Mourn",
-        "Description": "Step carefully.",
+        "Name": "Gaiders Trauer",
+        "Description": "Gehen Sie vorsichtig vor.",
         "ImageName": "corsairsforest_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101982
     },
     {
-        "Name": "Crying Heights",
-        "Description": "A sweet wild scent and wilder cries.",
+        "Name": "Weinende Höhen",
+        "Description": "Ein süßer, wilder Duft und noch wildere Schreie.",
         "ImageName": "wolfstack",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101983
     },
     {
-        "Name": "Grand Geode",
-        "Description": "A distant song like a mirage.",
+        "Name": "Große Geode",
+        "Description": "Ein fernes Lied wie eine Fata Morgana.",
         "ImageName": "grandgeode_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101984
     },
     {
-        "Name": "Empire of Hands",
-        "Description": "The apes watch you hungrily.",
+        "Name": "Reich der Hände",
+        "Description": "Die Affen beobachten dich hungrig.",
         "ImageName": "empireofhands_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101985
     },
     {
-        "Name": "Featherhaven",
-        "Description": "The rich unlovely tang of blood and bat-droppings.",
+        "Name": "Federhafen",
+        "Description": "Der satte, unschöne Geruch von Blut und Fledermauskot.",
         "ImageName": "wolfstack",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101986
     },
     {
         "Name": "Irem",
-        "Description": "None have ever spoken truthfully of this place.",
+        "Description": "Niemand hat jemals wahrheitsgemäß über diesen Ort gesprochen.",
         "ImageName": "irem_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101987
     },
     {
-        "Name": "Khan's Glory",
-        "Description": "A place of stately isolation",
+        "Name": "Khans Ruhm",
+        "Description": "Ein Ort stattlicher Isolation",
         "ImageName": "khansglory_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101988
     },
     {
-        "Name": "Khan's Heart",
-        "Description": "London's rival.",
+        "Name": "Khans Herz",
+        "Description": "Londons Rivale.",
         "ImageName": "khansheart_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101989
     },
     {
-        "Name": "Khan's Shadow",
-        "Description": "The city that swam.",
+        "Name": "Khans Schatten",
+        "Description": "Die Stadt, die schwamm.",
         "ImageName": "khansshadow_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101990
     },
     {
-        "Name": "Kingeater's Castle",
-        "Description": "Echoes stalk you through the colonnades.",
+        "Name": "Kingeaters Schloss",
+        "Description": "Echos verfolgen Sie durch die Kolonnaden.",
         "ImageName": "kingeaterscastle_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101991
     },
     {
         "Name": "Mount Palmerston",
-        "Description": "Brimstone. Always brimstone.",
+        "Description": "Schwefel. Immer Schwefel.",
         "ImageName": "portpalmerston",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101992
     },
     {
-        "Name": "Nuncio",
-        "Description": "DO NOT RETURN, SENDER.",
+        "Name": "Nuntius",
+        "Description": "NICHT ZURÜCKSENDEN, ABSENDER.",
         "ImageName": "nuncio_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101993
     },
     {
         "Name": "Port Cecil",
-        "Description": "A sourceless silver glow. A haven for players of games.",
+        "Description": "Ein quellenloser silberner Glanz. Ein Paradies für Gamer.",
         "ImageName": "principlesofcoral_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101994
     },
     {
-        "Name": "The Fathomking's Hold",
-        "Description": "Lorkins Port: named for that most enterprising of Drownies. Phosphor-cells burn green. Somewhere below, the King waits.",
+        "Name": "Die Festung des Tiefenkönigs",
+        "Description": "Lorkins Port: benannt nach dem unternehmungslustigsten aller Drownies. Phosphorzellen brennen grün. Irgendwo unten wartet der König.",
         "ImageName": "fathomkingshold_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101996
     },
     {
-        "Name": "Salt Lions",
-        "Description": "There is a vast sorrow in their empty eyes.",
+        "Name": "Salzlöwen",
+        "Description": "In ihren leeren Augen liegt eine große Trauer.",
         "ImageName": "saltlions_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101997
     },
     {
-        "Name": "Saviour's Rocks",
-        "Description": "The sound of their constant motion is like pebbles on a beach...",
+        "Name": "Erlöserfelsen",
+        "Description": "Das Geräusch ihrer ständigen Bewegung ist wie Kieselsteine am Strand ...",
         "ImageName": "gossamerway_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101998
     },
     {
-        "Name": "Melting Isles",
-        "Description": "Treachery waits here.",
+        "Name": "Schmelzende Inseln",
+        "Description": "Hier wartet Verrat.",
         "ImageName": "generic_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 101999
     },
     {
-        "Name": "POLYTHREME",
-        "Description": "HERE IS SCREAMING.",
+        "Name": "POLYTHÄM",
+        "Description": "HIER IST SCHREIEN.",
         "ImageName": "polythreme_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 102000
     },
     {
         "Name": "Mutton Island",
-        "Description": "Fires on the hillside...",
+        "Description": "Brände am Hang...",
         "ImageName": "muttonisland_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 102001
     },
     {
-        "Name": "Hunter's Keep",
-        "Description": "A quiet isle; a grand old house.",
+        "Name": "Jägerfestung",
+        "Description": "Eine ruhige Insel; ein prächtiges altes Haus.",
         "ImageName": "hunterskeep_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 102002
     },
     {
-        "Name": "Isle of Cats",
-        "Description": "Where there are roses.",
+        "Name": "Insel der Katzen",
+        "Description": "Wo es Rosen gibt.",
         "ImageName": "isleofcats_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 102003
     },
     {
-        "Name": "Visage",
-        "Description": "Hide your face! Hide all your faces.",
+        "Name": "Gesicht",
+        "Description": "Verstecke dein Gesicht! Verstecke alle deine Gesichter.",
         "ImageName": "visage_port",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 102004
     },
     {
         "Name": "--?",
         "Description": "--?",
         "ImageName": "wolfstack",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 102005
     },
     {
-        "Name": "Knot",
-        "Description": "Have you brought your gift of flesh?",
+        "Name": "Knoten",
+        "Description": "Hast du dein Geschenk aus Fleisch mitgebracht?",
         "ImageName": "wolfstack",
-        "MoveMessage": "You have entered harbour.",
+        "MoveMessage": "Sie haben den Hafen betreten.",
         "Id": 102006
     },
     {
         "Name": "Dawn Machine",
         "ImageName": "dawnmachine",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102133
     },
     {
         "Name": "Varchas",
-        "Description": "The Mirrored City, where Light was always the Law...",
+        "Description": "Die gespiegelte Stadt, in der Licht immer das Gesetz war ...",
         "ImageName": "varchas_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102386
     },
     {
         "Name": "Station III",
-        "Description": "We may infer a Station I and a Station II. We may conjecture a Station IV.",
+        "Description": "Wir können eine Station I und eine Station II ableiten. Wir können eine Station IV vermuten.",
         "ImageName": "stationIII_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102387
     },
     {
         "Name": "Robland",
-        "Description": "[codename]",
+        "Description": "[Codename]",
         "ImageName": "generic_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102388
     },
     {
         "Name": "---?",
         "ImageName": "generic_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102389
     },
     {
-        "Name": "Codex",
-        "Description": "An isle of answers.",
+        "Name": "Kodex",
+        "Description": "Eine Insel voller Antworten.",
         "ImageName": "generic_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102623
     },
     {
-        "Name": "Shepherd Isles",
-        "Description": "Sheep, lichen, standing stones.",
+        "Name": "Shepherd-Inseln",
+        "Description": "Schafe, Flechten, Menhire.",
         "ImageName": "generic_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102768
     },
     {
         "Name": "Abbey Rock",
-        "Description": "Here the grim Sisters lair.",
+        "Description": "Hier schlummern die düsteren Schwestern.",
         "ImageName": "abbeyrock_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102769
     },
     {
         "Name": "Avid Horizon",
-        "Description": "This is the end.",
+        "Description": "Das ist das Ende.",
         "ImageName": "avidhorizon_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102784
     },
     {
-        "Name": "Pigmote Isle",
-        "Description": "Two houses, both alike in dignity.",
+        "Name": "Pigmote-Insel",
+        "Description": "Zwei Häuser, beide in ihrer Würde gleich.",
         "ImageName": "generic_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102804
     },
     {
-        "Name": "Cumaean Canal Staging Area",
-        "Description": "Here, the dark waters run down from the surface, from a brighter sea...",
+        "Name": "Bereitstellungsbereich des Cumäischen Kanals",
+        "Description": "Hier fließt das dunkle Wasser von der Oberfläche herab, von einem helleren Meer ...",
         "ImageName": "cumaeancanal_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102832
     },
     {
-        "Name": "Light-Ship",
-        "Description": "Far from home.",
+        "Name": "Leichtschiff",
+        "Description": "Weit weg von zu Hause.",
         "ImageName": "lightship_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102849
     },
     {
         "Name": "Godfall",
-        "Description": "Sometimes - just occasionally - bits of the roof fall off. Be glad you weren't here when this one did.",
+        "Description": "Manchmal – nur gelegentlich – fallen Teile des Daches ab. Sei froh, dass du nicht hier warst, als dieser hier war.",
         "ImageName": "Godfall_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102852
     },
     {
-        "Name": "The Surface",
-        "Description": "The sun beats down like rain. Occasionally, the rain beats down like rain.",
+        "Name": "Die Oberfläche",
+        "Description": "Die Sonne brennt wie Regen. Gelegentlich prasselt der Regen wie Regen.",
         "ImageName": "generic_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102882
     },
     {
-        "Name": "Uttershroom",
-        "Description": "The queenly core of this spore-haunted sea.",
+        "Name": "Völliger Pilz",
+        "Description": "Der königliche Kern dieses von Sporen heimgesuchten Meeres.",
         "ImageName": "uttershroom_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 102960
     },
     {
         "Name": "Mangrove College",
-        "Description": "The wise and the wicked seek sanctuary here, where the fruits are plenty and the woods wild.",
+        "Description": "Die Weisen und die Bösen suchen hier Zuflucht, wo es reichlich Früchte gibt und die Wälder wild sind.",
         "ImageName": "generic_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 103246
     },
     {
-        "Name": "The Wreck of the Nocturne",
-        "Description": "Shrouded with shadows, wrapped with webs...",
+        "Name": "Das Wrack der Nocturne",
+        "Description": "Umhüllt von Schatten, umhüllt von Netzen ...",
         "ImageName": "nocturne",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 103869
     },
     {
-        "Name": "Wisdom",
-        "Description": "The prison walls are mercilessly steep.",
+        "Name": "Weisheit",
+        "Description": "Die Gefängnismauern sind gnadenlos steil.",
         "ImageName": "seaoflilies_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 103958
     },
     {
-        "Name": "The North",
-        "MoveMessage": "You have moved to a new area",
+        "Name": "Der Norden",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 104180
     },
     {
-        "Name": "The East",
-        "MoveMessage": "You have moved to a new area",
+        "Name": "Der Osten",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 104181
     },
     {
-        "Name": "The South-West",
-        "MoveMessage": "You have moved to a new area",
+        "Name": "Der Südwesten",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 104182
     },
     {
-        "Name": "Aestival",
+        "Name": "Ästhetisch",
         "ImageName": "aestival_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 104204
     },
     {
         "Name": "Frostfound",
         "ImageName": "frostfound_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 104276
     },
     {
-        "Name": "The Corridors of Frostfound",
-        "MoveMessage": "You have moved to a new area",
+        "Name": "Die Korridore von Frostfound",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 104526
     },
     {
-        "Name": "The Wisp-Ways",
-        "MoveMessage": "You have moved to a new area",
+        "Name": "Die Irrlichter",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 104545
     },
     {
-        "Name": "Shattered Citadel",
-        "MoveMessage": "You have moved to a new area",
+        "Name": "Zerschmetterte Zitadelle",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 104546
     },
     {
-        "Name": "Vienna",
+        "Name": "Wien",
         "ImageName": "generic_port",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 104588
     },
     {
-        "Name": "Funeral",
+        "Name": "Beerdigung",
         "ImageName": "chart",
-        "MoveMessage": "An ending approaches...",
+        "MoveMessage": "Ein Ende naht...",
         "Id": 105136
     },
     {
-        "Name": "Wineglasses",
+        "Name": "Weingläser",
         "ImageName": "chart",
-        "MoveMessage": "An ending approaches...",
+        "MoveMessage": "Ein Ende naht...",
         "Id": 105137
     },
     {
-        "Name": "Kingdom",
+        "Name": "Königreich",
         "ImageName": "chart",
-        "MoveMessage": "An ending approaches...",
+        "MoveMessage": "Ein Ende naht...",
         "Id": 105138
     },
     {
-        "Name": "Turn into a zee-monster",
+        "Name": "Verwandle dich in ein Zee-Monster",
         "ImageName": "chart",
-        "MoveMessage": "An ending approaches...",
+        "MoveMessage": "Ein Ende naht...",
         "Id": 105139
     },
     {
-        "Name": "Stargate",
+        "Name": "Sternentor",
         "ImageName": "chart",
-        "MoveMessage": "An ending approaches...",
+        "MoveMessage": "Ein Ende naht...",
         "Id": 105140
     },
     {
         "Name": "Zeppelin",
         "ImageName": "chart",
-        "MoveMessage": "An ending approaches...",
+        "MoveMessage": "Ein Ende naht...",
         "Id": 105141
     },
     {
-        "Name": "Underwater entrance to Crow",
+        "Name": "Unterwassereingang zu Crow",
         "ImageName": "crowsfeet",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107686
     },
     {
         "Name": "Gant Pole",
         "ImageName": "gantpole",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107687
     },
     {
-        "Name": "Low Barnet",
+        "Name": "Niedriger Barnet",
         "ImageName": "lowbarnet",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107688
     },
     {
         "Name": "Rosegate",
         "ImageName": "rosegate",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107689
     },
     {
-        "Name": "Hideaway",
+        "Name": "Versteck",
         "ImageName": "hideaway",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107690
     },
     {
         "Name": "Aigul",
         "ImageName": "aigul",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107691
     },
     {
         "Name": "Anthe",
         "ImageName": "anthe",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107692
     },
     {
         "Name": "Scrimshander",
         "ImageName": "scrimshander",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107693
     },
     {
         "Name": "Wrack",
         "ImageName": "wrack",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107694
     },
     {
-        "Name": "Nook",
+        "Name": "Ecke",
         "ImageName": "nook",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107695
     },
     {
         "Name": "Dahut",
         "ImageName": "dahut",
-        "MoveMessage": "You have moved to a new area",
+        "MoveMessage": "Sie sind in ein neues Gebiet umgezogen",
         "Id": 107696
     }
 ]

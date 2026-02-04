@@ -2268,7 +2268,7 @@
         "AllowedOn": 1,
         "Nature": 1,
         "Category": 5000,
-        "LevelDescriptionText": "10|Received a commission~20|Begun drilling for a regret~30|Halfway through drilling for a regret~60|Delivered a regret by way of the Mirror Marches~70|Delivered a regret by way of Prisoner's Honey~80|Delivered a regret in spine form~40|Abandoned drilling for a regret \u2014 you may tell the Sister so at Hunter's Keep~45|Advised the sister about abandonment at Hunter's Keep~5|Stopped to listen to the Imperious Sister~55|Grew a regret into spine form~90|Learned the outcome of sending a dream~50|Retrieved a regret. What form will you deliver it in?",
+        "LevelDescriptionText": "10|Received a commission~20|Begun drilling for a regret~30|Halfway through drilling for a regret~60|Delivered a regret by way of the Mirror Marches~70|Delivered a regret by way of Prisoner's Honey~80|Delivered a regret in spine form~40|Abandoned drilling for a regret — you may tell the Sister so at Hunter's Keep~45|Advised the sister about abandonment at Hunter's Keep~5|Stopped to listen to the Imperious Sister~55|Grew a regret into spine form~90|Learned the outcome of sending a dream~50|Retrieved a regret. What form will you deliver it in?",
         "QualitiesPossessedList": [],
         "Id": 125704
     },
@@ -2390,7 +2390,6 @@
         "DifficultyScaler": 60,
         "AllowedOn": 1,
         "Nature": 2,
-
         "Category": 106,
         "QualitiesPossessedList": [],
         "Id": 110409
@@ -2838,7 +2837,6 @@
         "QualitiesPossessedList": [],
         "Id": 128952
     },
-
     {
         "Name": "An Adumbration of Her Heart",
         "OwnerName": "Prim Cash",
@@ -4473,7 +4471,6 @@
         "Tag": "Officer",
         "PyramidNumberIncreaseLimit": 50,
         "AvailableAt": "Sometimes available for hire in London.",
-
         "QEffectPriority": 2,
         "AssignToSlot": {
             "Id": 102769
@@ -6460,7 +6457,7 @@
         "AllowedOn": 1,
         "Nature": 1,
         "Category": 37000,
-        "LevelDescriptionText": "1|You've established a useful relationship with a coffee-house in Vienna.~300|Your relationship with the Caf\u00e9 Ferstel has ended.",
+        "LevelDescriptionText": "1|You've established a useful relationship with a coffee-house in Vienna.~300|Your relationship with the Café Ferstel has ended.",
         "ChangeDescriptionText": "1|You've established a useful relationship with a coffee-house in Vienna.~2|You've sold coffee to your contact in Vienna.",
         "QualitiesPossessedList": [],
         "Id": 110310
@@ -7020,7 +7017,7 @@
         "AllowedOn": 1,
         "Nature": 1,
         "Category": 5000,
-        "LevelDescriptionText": "1|\"There is a question waiting. It travelled in a ship long wreck\u2019d. Find it.\"~2|\"The beast is tethered - but not forever. Refuge comes to London.\" ~3|\"They were seven and they shall be seven again. Their names may change but the number remains.\" ~4|\"The names of the heirs to Nidah will begin with M, A, R, I - which is rebellion.\" ~5|\"Beneath the waves, two cities live. They grow. They hunger.\"~6|\"Beware Anthe. It will change you. You will be sharp, keen as a knife\u2019s edge.\"~7|\"The wound reopens; the flesh will not heal. Bring them your remorse.\" ~8|\"They yearn for it: Liberty, Equality, Eternity.\"~9|\"They are only mortal. They suffer too: Vitality, Infirmity, Fatality.\"~10|\"The preacher travels to the bell tower. The bell, it- Oh god. That's horrid.\" ~11|\"The one they fear waits in a pale cavern. The walls are carved with prophecies.\"~13|\"The dream is great and ancient. It is fuelled by deeds of horror; none will have strength to deny it.\" ~14|\"Wheels turn within wheels; a king yearns for your hand.\"~15|\"One joins us below. The trespasser does not surface.\" ~16|\"A question will not go unanswered indefinitely.\"~18|\"The Salted will rise above the waves. They will find only their graves.\"~19|\"An ancient beast wakes when the trespasser\u2019s light pierces the abyss. The trespasser shall never know peace; only terror.\" ~20|\"There shall be a new horizon. All shall know it - but the king\u2019s city will witness it first.\" ~12|\"The Soldier fled, and smothered himself in freedom.\"~17|\"Freedom is fragile. The beast will wake.\"",
+        "LevelDescriptionText": "1|\"There is a question waiting. It travelled in a ship long wreck’d. Find it.\"~2|\"The beast is tethered - but not forever. Refuge comes to London.\" ~3|\"They were seven and they shall be seven again. Their names may change but the number remains.\" ~4|\"The names of the heirs to Nidah will begin with M, A, R, I - which is rebellion.\" ~5|\"Beneath the waves, two cities live. They grow. They hunger.\"~6|\"Beware Anthe. It will change you. You will be sharp, keen as a knife’s edge.\"~7|\"The wound reopens; the flesh will not heal. Bring them your remorse.\" ~8|\"They yearn for it: Liberty, Equality, Eternity.\"~9|\"They are only mortal. They suffer too: Vitality, Infirmity, Fatality.\"~10|\"The preacher travels to the bell tower. The bell, it- Oh god. That's horrid.\" ~11|\"The one they fear waits in a pale cavern. The walls are carved with prophecies.\"~13|\"The dream is great and ancient. It is fuelled by deeds of horror; none will have strength to deny it.\" ~14|\"Wheels turn within wheels; a king yearns for your hand.\"~15|\"One joins us below. The trespasser does not surface.\" ~16|\"A question will not go unanswered indefinitely.\"~18|\"The Salted will rise above the waves. They will find only their graves.\"~19|\"An ancient beast wakes when the trespasser’s light pierces the abyss. The trespasser shall never know peace; only terror.\" ~20|\"There shall be a new horizon. All shall know it - but the king’s city will witness it first.\" ~12|\"The Soldier fled, and smothered himself in freedom.\"~17|\"Freedom is fragile. The beast will wake.\"",
         "ChangeDescriptionText": "1|The flesh reveals all.",
         "QualitiesPossessedList": [],
         "Id": 126785
@@ -7401,7 +7398,6 @@
         "Tag": "Hideaway",
         "PyramidNumberIncreaseLimit": 50,
         "QEffectPriority": 2,
-
         "Visible": true,
         "Enhancements": [],
         "DifficultyScaler": 60,
@@ -8040,7 +8036,6 @@
         "Visible": true,
         "Enhancements": [],
         "DifficultyScaler": 60,
-
         "AllowedOn": 1,
         "Nature": 1,
         "Category": 5000,
@@ -8216,7 +8211,6 @@
         "Enhancements": [],
         "DifficultyTestType": 1,
         "DifficultyScaler": 10,
-
         "AllowedOn": 1,
         "Nature": 2,
         "Category": 150,
@@ -8876,7 +8870,7 @@
     {
         "Name": "Learning About: The Nacreous Outcast",
         "OwnerName": "Alexis",
-        "Description": "I SHINE \/ TO DESCEND",
+        "Description": "I SHINE / TO DESCEND",
         "Image": "nacreousoutcast",
         "Notes": "TRAVELLER RETURNING",
         "Tag": "Officer Storylines",
@@ -11111,7 +11105,6 @@
         "Description": "What salvage has sunk down here over the centuries?",
         "Image": "drowned",
         "Notes": "TRAVELLER RETURNING",
-
         "Tag": "nook_2",
         "PyramidNumberIncreaseLimit": 50,
         "QEffectPriority": 2,
@@ -11414,7 +11407,6 @@
         "AllowedOn": 1,
         "Nature": 1,
         "Category": 5000,
-
         "LevelDescriptionText": "2|You have a Surface sailor imprisoned below-decks~3|You have handed your tear-stained cargo over to your Patron~1|You are seeking a gift for the Pirate-King",
         "QualitiesPossessedList": [],
         "Id": 113395
@@ -11943,7 +11935,6 @@
                 "Level": 1,
                 "AssociatedQuality": {
                     "Id": 102898
-
                 },
                 "Id": 4751
             },
@@ -13190,7 +13181,6 @@
         "Nature": 1,
         "Category": 37000,
         "LevelDescriptionText": "1|Sly Navigator~2|Longshanks Gunner~8|Cladery Heir~4|Campaigner~3|Mechanic~7|The Daughter~6|Magician~5|Nacreous Survivor",
-
         "ChangeDescriptionText": "2|You have begun an affair with the Longshanks Gunner~1|You have begun an affair with the Sly Navigator~3|You have begun an affair with the Tireless Mechanic~4|You have begun an affair with the Campaigner~5|You have begun an affair with the Nacreous Survivor~6|You have begun an affair with the Magician~7|You have begun an affair with Maybe's Daughter~8|You have begun an affair with the Cladery Heir",
         "QualitiesPossessedList": [],
         "Id": 112677
@@ -13800,7 +13790,6 @@
         "QualitiesPossessedList": [],
         "Id": 107719
     },
-
     {
         "Name": "Scion",
         "OwnerName": "Alexis",
@@ -14623,7 +14612,6 @@
         "OwnerName": "Alexis",
         "Description": "\"AN INESCAPABLE ENDING!\" A potent weapon which permits Flensing attacks.",
         "Image": "flenser_blue",
-
         "Notes": "TRAVELLER RETURNING",
         "Tag": "Equipment - Forward",
         "PyramidNumberIncreaseLimit": 50,
@@ -14999,7 +14987,6 @@
         "AllowedOn": 1,
         "Nature": 1,
         "Category": 5000,
-
         "QualitiesPossessedList": [],
         "Id": 114125
     },

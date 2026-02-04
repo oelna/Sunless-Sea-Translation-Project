@@ -1,206 +1,206 @@
 [
     {
         "Id": 1,
-        "Name": "Your journal!",
-        "Description": "Objectives and story progress are on the right-hand side. Mouse over an icon or click on the category heading to see details.",
+        "Name": "Dein Logbuch!",
+        "Description": "Ziele und der Fortschritt der Geschichte stehen auf der rechten Seite. Fahre mit der Maus über ein Symbol oder klicke auf die Kategorieüberschrift, um Details zu sehen.",
         "ShouldPause": false
     },
     {
         "Id": 2,
-        "Name": "Your officers!",
-        "Description": "Left-click and drag to assign officers, or right-click to speak to them. Assigned officers give ability bonuses.",
+        "Name": "Deine Offiziere!",
+        "Description": "Linksklick und ziehen, um Offiziere zuzuweisen, oder Rechtsklick, um mit ihnen zu sprechen. Zugewiesene Offiziere geben Fähigkeitsboni.",
         "ShouldPause": false
     },
     {
         "Id": 3,
-        "Name": "Shops",
-        "Description": "Here you can buy fuel, supplies, ship equipment and trade goods. Shops are displayed on the left. Click on one to see its wares.",
+        "Name": "Händler",
+        "Description": "Hier kannst du Treibstoff, Vorräte, Schiffsausrüstung und Handelswaren kaufen. Die Händler werden links angezeigt. Klicke auf einen, um sein Angebot zu sehen.",
         "ShouldPause": false
     },
     {
         "Id": 4,
-        "Name": "Echoes",
-        "Description": "London's currency is the Echo. To earn money, explore the map and bring back port reports and treasures. You can trade, too, but exploration and stories are much more profitable.",
+        "Name": "Echos",
+        "Description": "Londons Währung ist das Echo. Um Geld zu verdienen, erkunde die Karte und bring Hafenberichte und Schätze zurück. Du kannst auch handeln, aber Erkundung und Geschichten sind viel einträglicher.",
         "ShouldPause": false
     },
     {
         "Id": 5,
-        "Name": "Setting zail",
-        "Description": "Click the launch button to leave port.",
+        "Name": "Zail setzen",
+        "Description": "Klicke auf die Auslaufen-Schaltfläche, um den Hafen zu verlassen.",
         "ShouldPause": false
     },
     {
         "Id": 6,
-        "Name": "Movement",
-        "Description": "Use the WSAD keys to move. Tap W twice to reach max speed. Tap S to slow down or reverse. And use the A and D keys to steer.",
+        "Name": "Bewegung",
+        "Description": "Benutze die Tasten W, S, A, D zum Bewegen. Tippe W zweimal, um die Höchstgeschwindigkeit zu erreichen. Tippe S, um zu verlangsamen oder rückwärts zu fahren. Und nutze A und D zum Steuern.",
         "ShouldPause": false
     },
     {
         "Id": 7,
-        "Name": "Terror",
-        "Description": "When you see green running lights on the ship, you're in the dark, and your crew's terror will increase. Watch the pips on the terror indicator. It increases faster when you're far from land. Don't let it reach 100.",
+        "Name": "Schrecken",
+        "Description": "Wenn du grüne Positionslichter am Schiff siehst, bist du im Dunkeln, und der Schrecken deiner Crew steigt. Achte auf die Balken am Schrecken-Indikator. Er steigt schneller, wenn du weit von Land entfernt bist. Lass ihn nicht 100 erreichen.",
         "ShouldPause": false
     },
     {
         "Id": 8,
-        "Name": "Headlights",
-        "Description": "Your prow light can be turned on or off. Leaving it on reduces the rate at which you gain Terror, but makes you more visible to enemies.",
+        "Name": "Scheinwerfer",
+        "Description": "Dein Buglicht kann ein- oder ausgeschaltet werden. Wenn es an ist, sinkt die Geschwindigkeit, mit der du Schrecken sammelst, aber du wirst für Feinde sichtbarer.",
         "ShouldPause": false
     },
     {
         "Id": 9,
-        "Name": "Fragments",
-        "Description": "You receive Fragments when you discover new places. Acquire enough of them and you'll gain a Secret. \n\nYou can use Secrets to improve your captain's skills (by talking to Officers), or for some key stories.",
+        "Name": "Fragmente",
+        "Description": "Du erhältst Fragmente, wenn du neue Orte entdeckst. Sammle genug davon, und du erhältst ein Geheimnis. \n\nDu kannst Geheimnisse nutzen, um die Fähigkeiten deines Kapitäns zu verbessern (indem du mit Offizieren sprichst) oder für einige wichtige Geschichten.",
         "ShouldPause": false
     },
     {
         "Id": 10,
-        "Name": "Docking",
-        "Description": "To visit this port, click the dock button.",
+        "Name": "Anlegen",
+        "Description": "Um diesen Hafen zu besuchen, klicke auf die Anlegen-Schaltfläche.",
         "ShouldPause": false
     },
     {
         "Id": 11,
-        "Name": "Secrets",
-        "Description": "You can spend Secrets to improve your abilities. To do so, right-click on an officer to start a conversation.",
+        "Name": "Geheimnisse",
+        "Description": "Du kannst Geheimnisse ausgeben, um deine Fähigkeiten zu verbessern. Klicke dazu mit der rechten Maustaste auf einen Offizier, um ein Gespräch zu beginnen.",
         "ShouldPause": false
     },
     {
         "Id": 12,
-        "Name": "Something Awaits You",
-        "Description": "After a short time at zee, a lamp icon will appear above the log book. It means that opportunities await you at the next port.",
+        "Name": "Etwas erwartet dich",
+        "Description": "Nach kurzer Zeit auf Zee erscheint ein Lampensymbol über dem Logbuch. Es bedeutet, dass dich im nächsten Hafen Gelegenheiten erwarten.",
         "ShouldPause": false
     },
     {
         "Id": 13,
-        "Name": "Ports",
-        "Description": "That circle of light is a port! Go there for stories.",
+        "Name": "Häfen",
+        "Description": "Dieser Lichtkreis ist ein Hafen! Geh dorthin für Geschichten.",
         "ShouldPause": false
     },
     {
         "Id": 14,
-        "Name": "Zee-bat",
-        "Description": "When you are far from land, click on the zee-bat icon. It will search for undiscovered locations nearby.",
+        "Name": "Zee-Bat",
+        "Description": "Wenn du weit von Land entfernt bist, klicke auf das Zee-Bat-Symbol. Es sucht nach unentdeckten Orten in der Nähe.",
         "ShouldPause": false
     },
     {
         "Id": 15,
-        "Name": "Zee-bat ",
-        "Description": "Your zee-bat has discovered something! Click on the message to mark the location on your chart.",
+        "Name": "Zee-Bat ",
+        "Description": "Deine Zee-Bat hat etwas entdeckt! Klicke auf die Nachricht, um den Ort auf deiner Karte zu markieren.",
         "ShouldPause": false
     },
     {
         "Id": 16,
-        "Name": "Chart",
-        "Description": "Click on the chart icon to view your discoveries so far.",
+        "Name": "Karte",
+        "Description": "Klicke auf das Karten-Symbol, um deine bisherigen Entdeckungen zu sehen.",
         "ShouldPause": false
     },
     {
         "Id": 17,
-        "Name": "Keyboard shortcuts",
-        "Description": "Most icons have keyboard shortcuts - mouse over to see them.",
+        "Name": "Tastenkürzel",
+        "Description": "Die meisten Symbole haben Tastenkürzel – fahre mit der Maus darüber, um sie zu sehen.",
         "ShouldPause": false
     },
     {
         "Id": 18,
-        "Name": "Combat",
-        "Description": "You've encountered an opponent! The red arc shows the range of your deck gun. Keep the enemy in range while your crew works out a firing solution. \n\nThis will happen faster if you keep the enemy in your prow light. The deck gun will be highlighted as your crew make progress towards a firing solution. (Press space or close the tutorial to continue.)",
+        "Name": "Kampf",
+        "Description": "Du bist einem Gegner begegnet! Der rote Bogen zeigt die Reichweite deiner Deckkanone. Halte den Gegner in Reichweite, während deine Crew eine Feuerlösung ermittelt. \n\nDas geht schneller, wenn du den Gegner im Buglicht hältst. Die Deckkanone wird hervorgehoben, wenn deine Crew Fortschritte bei der Feuerlösung macht. (Drücke die Leertaste oder schließe das Tutorial, um fortzufahren.)",
         "ShouldPause": true
     },
     {
         "Id": 19,
-        "Name": "Full power to the engines!",
-        "Description": "If you ever need an extra turn of speed, clicking the full power icon will add another barrel of fuel to the engine. This is occasionally hazardous.",
+        "Name": "Volle Kraft voraus!",
+        "Description": "Wenn du einmal einen zusätzlichen Geschwindigkeitsschub brauchst, fügt ein Klick auf das Volle-Kraft-Symbol dem Motor ein weiteres Fass Treibstoff hinzu. Das ist gelegentlich riskant.",
         "ShouldPause": true
     },
     {
         "Id": 20,
-        "Name": "Firing solution",
-        "Description": "Your firing solution is ready! To attack your opponent, click on the deck weapon.",
+        "Name": "Feuerlösung",
+        "Description": "Deine Feuerlösung ist bereit! Klicke auf die Deckwaffe, um den Gegner anzugreifen.",
         "ShouldPause": false
     },
     {
         "Id": 21,
-        "Name": "Claiming your prize",
-        "Description": "Congratulations! You've defeated your opponent. Move to the site of their demise to salvage something.",
+        "Name": "Deinen Preis einfordern",
+        "Description": "Glückwunsch! Du hast deinen Gegner besiegt. Fahre zur Stelle seines Untergangs, um etwas zu bergen.",
         "ShouldPause": false
     },
     {
         "Id": 22,
-        "Name": "Hull Damage",
-        "Description": "Your hull is damaged! You can repair it in London's drydocks, or at zee by clicking the repair button. Repairs at zee are slow and consume supplies.",
+        "Name": "Rumpfschaden",
+        "Description": "Dein Rumpf ist beschädigt! Du kannst ihn in Londons Trockendocks reparieren oder auf Zee, indem du auf die Reparieren-Schaltfläche klickst. Reparaturen auf Zee sind langsam und verbrauchen Vorräte.",
         "ShouldPause": false
     },
     {
         "Id": 23,
-        "Name": "Supplies",
-        "Description": "You're low on supplies. Once you run out your crew will begin to starve. You can buy more in certain ports.",
+        "Name": "Vorräte",
+        "Description": "Deine Vorräte gehen zur Neige. Wenn sie aufgebraucht sind, beginnt deine Crew zu hungern. In manchen Häfen kannst du mehr kaufen.",
         "ShouldPause": false
     },
     {
         "Id": 24,
-        "Name": "Fuel",
-        "Description": "You're low on fuel. Buy more before you run out, or you will be stranded in the dark.",
+        "Name": "Treibstoff",
+        "Description": "Dein Treibstoff wird knapp. Kauf mehr, bevor er ausgeht, sonst strandest du in der Dunkelheit.",
         "ShouldPause": false
     },
     {
         "Id": 25,
         "Name": "Crew",
-        "Description": "You've lost a crew member. Lose too many and your speed will be reduced; lose them all and you too will die. You can always engage more in London, and sometimes other ports.",
+        "Description": "Du hast ein Crewmitglied verloren. Verlierst du zu viele, sinkt deine Geschwindigkeit; verlierst du alle, wirst auch du sterben. In London kannst du immer neue anheuern, und manchmal auch in anderen Häfen.",
         "ShouldPause": false
     },
     {
         "Id": 26,
-        "Name": "Terror ",
-        "Description": "Your crew's terror is reaching dangerous levels. You can lower it in certain ports, and slow its rise by staying close to land and keeping your prow light on.",
+        "Name": "Schrecken ",
+        "Description": "Der Schrecken deiner Crew erreicht gefährliche Ausmaße. Du kannst ihn in bestimmten Häfen senken und seinen Anstieg verlangsamen, indem du nahe an Land bleibst und dein Buglicht eingeschaltet lässt.",
         "ShouldPause": false
     },
     {
         "Id": 27,
-        "Name": "Damage",
-        "Description": "Careful! Your hull just took damage from a collision. If you have trouble steering around rocks, try slowing down or going backwards with the S key.",
+        "Name": "Schaden",
+        "Description": "Vorsicht! Dein Rumpf hat durch eine Kollision Schaden genommen. Wenn du Schwierigkeiten hast, um Felsen zu manövrieren, versuche langsamer zu fahren oder mit der S-Taste rückwärts zu gehen.",
         "ShouldPause": false
     },
     {
         "Id": 28,
-        "Name": "Hold",
-        "Description": "Your hold is almost full. If you exceed your maximum cargo capacity while outside port, you'll have to throw some overboard.",
+        "Name": "Laderaum",
+        "Description": "Dein Laderaum ist fast voll. Wenn du außerhalb eines Hafens deine maximale Frachtkapazität überschreitest, musst du etwas über Bord werfen.",
         "ShouldPause": false
     },
     {
         "Id": 29,
-        "Name": "Hull Damage ",
-        "Description": "Your hull is below half strength! Enemy attacks may now do additional damage to your terror, crew, or supplies.",
+        "Name": "Rumpfschaden ",
+        "Description": "Dein Rumpf ist unter halber Stärke! Feindliche Angriffe können nun zusätzlichen Schaden an Schrecken, Crew oder Vorräten verursachen.",
         "ShouldPause": false
     },
     {
         "Id": 30,
         "Name": "Horn",
-        "Description": "Pressing the H key will blow your horn. This has no useful function, and may provoke nearby zee-beasts or hostile vessels.",
+        "Description": "Mit der H-Taste bläst du dein Horn. Das hat keine nützliche Funktion und kann nahe Zee-Bestien oder feindliche Schiffe provozieren.",
         "ShouldPause": false
     },
     {
         "Id": 31,
-        "Name": "Such wealth!",
-        "Description": "You've earned enough Echoes to buy better equipment for your ship! Click on the shops tab. A new engine or deck weapon would be a good first purchase.",
+        "Name": "Welch ein Reichtum!",
+        "Description": "Du hast genug Echos verdient, um bessere Ausrüstung für dein Schiff zu kaufen! Klicke auf den Reiter Händler. Ein neuer Motor oder eine neue Deckwaffe wäre eine gute erste Anschaffung.",
         "ShouldPause": false
     },
     {
         "Id": 32,
-        "Name": "Well provisioned",
-        "Description": "You are now well provisioned! Try venturing further from London. The risks are greater, but so are the rewards.",
+        "Name": "Gut versorgt",
+        "Description": "Du bist jetzt gut versorgt! Wage dich weiter von London weg. Die Risiken sind größer, aber die Belohnungen auch.",
         "ShouldPause": false
     },
     {
         "Id": 33,
-        "Name": "Submerging",
-        "Description": "You're now the proud owner of a zubmersible ship! Use the 'Submerge' button to convert your ship into a zubmarine. Use the same button when underwater to resurface.",
+        "Name": "Abtauchen",
+        "Description": "Du bist jetzt der stolze Besitzer eines Zubmersibles! Nutze die Schaltfläche „Abtauchen“, um dein Schiff in ein Zubmarin zu verwandeln. Unter Wasser nutzt du dieselbe Schaltfläche, um wieder aufzutauchen.",
         "ShouldPause": false
     },
     {
         "Id": 34,
         "Name": "Sonar",
-        "Description": "Sonar lets you see beneath the zee. When underwater, it highlights nearby obstacles, discoveries and creatures with a dim blue glow. You'll have to get closer to find out what they are",
+        "Description": "Sonar lässt dich unter die Zee blicken. Unter Wasser hebt es nahe Hindernisse, Entdeckungen und Kreaturen mit einem matten blauen Leuchten hervor. Du musst näher heran, um herauszufinden, was sie sind",
         "ShouldPause": false
     }
 ]

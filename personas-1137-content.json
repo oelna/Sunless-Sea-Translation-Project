@@ -1004,7 +1004,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "ModestlyArmed",
-        "Description": "Modestly dangerous armed land band. NB the 9 on the end of the Iron is for \/10 +1 rounding in the relevant Acts",
+        "Description": "Modestly dangerous armed land band. NB the 9 on the end of the Iron is for /10 +1 rounding in the relevant Acts",
         "Setting": {
             "Id": 100233
         },
