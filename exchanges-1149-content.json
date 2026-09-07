@@ -1,14 +1,14 @@
 [
     {
         "Name": "London",
-        "Title": "Merchants",
+        "Title": "Händler",
         "Image": "fallenlondon_port",
-        "Description": "Cargoes, treasures, weapons, secrets. Mischief.",
+        "Description": "Frachten, Schätze, Waffen, Geheimnisse. Unfug.",
         "Shops": [
             {
-                "Name": "Wolfstack Exchange",
+                "Name": "Wolfstack-Börse",
                 "Image": "wolfstackdocks_port",
-                "Description": "Trading in common goods will only earn slim profits. Seek other opportunities.\n",
+                "Description": "Gewöhnliche Handelswaren bringen nur schmale Gewinne. Suche andere Gelegenheiten.\n",
                 "Ordering": 1,
                 "Availabilities": [
                     {
@@ -172,9 +172,9 @@
                 "Id": 13
             },
             {
-                "Name": "The Iron & Misery Company",
+                "Name": "Die Eisen & Elend-Gesellschaft",
                 "Image": "chap8",
-                "Description": "[More powerful engines consume more fuel, but increase speed - essential for large slow ships.]",
+                "Description": "[Stärkere Maschinen verbrauchen mehr Treibstoff, erhöhen aber die Fahrt – unverzichtbar für große, träge Schiffe.]",
                 "Ordering": 4,
                 "Availabilities": [
                     {
@@ -334,9 +334,9 @@
                 "Id": 14
             },
             {
-                "Name": "Carrow's Naval Surplus",
+                "Name": "Carrows Marine-Restbestände",
                 "Image": "genericmale1",
-                "Description": "Mr Carrow has found a use for the equipment once sold to the sadly reduced Royal Navy. ",
+                "Description": "Mr Carrow weiß etwas mit der Ausrüstung anzufangen, die einst der bedauerlich geschrumpften Royal Navy gehörte. ",
                 "Ordering": 2,
                 "Availabilities": [
                     {
@@ -487,9 +487,9 @@
                 "Id": 16
             },
             {
-                "Name": "Caminus Yards",
+                "Name": "Caminus-Werften",
                 "Image": "master2",
-                "Description": "The dangerously jovial Mr Fires manufactures the most intimidating, least carefully tested devices.",
+                "Description": "Der gefährlich leutselige Mr Fires fertigt die furchteinflößendsten und am wenigsten erprobten Gerätschaften.",
                 "Ordering": 3,
                 "Availabilities": [
                     {
@@ -582,9 +582,9 @@
                 "Id": 33
             },
             {
-                "Name": "Mrs Plenty's Shipside Provisioners",
+                "Name": "Mrs Plentys Schiffskost",
                 "Image": "mrsplenty",
-                "Description": "A profitable sideline for the notorious carnival entrepreneuse.",
+                "Description": "Ein einträgliches Nebengeschäft der berüchtigten Jahrmarktsunternehmerin.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -595,8 +595,8 @@
                         "PurchaseQuality": {
                             "Id": 102028
                         },
-                        "BuyMessage": "test buy!",
-                        "SellMessage": "test sell!",
+                        "BuyMessage": "Testkauf!",
+                        "SellMessage": "Testverkauf!",
                         "Id": 431
                     },
                     {
@@ -608,8 +608,8 @@
                         "PurchaseQuality": {
                             "Id": 102028
                         },
-                        "BuyMessage": "test buy!",
-                        "SellMessage": "test sell!",
+                        "BuyMessage": "Testkauf!",
+                        "SellMessage": "Testverkauf!",
                         "Id": 432
                     },
                     {
@@ -658,9 +658,9 @@
                 "Id": 34
             },
             {
-                "Name": "Bultitude's House of Vision",
+                "Name": "Bultitudes Haus der Sicht",
                 "Image": "chap7",
-                "Description": "Bultitude's political convictions may be suspect, but his ship's lights are reliably excellent.",
+                "Description": "Bultitudes politische Gesinnung mag zweifelhaft sein; seine Schiffsleuchten sind verlässlich vorzüglich.",
                 "Ordering": 5,
                 "Availabilities": [
                     {
@@ -744,10 +744,10 @@
         "Name": "Polythreme",
         "Title": "Polythreme",
         "Image": "polythreme_port",
-        "Description": "BUY. SELL.",
+        "Description": "KAUFEN. VERKAUFEN.",
         "Shops": [
             {
-                "Name": "Temple of Labours",
+                "Name": "Tempel der Mühen",
                 "Image": "clayman6",
                 "Description": "BRING MATERIAL.",
                 "Availabilities": [
@@ -803,15 +803,15 @@
         "Id": 13
     },
     {
-        "Name": "Port Carnelian Market",
-        "Title": "Port Carnelian Market",
+        "Name": "Markt von Port Karneol",
+        "Title": "Markt von Port Karneol",
         "Image": "sapphire",
-        "Description": "Not just sapphires. Although there are quite a lot of sapphires.",
+        "Description": "Nicht nur Saphire. Allerdings ziemlich viele Saphire.",
         "Shops": [
             {
-                "Name": "Dockside Market",
+                "Name": "Kaimarkt",
                 "Image": "banknotes",
-                "Description": "The stalls are almost the same as Wolfstack. So are the sounds. The scents are utterly different.",
+                "Description": "Die Stände gleichen fast denen von Wolfstack. Die Geräusche auch. Die Gerüche sind völlig anders.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -860,9 +860,9 @@
                 "Id": 20
             },
             {
-                "Name": "Sapphire Exchange",
+                "Name": "Saphirbörse",
                 "Image": "sapphire",
-                "Description": "Actually, this place is indeed mostly sapphires.",
+                "Description": "Hier sind es tatsächlich überwiegend Saphire.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -925,14 +925,14 @@
         "Id": 4
     },
     {
-        "Name": "Adam's Way",
+        "Name": "Adams Weg",
         "Image": "mountainglow",
-        "Description": "The gateway to the Continent's treasures.",
+        "Description": "Das Tor zu den Schätzen des Kontinents.",
         "Shops": [
             {
-                "Name": "Peleghast's Post",
+                "Name": "Peleghasts Kontor",
                 "Image": "bohogirl7",
-                "Description": "The sign at the door reads: LICENSED FOR MORTAL TRADE",
+                "Description": "Das Türschild verkündet: ZUGELASSEN FÜR DEN HANDEL MIT STERBLICHEN",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1017,14 +1017,14 @@
         "Id": 5
     },
     {
-        "Name": "Market of Hungers",
+        "Name": "Markt der Begierden",
         "Image": "delirium",
-        "Description": "Use a MARKET OF HUNGERS choice under STORY to access more goods.",
+        "Description": "Wähle unter GESCHICHTE den MARKT DER BEGIERDEN, um weitere Waren zu finden.",
         "Shops": [
             {
-                "Name": "Fire in the Belly",
+                "Name": "Feuer im Bauch",
                 "Image": "volcano",
-                "Description": "The Market always sells Fuel. Use a MARKET story choice for more goods.",
+                "Description": "Der Markt verkauft stets Treibstoff. Weitere Waren findest du über eine MARKT-Option in der Geschichte.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1047,14 +1047,14 @@
         "Id": 17
     },
     {
-        "Name": "Tomb-Colonies",
+        "Name": "Grabkolonien",
         "Image": "venderbight",
-        "Description": "Cobwebbed harbours of antique stone.",
+        "Description": "Spinnwebverhangene Häfen aus uraltem Stein.",
         "Shops": [
             {
-                "Name": "Arcade of Sighs",
+                "Name": "Arkaden der Seufzer",
                 "Image": "banknotes",
-                "Description": "Here the solemn bandaged merchants of the colonies trade old cold coins for brighter things.",
+                "Description": "Hier tauschen die ernsten, bandagierten Händler der Kolonien alte, kalte Münzen gegen hellere Dinge.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1114,9 +1114,9 @@
                 "Id": 29
             },
             {
-                "Name": "Hollow Temple",
+                "Name": "Hohler Tempel",
                 "Image": "ruins2",
-                "Description": "The image of a long-snouted reptile god still stands in the temple, but now storytellers gather here. ",
+                "Description": "Noch steht das Bildnis eines langschnäuzigen Reptiliengottes im Tempel, doch heute versammeln sich hier Geschichtenerzähler. ",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1165,9 +1165,9 @@
                 "Id": 30
             },
             {
-                "Name": "The Charnel Lounge",
+                "Name": "Beinhaussalon",
                 "Image": "coffin",
-                "Description": "Do you have tomb-colonists? Drop them off here for payment.",
+                "Description": "Grabkolonisten an Bord? Setze sie hier gegen Bezahlung ab.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1190,15 +1190,15 @@
         "Id": 7
     },
     {
-        "Name": "Scattered Stalls",
-        "Title": "Scattered Stalls",
+        "Name": "Verstreute Stände",
+        "Title": "Verstreute Stände",
         "Image": "lantern",
-        "Description": "Scattered stalls on the dock-side.",
+        "Description": "Verstreute Stände am Kai.",
         "Shops": [
             {
-                "Name": "Harbour Provisioners",
+                "Name": "Hafenausrüster",
                 "Image": "sailor",
-                "Description": "A sluggish and hostile merchant squints warily. A few goods of indifferent quality are available.",
+                "Description": "Ein träger, abweisender Händler blinzelt misstrauisch. Ein paar Waren von mäßiger Güte stehen feil.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1234,14 +1234,14 @@
         "Id": 8
     },
     {
-        "Name": "Nephrite Quarter",
-        "Title": "Come buy.",
+        "Name": "Nephritviertel",
+        "Title": "Kommt und kauft.",
         "Image": "bazaartears",
         "Shops": [
             {
-                "Name": "Licensed Exchange",
+                "Name": "Konzessionierte Börse",
                 "Image": "khansheart_port",
-                "Description": "High prices for feathers blue as the lost sky; and a few other plums.",
+                "Description": "Hohe Preise für Federn, blau wie der verlorene Himmel; und ein paar andere Leckerbissen.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1350,9 +1350,9 @@
                 "Id": 17
             },
             {
-                "Name": "Red Stallion Publishing",
+                "Name": "Verlag Roter Hengst",
                 "Image": "bookred",
-                "Description": "Scrolls, pamphlets, and books in a dozen languages.",
+                "Description": "Schriftrollen, Flugschriften und Bücher in einem Dutzend Sprachen.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1369,9 +1369,9 @@
                 "Id": 18
             },
             {
-                "Name": "Shipyard",
+                "Name": "Werft",
                 "Image": "ship2",
-                "Description": "Equipment",
+                "Description": "Ausrüstung",
                 "Availabilities": [],
                 "QualitiesRequired": [],
                 "Id": 19
@@ -1383,15 +1383,15 @@
         "Id": 3
     },
     {
-        "Name": "Whither",
-        "Title": "Whither",
+        "Name": "Wohin",
+        "Title": "Wohin",
         "Image": "whither_port",
-        "Description": "Where are questions born?",
+        "Description": "Wo werden Fragen geboren?",
         "Shops": [
             {
                 "Name": "Fortune & Fortune",
                 "Image": "fezman",
-                "Description": "Purveyors of white coke and mutersalt. Payment in stories.",
+                "Description": "Lieferanten von weißem Koks und Stummsalz. Bezahlt wird in Geschichten.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1418,9 +1418,9 @@
                 "Id": 37
             },
             {
-                "Name": "The Hunter's Cage",
+                "Name": "Jägers Käfig",
                 "Image": "passerby",
-                "Description": "A sign reads: BONES PLEASE. The proprietor will sell you beast-meat for stories, or buy your ivory.",
+                "Description": "Auf einem Schild steht: KNOCHEN BITTE. Der Inhaber verkauft Bestienfleisch für Geschichten oder kauft dein Elfenbein.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1488,9 +1488,9 @@
         "Image": "portpalmerston",
         "Shops": [
             {
-                "Name": "Malebolge Excavations",
+                "Name": "Malebolge-Grabungen",
                 "Image": "dig",
-                "Description": "Diggery, lootery and scholary! Also, zzoup.",
+                "Description": "Gräberei, Plünderei und Gelehrsamkeit! Auch: Zuppe.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1538,9 +1538,9 @@
                 "Id": 27
             },
             {
-                "Name": "Daily Bread",
+                "Name": "Täglich Brot",
                 "Image": "bread",
-                "Description": "Palmerston's pernicious pollution poisons provisions.",
+                "Description": "Palmerstons pestilenter Qualm vergiftet den Proviant.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1564,15 +1564,15 @@
         "Id": 12
     },
     {
-        "Name": "Corsair's Forest",
-        "Title": "Corsair's Forest",
+        "Name": "Korsarenwald",
+        "Title": "Korsarenwald",
         "Image": "corsairsforest_port",
-        "Description": "Loot for sale or rent.",
+        "Description": "Beute zu kaufen oder zu leihen.",
         "Shops": [
             {
-                "Name": "The Arrant Limpet",
+                "Name": "Die dreiste Napfschnecke",
                 "Image": "drunk",
-                "Description": "Always eager for wine and honey. Their supply prices are calibrated for corsairs.",
+                "Description": "Stets begierig auf Wein und Honig. Die Preise für Vorräte sind auf Korsaren zugeschnitten.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1632,9 +1632,9 @@
                 "Id": 24
             },
             {
-                "Name": "The Friendly Face",
+                "Name": "Das freundliche Gesicht",
                 "Image": "greeneye",
-                "Description": "Of course you can sell illicit goods here. And of course you can't expect to get a fair price.",
+                "Description": "Natürlich kannst du hier verbotene Waren verkaufen. Und natürlich darfst du keinen ehrlichen Preis erwarten.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1698,14 +1698,14 @@
         "Id": 11
     },
     {
-        "Name": "The Calvary Doctrine",
+        "Name": "Die Golgatha-Doktrin",
         "Image": "hallowmass",
-        "Description": "Sacrifice what is needful, and gain that which is desirable.",
+        "Description": "Opfere, was nötig ist, und erlange, was begehrenswert ist.",
         "Shops": [
             {
-                "Name": "The House of Milks",
+                "Name": "Das Haus der Milchsorten",
                 "Image": "sunderedsea",
-                "Description": "Coffee and fuel drip from dragon-teats. ",
+                "Description": "Kaffee und Treibstoff tropfen aus Drachenzitzen. ",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1758,14 +1758,14 @@
         "Id": 14
     },
     {
-        "Name": "The Gesundheit Conspiracy",
+        "Name": "Die Gesundheit-Verschwörung",
         "Image": "bread",
-        "Description": "You will be happy, and healthy. Nothing else remains.",
+        "Description": "Du wirst glücklich sein. Und gesund. Nichts anderes bleibt.",
         "Shops": [
             {
-                "Name": "House of Harvests",
+                "Name": "Haus der Ernten",
                 "Image": "heart2",
-                "Description": "\"Take,\" the merchants tell you. \"Eat. Only let us drink.\"",
+                "Description": "„Nimm“, sagen die Händler. „Iss. Lass uns nur trinken.“",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1828,14 +1828,14 @@
         "Id": 15
     },
     {
-        "Name": "The Parliament of Flies",
+        "Name": "Das Fliegenparlament",
         "Image": "blowfly",
-        "Description": "Flies. Listen.",
+        "Description": "Fliegen. Lausche.",
         "Shops": [
             {
-                "Name": "House of Pleasures",
+                "Name": "Haus der Freuden",
                 "Image": "maggot",
-                "Description": "The flies will caress you with their wings. Hurry up and purchase something.",
+                "Description": "Die Fliegen werden dich mit ihren Flügeln liebkosen. Kauf rasch etwas.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1910,12 +1910,12 @@
     {
         "Name": "Expulsus",
         "Image": "bloodstain",
-        "Description": "GIVE BONE TAKE SPIRIT",
+        "Description": "GIB KNOCHEN NIMM GEIST",
         "Shops": [
             {
-                "Name": "House of Harms",
+                "Name": "Haus der Leiden",
                 "Image": "appallingsecret",
-                "Description": "Today, the law is suffering.",
+                "Description": "Heute ist das Gesetz Leiden.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -1968,14 +1968,14 @@
         "Id": 16
     },
     {
-        "Name": "A Notch in the Shell",
+        "Name": "Eine Kerbe im Panzer",
         "Image": "chelonate_port",
-        "Description": "Skin-and-bone stalls crowd a narrow space.",
+        "Description": "Stände aus Haut und Knochen drängen sich auf engstem Raum.",
         "Shops": [
             {
-                "Name": "Uncle Ankle's Lean Place",
+                "Name": "Onkel Knöchels magere Stube",
                 "Image": "harpoon",
-                "Description": "Be welcome! Here are trophies!",
+                "Description": "Willkommen! Hier gibt es Trophäen!",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2038,15 +2038,15 @@
         "Id": 19
     },
     {
-        "Name": "A Bountiful Exchange",
-        "Title": "A Bountiful Exchange",
+        "Name": "Ein reichlicher Tausch",
+        "Title": "Ein reichlicher Tausch",
         "Image": "avatar_female4",
-        "Description": "How kind are the many-legged neighbours, to sell their gifts so cheaply!",
+        "Description": "Wie gütig die vielbeinigen Nachbarn doch sind, ihre Gaben so billig zu verkaufen!",
         "Shops": [
             {
-                "Name": "Spinner's Delight",
+                "Name": "Spinners Wonne",
                 "Image": "spidersilk",
-                "Description": "Come in; come in. Touch our goods. Caress them.",
+                "Description": "Herein, herein. Berühre unsere Waren. Liebkose sie.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2069,15 +2069,15 @@
         "Id": 20
     },
     {
-        "Name": "The Last Market",
-        "Title": "The Last Market",
+        "Name": "Der letzte Markt",
+        "Title": "Der letzte Markt",
         "Image": "aboard",
-        "Description": "Beyond this place, who knows?",
+        "Description": "Was dahinter liegt – wer weiß?",
         "Shops": [
             {
-                "Name": "The Fisher of Dawn",
+                "Name": "Der Morgenrötenfischer",
                 "Image": "scrap2",
-                "Description": "This one will find treasures in a river beyond sleep. Bring a suitable antiphon.",
+                "Description": "Dieser wird Schätze in einem Fluss jenseits des Schlafs finden. Bringe einen passenden Wechselgesang.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2184,9 +2184,9 @@
                 "Id": 45
             },
             {
-                "Name": "Threshold",
+                "Name": "Schwelle",
                 "Image": "boat_basic",
-                "Description": "None sail East from Irem. This shop is for those who sail East from Irem.",
+                "Description": "Niemand fährt von Irem gen Osten. Dieser Laden ist für jene, die von Irem gen Osten fahren.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2243,9 +2243,9 @@
                 "Id": 46
             },
             {
-                "Name": "Wind-Come-Calling",
+                "Name": "Wind-der-anruft",
                 "Image": "st_mountains",
-                "Description": "Tales and tales and tales.",
+                "Description": "Geschichten, Geschichten, Geschichten.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2345,9 +2345,9 @@
         "Description": "NUUUUNCIO!",
         "Shops": [
             {
-                "Name": "The Scuttering Company (Marine Element)",
+                "Name": "Die Trippelkompanie (Marineabteilung)",
                 "Image": "scutteringcompany",
-                "Description": "The Company: ruthless, utterly professional, and the whole lot of them would fit in three big suitcases. They operate out of an undisclosed baronet's pantry. Now, they're extending their operations to the zee.",
+                "Description": "Die Kompanie: skrupellos, durch und durch professionell, und allesamt in drei großen Koffern unterzubringen. Ihr Hauptquartier ist die Speisekammer eines ungenannten Baronets. Nun weiten sie ihre Geschäfte auf die Zee aus.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2380,15 +2380,15 @@
         "Id": 9
     },
     {
-        "Name": "Freemarket",
-        "Title": "Freemarket",
+        "Name": "Freimarkt",
+        "Title": "Freimarkt",
         "Image": "khansshadow_port",
-        "Description": "Trade unfettered by the Khanate's law.",
+        "Description": "Handel, frei von den Fesseln des khanatischen Rechts.",
         "Shops": [
             {
-                "Name": "Dearly Departed",
+                "Name": "Teure Verblichene",
                 "Image": "remains",
-                "Description": "Purchase what remains.",
+                "Description": "Kaufe, was übrig bleibt.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2455,9 +2455,9 @@
                 "Id": 42
             },
             {
-                "Name": "Traveller's Friend",
+                "Name": "Des Reisenden Freund",
                 "Image": "mechanism",
-                "Description": "Fuel, supplies, and wonders.",
+                "Description": "Treibstoff, Vorräte und Wunder.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2544,14 +2544,14 @@
         "Id": 18
     },
     {
-        "Name": "The Gant Pole",
+        "Name": "Der Gantpol",
         "Image": "carcass",
-        "Description": "Where pocket-watches go to die.",
+        "Description": "Wohin Taschenuhren zum Sterben gehen.",
         "Shops": [
             {
-                "Name": "Jonah's End",
+                "Name": "Jonas Ende",
                 "Image": "servant",
-                "Description": "A naive merchant came here in search of glory. He now makes his living selling less-rancid meat to any customer he can find.",
+                "Description": "Ein argloser Händler kam auf der Suche nach Ruhm hierher. Nun lebt er davon, jedem Kunden, den er findet, weniger ranziges Fleisch zu verkaufen.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2592,7 +2592,7 @@
             {
                 "Name": "Portentum",
                 "Image": "bloodstain",
-                "Description": "The Haruspex's disciples will take life, give death. Not yours, obviously.",
+                "Description": "Die Schüler des Haruspex nehmen Leben, geben Tod. Deinen natürlich nicht.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2645,14 +2645,14 @@
         "Id": 30
     },
     {
-        "Name": "The Fortas Kettle",
+        "Name": "Der Fortas-Kessel",
         "Image": "fluke",
-        "Description": "A restrained research vessel.",
+        "Description": "Ein festgehaltenes Forschungsschiff.",
         "Shops": [
             {
-                "Name": "Requisitions",
+                "Name": "Materialausgabe",
                 "Image": "flukes",
-                "Description": "A grounded zubmarine has little need for fuel. Its occupants, however, have a great need for coffee.",
+                "Description": "Ein gestrandetes Zeeboot braucht kaum Treibstoff. Seine Insassen hingegen brauchen dringend Kaffee.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2740,12 +2740,12 @@
     {
         "Name": "Anthe",
         "Image": "scintillack",
-        "Description": "A city of flowering crystal.",
+        "Description": "Eine Stadt aus blühendem Kristall.",
         "Shops": [
             {
-                "Name": "Stonemarket",
+                "Name": "Steinmarkt",
                 "Image": "emerald",
-                "Description": "Jewels; coral; rocks.",
+                "Description": "Juwelen; Korallen; Steine.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2810,14 +2810,14 @@
         "Id": 23
     },
     {
-        "Name": "Nook",
+        "Name": "Schlupfwinkel",
         "Image": "crush",
-        "Description": "Teeth.",
+        "Description": "Zähne.",
         "Shops": [
             {
-                "Name": "The Yawning Maw",
+                "Name": "Der gähnende Schlund",
                 "Image": "cudgeltooth",
-                "Description": "A scattered assembly of traders, smugglers and shoppers.",
+                "Description": "Eine lose Ansammlung von Händlern, Schmugglern und Käufern.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2894,12 +2894,12 @@
     {
         "Name": "Scrimshander",
         "Image": "skeleton",
-        "Description": "Ivory and historiography.",
+        "Description": "Elfenbein und Geschichtsschreibung.",
         "Shops": [
             {
-                "Name": "Remainder",
+                "Name": "Überreste",
                 "Image": "skull",
-                "Description": "History is sacred. Ivory, less so.",
+                "Description": "Geschichte ist heilig. Elfenbein weniger.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -2996,12 +2996,12 @@
     {
         "Name": "Dahut",
         "Image": "drownie_bearded",
-        "Description": "Here: peace.",
+        "Description": "Hier: Frieden.",
         "Shops": [
             {
-                "Name": "Dahut Exchange",
+                "Name": "Dahuter Börse",
                 "Image": "drownie_female",
-                "Description": "It could almost be Wolfstack.",
+                "Description": "Es könnte beinahe Wolfstack sein.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -3066,14 +3066,14 @@
         "Id": 27
     },
     {
-        "Name": "Prospering Wrack",
+        "Name": "Blühendes Wrack",
         "Image": "fist",
-        "Description": "A city of delights.",
+        "Description": "Eine Stadt der Genüsse.",
         "Shops": [
             {
-                "Name": "Hull-harvest",
+                "Name": "Rumpfernte",
                 "Image": "iron",
-                "Description": "Wrack is no longer hungers. It has other appetites to feed.",
+                "Description": "Wrack hungert nicht mehr. Es hat andere Begierden zu stillen.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -3159,14 +3159,14 @@
         "Id": 29
     },
     {
-        "Name": "Struggling Wrack",
+        "Name": "Darbendes Wrack",
         "Image": "steal",
-        "Description": "A city of sallow wreckers.",
+        "Description": "Eine Stadt bleicher Strandräuber.",
         "Shops": [
             {
-                "Name": "Hull-harvest",
+                "Name": "Rumpfernte",
                 "Image": "iron",
-                "Description": "Wrack is replete with delights, but supplies are depleted.",
+                "Description": "Wrack schwelgt in Genüssen, doch die Vorräte schwinden.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -3241,14 +3241,14 @@
         "Id": 28
     },
     {
-        "Name": "Rosegate",
+        "Name": "Rosentor",
         "Image": "fuel",
-        "Description": "The finest cigar shop above or below the waves.",
+        "Description": "Der feinste Zigarrenladen über wie unter den Wellen.",
         "Shops": [
             {
-                "Name": "Proving Ground",
+                "Name": "Prüfstand",
                 "Image": "enigma",
-                "Description": "The proprietor is interested in testing the limits of flammability.",
+                "Description": "Der Inhaber erprobt gern die Grenzen der Entflammbarkeit.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -3302,14 +3302,14 @@
         "Id": 31
     },
     {
-        "Name": "Low Barnet",
+        "Name": "Nieder-Barnet",
         "Image": "church",
-        "Description": "The bell still tolls.",
+        "Description": "Noch läutet die Glocke.",
         "Shops": [
             {
-                "Name": "Low Church",
+                "Name": "Niedere Kirche",
                 "Image": "declaim",
-                "Description": "Supplies for stories.",
+                "Description": "Vorräte für Geschichten.",
                 "Availabilities": [
                     {
                         "Quality": {
@@ -3342,14 +3342,14 @@
         "Id": 32
     },
     {
-        "Name": "Hideaway",
+        "Name": "Zuflucht",
         "Image": "fog",
-        "Description": "A place of refuge.",
+        "Description": "Ein Zufluchtsort.",
         "Shops": [
             {
-                "Name": "Exile Bazaar",
+                "Name": "Exilbasar",
                 "Image": "coast1",
-                "Description": "The people of Hideaway have little to offer; just some oddities from the zee-bed.",
+                "Description": "Zufluchts Bewohner haben wenig anzubieten; nur ein paar Seltsamkeiten vom Zeegrund.",
                 "Availabilities": [
                     {
                         "Quality": {

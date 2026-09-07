@@ -2,205 +2,205 @@
     {
         "Id": 1,
         "Name": "Dein Logbuch!",
-        "Description": "Ziele und der Fortschritt der Geschichte stehen auf der rechten Seite. Fahre mit der Maus über ein Symbol oder klicke auf die Kategorieüberschrift, um Details zu sehen.",
+        "Description": "Rechts findest du Ziele und den Stand deiner Geschichten. Bewege den Mauszeiger über ein Symbol oder klicke auf eine Kategorieüberschrift, um mehr zu erfahren.",
         "ShouldPause": false
     },
     {
         "Id": 2,
         "Name": "Deine Offiziere!",
-        "Description": "Linksklick und ziehen, um Offiziere zuzuweisen, oder Rechtsklick, um mit ihnen zu sprechen. Zugewiesene Offiziere geben Fähigkeitsboni.",
+        "Description": "Weise Offiziere durch Ziehen mit gedrückter linker Maustaste zu. Rechtsklick beginnt ein Gespräch. Zugewiesene Offiziere verbessern deine Fähigkeiten.",
         "ShouldPause": false
     },
     {
         "Id": 3,
-        "Name": "Händler",
-        "Description": "Hier kannst du Treibstoff, Vorräte, Schiffsausrüstung und Handelswaren kaufen. Die Händler werden links angezeigt. Klicke auf einen, um sein Angebot zu sehen.",
+        "Name": "Geschäfte",
+        "Description": "Hier kaufst du Treibstoff, Vorräte, Schiffsausrüstung und Handelswaren. Links stehen die Geschäfte. Klicke auf eines, um sein Angebot zu sehen.",
         "ShouldPause": false
     },
     {
         "Id": 4,
         "Name": "Echos",
-        "Description": "Londons Währung ist das Echo. Um Geld zu verdienen, erkunde die Karte und bring Hafenberichte und Schätze zurück. Du kannst auch handeln, aber Erkundung und Geschichten sind viel einträglicher.",
+        "Description": "Londons Währung ist das Echo. Erkunde die Karte und bringe Hafenberichte und Schätze heim, um Geld zu verdienen. Auch Handel ist möglich; Entdeckungen und Geschichten sind weit einträglicher.",
         "ShouldPause": false
     },
     {
         "Id": 5,
-        "Name": "Zail setzen",
-        "Description": "Klicke auf die Auslaufen-Schaltfläche, um den Hafen zu verlassen.",
+        "Name": "Auf zur Zee",
+        "Description": "Klicke auf „Auslaufen“, um den Hafen zu verlassen.",
         "ShouldPause": false
     },
     {
         "Id": 6,
         "Name": "Bewegung",
-        "Description": "Benutze die Tasten W, S, A, D zum Bewegen. Tippe W zweimal, um die Höchstgeschwindigkeit zu erreichen. Tippe S, um zu verlangsamen oder rückwärts zu fahren. Und nutze A und D zum Steuern.",
+        "Description": "Bewege dich mit W, S, A und D. Zweimal W bringt dich auf Höchstfahrt. S bremst oder lässt dich rückwärtsfahren. Mit A und D steuerst du.",
         "ShouldPause": false
     },
     {
         "Id": 7,
         "Name": "Schrecken",
-        "Description": "Wenn du grüne Positionslichter am Schiff siehst, bist du im Dunkeln, und der Schrecken deiner Crew steigt. Achte auf die Balken am Schrecken-Indikator. Er steigt schneller, wenn du weit von Land entfernt bist. Lass ihn nicht 100 erreichen.",
+        "Description": "Grüne Positionslichter am Schiff bedeuten: Du bist im Dunkeln, und der Schrecken deiner Besatzung steigt. Achte auf die Punkte der Schreckensanzeige. Fern von Land steigt er schneller. Lass ihn niemals 100 erreichen.",
         "ShouldPause": false
     },
     {
         "Id": 8,
         "Name": "Scheinwerfer",
-        "Description": "Dein Buglicht kann ein- oder ausgeschaltet werden. Wenn es an ist, sinkt die Geschwindigkeit, mit der du Schrecken sammelst, aber du wirst für Feinde sichtbarer.",
+        "Description": "Du kannst den Bugscheinwerfer ein- und ausschalten. Bei Licht wächst der Schrecken langsamer, doch Feinde können dich leichter entdecken.",
         "ShouldPause": false
     },
     {
         "Id": 9,
         "Name": "Fragmente",
-        "Description": "Du erhältst Fragmente, wenn du neue Orte entdeckst. Sammle genug davon, und du erhältst ein Geheimnis. \n\nDu kannst Geheimnisse nutzen, um die Fähigkeiten deines Kapitäns zu verbessern (indem du mit Offizieren sprichst) oder für einige wichtige Geschichten.",
+        "Description": "Du erhältst Fragmente, wenn du neue Orte entdeckst. Hast du genug gesammelt, gewinnst du ein Geheimnis. \n\nGeheimnisse verbessern deine Fähigkeiten, wenn du mit Offizieren sprichst. Auch manche wichtigen Geschichten verlangen danach.",
         "ShouldPause": false
     },
     {
         "Id": 10,
         "Name": "Anlegen",
-        "Description": "Um diesen Hafen zu besuchen, klicke auf die Anlegen-Schaltfläche.",
+        "Description": "Klicke auf „Anlegen“, um diesen Hafen zu besuchen.",
         "ShouldPause": false
     },
     {
         "Id": 11,
         "Name": "Geheimnisse",
-        "Description": "Du kannst Geheimnisse ausgeben, um deine Fähigkeiten zu verbessern. Klicke dazu mit der rechten Maustaste auf einen Offizier, um ein Gespräch zu beginnen.",
+        "Description": "Mit Geheimnissen verbesserst du deine Fähigkeiten. Beginne dazu per Rechtsklick ein Gespräch mit einem Offizier.",
         "ShouldPause": false
     },
     {
         "Id": 12,
         "Name": "Etwas erwartet dich",
-        "Description": "Nach kurzer Zeit auf Zee erscheint ein Lampensymbol über dem Logbuch. Es bedeutet, dass dich im nächsten Hafen Gelegenheiten erwarten.",
+        "Description": "Nach kurzer Zeit auf Zee erscheint eine Lampe über dem Logbuch. Im nächsten Hafen erwarten dich nun neue Gelegenheiten.",
         "ShouldPause": false
     },
     {
         "Id": 13,
         "Name": "Häfen",
-        "Description": "Dieser Lichtkreis ist ein Hafen! Geh dorthin für Geschichten.",
+        "Description": "Dieser Lichtkreis ist ein Hafen! Dort warten Geschichten.",
         "ShouldPause": false
     },
     {
         "Id": 14,
-        "Name": "Zee-Bat",
-        "Description": "Wenn du weit von Land entfernt bist, klicke auf das Zee-Bat-Symbol. Es sucht nach unentdeckten Orten in der Nähe.",
+        "Name": "Zeefledermaus",
+        "Description": "Klicke fern von Land auf das Zeefledermaus-Symbol. Sie sucht nach unentdeckten Orten in der Nähe.",
         "ShouldPause": false
     },
     {
         "Id": 15,
-        "Name": "Zee-Bat ",
-        "Description": "Deine Zee-Bat hat etwas entdeckt! Klicke auf die Nachricht, um den Ort auf deiner Karte zu markieren.",
+        "Name": "Zeefledermaus ",
+        "Description": "Deine Zeefledermaus hat etwas entdeckt! Klicke auf die Nachricht, um den Ort auf deiner Karte zu markieren.",
         "ShouldPause": false
     },
     {
         "Id": 16,
-        "Name": "Karte",
-        "Description": "Klicke auf das Karten-Symbol, um deine bisherigen Entdeckungen zu sehen.",
+        "Name": "Seekarte",
+        "Description": "Klicke auf das Seekarten-Symbol, um deine bisherigen Entdeckungen zu sehen.",
         "ShouldPause": false
     },
     {
         "Id": 17,
         "Name": "Tastenkürzel",
-        "Description": "Die meisten Symbole haben Tastenkürzel – fahre mit der Maus darüber, um sie zu sehen.",
+        "Description": "Die meisten Symbole haben Tastenkürzel. Zeige mit der Maus darauf.",
         "ShouldPause": false
     },
     {
         "Id": 18,
         "Name": "Kampf",
-        "Description": "Du bist einem Gegner begegnet! Der rote Bogen zeigt die Reichweite deiner Deckkanone. Halte den Gegner in Reichweite, während deine Crew eine Feuerlösung ermittelt. \n\nDas geht schneller, wenn du den Gegner im Buglicht hältst. Die Deckkanone wird hervorgehoben, wenn deine Crew Fortschritte bei der Feuerlösung macht. (Drücke die Leertaste oder schließe das Tutorial, um fortzufahren.)",
+        "Description": "Du bist auf einen Gegner gestoßen! Der rote Bogen zeigt die Reichweite deiner Deckkanone. Halte ihn darin, während deine Besatzung eine Feuerleitlösung ermittelt. \n\nDas geht schneller, wenn der Gegner im Licht deines Bugscheinwerfers bleibt. Die Deckkanone leuchtet mit dem Fortschritt der Berechnung auf. (Drücke die Leertaste oder schließe das Tutorial, um fortzufahren.)",
         "ShouldPause": true
     },
     {
         "Id": 19,
-        "Name": "Volle Kraft voraus!",
-        "Description": "Wenn du einmal einen zusätzlichen Geschwindigkeitsschub brauchst, fügt ein Klick auf das Volle-Kraft-Symbol dem Motor ein weiteres Fass Treibstoff hinzu. Das ist gelegentlich riskant.",
+        "Name": "Alle Kraft auf die Maschinen!",
+        "Description": "Brauchst du mehr Fahrt, wirft ein Klick auf das Volldampf-Symbol ein weiteres Fass Treibstoff in die Maschine. Das ist gelegentlich gefährlich.",
         "ShouldPause": true
     },
     {
         "Id": 20,
-        "Name": "Feuerlösung",
-        "Description": "Deine Feuerlösung ist bereit! Klicke auf die Deckwaffe, um den Gegner anzugreifen.",
+        "Name": "Feuerleitlösung",
+        "Description": "Die Feuerleitlösung steht! Klicke auf die Deckwaffe, um den Gegner anzugreifen.",
         "ShouldPause": false
     },
     {
         "Id": 21,
-        "Name": "Deinen Preis einfordern",
-        "Description": "Glückwunsch! Du hast deinen Gegner besiegt. Fahre zur Stelle seines Untergangs, um etwas zu bergen.",
+        "Name": "Beute bergen",
+        "Description": "Glückwunsch! Dein Gegner ist besiegt. Fahre zum Ort seines Untergangs, um Beute zu bergen.",
         "ShouldPause": false
     },
     {
         "Id": 22,
         "Name": "Rumpfschaden",
-        "Description": "Dein Rumpf ist beschädigt! Du kannst ihn in Londons Trockendocks reparieren oder auf Zee, indem du auf die Reparieren-Schaltfläche klickst. Reparaturen auf Zee sind langsam und verbrauchen Vorräte.",
+        "Description": "Dein Rumpf ist beschädigt! Repariere ihn in Londons Trockendocks oder auf Zee über die Reparatur-Schaltfläche. Reparaturen auf Zee dauern lange und verbrauchen Vorräte.",
         "ShouldPause": false
     },
     {
         "Id": 23,
         "Name": "Vorräte",
-        "Description": "Deine Vorräte gehen zur Neige. Wenn sie aufgebraucht sind, beginnt deine Crew zu hungern. In manchen Häfen kannst du mehr kaufen.",
+        "Description": "Deine Vorräte werden knapp. Sind sie aufgebraucht, beginnt deine Besatzung zu hungern. In manchen Häfen kannst du Nachschub kaufen.",
         "ShouldPause": false
     },
     {
         "Id": 24,
         "Name": "Treibstoff",
-        "Description": "Dein Treibstoff wird knapp. Kauf mehr, bevor er ausgeht, sonst strandest du in der Dunkelheit.",
+        "Description": "Dein Treibstoff wird knapp. Kaufe Nachschub, ehe er ausgeht, sonst bleibst du im Dunkeln liegen.",
         "ShouldPause": false
     },
     {
         "Id": 25,
-        "Name": "Crew",
-        "Description": "Du hast ein Crewmitglied verloren. Verlierst du zu viele, sinkt deine Geschwindigkeit; verlierst du alle, wirst auch du sterben. In London kannst du immer neue anheuern, und manchmal auch in anderen Häfen.",
+        "Name": "Besatzung",
+        "Description": "Du hast ein Besatzungsmitglied verloren. Verlierst du zu viele, wird dein Schiff langsamer; verlierst du alle, stirbst auch du. In London kannst du stets neue Leute anheuern, manchmal auch in anderen Häfen.",
         "ShouldPause": false
     },
     {
         "Id": 26,
         "Name": "Schrecken ",
-        "Description": "Der Schrecken deiner Crew erreicht gefährliche Ausmaße. Du kannst ihn in bestimmten Häfen senken und seinen Anstieg verlangsamen, indem du nahe an Land bleibst und dein Buglicht eingeschaltet lässt.",
+        "Description": "Der Schrecken deiner Besatzung erreicht gefährliche Höhen. In manchen Häfen kannst du ihn senken. Bleibe nahe am Land und lass den Bugscheinwerfer an, damit er langsamer steigt.",
         "ShouldPause": false
     },
     {
         "Id": 27,
         "Name": "Schaden",
-        "Description": "Vorsicht! Dein Rumpf hat durch eine Kollision Schaden genommen. Wenn du Schwierigkeiten hast, um Felsen zu manövrieren, versuche langsamer zu fahren oder mit der S-Taste rückwärts zu gehen.",
+        "Description": "Vorsicht! Ein Zusammenstoß hat deinen Rumpf beschädigt. Fällt dir das Umfahren von Felsen schwer, bremse mit S ab oder fahre rückwärts.",
         "ShouldPause": false
     },
     {
         "Id": 28,
         "Name": "Laderaum",
-        "Description": "Dein Laderaum ist fast voll. Wenn du außerhalb eines Hafens deine maximale Frachtkapazität überschreitest, musst du etwas über Bord werfen.",
+        "Description": "Dein Laderaum ist fast voll. Überschreitest du außerhalb eines Hafens die Ladekapazität, musst du Fracht über Bord werfen.",
         "ShouldPause": false
     },
     {
         "Id": 29,
         "Name": "Rumpfschaden ",
-        "Description": "Dein Rumpf ist unter halber Stärke! Feindliche Angriffe können nun zusätzlichen Schaden an Schrecken, Crew oder Vorräten verursachen.",
+        "Description": "Dein Rumpf hat weniger als die halbe Stärke! Feindliche Angriffe können nun auch Schrecken erhöhen, Besatzung töten oder Vorräte vernichten.",
         "ShouldPause": false
     },
     {
         "Id": 30,
-        "Name": "Horn",
-        "Description": "Mit der H-Taste bläst du dein Horn. Das hat keine nützliche Funktion und kann nahe Zee-Bestien oder feindliche Schiffe provozieren.",
+        "Name": "Schiffshorn",
+        "Description": "Mit H betätigst du das Schiffshorn. Es erfüllt keinen nützlichen Zweck und kann nahe Zeeungeheuer oder feindliche Schiffe reizen.",
         "ShouldPause": false
     },
     {
         "Id": 31,
         "Name": "Welch ein Reichtum!",
-        "Description": "Du hast genug Echos verdient, um bessere Ausrüstung für dein Schiff zu kaufen! Klicke auf den Reiter Händler. Ein neuer Motor oder eine neue Deckwaffe wäre eine gute erste Anschaffung.",
+        "Description": "Du hast genug Echos für bessere Schiffsausrüstung verdient! Klicke auf „Geschäfte“. Eine neue Maschine oder Deckwaffe wäre ein guter Anfang.",
         "ShouldPause": false
     },
     {
         "Id": 32,
         "Name": "Gut versorgt",
-        "Description": "Du bist jetzt gut versorgt! Wage dich weiter von London weg. Die Risiken sind größer, aber die Belohnungen auch.",
+        "Description": "Du bist nun gut versorgt! Wage dich weiter von London fort. Die Gefahren wachsen, doch ebenso der Lohn.",
         "ShouldPause": false
     },
     {
         "Id": 33,
         "Name": "Abtauchen",
-        "Description": "Du bist jetzt der stolze Besitzer eines Zubmersibles! Nutze die Schaltfläche „Abtauchen“, um dein Schiff in ein Zubmarin zu verwandeln. Unter Wasser nutzt du dieselbe Schaltfläche, um wieder aufzutauchen.",
+        "Description": "Dein Schiff kann jetzt tauchen! Klicke auf „Abtauchen“, um es in ein Zeeboot zu verwandeln. Unter Wasser bringt dich dieselbe Schaltfläche wieder an die Oberfläche.",
         "ShouldPause": false
     },
     {
         "Id": 34,
         "Name": "Sonar",
-        "Description": "Sonar lässt dich unter die Zee blicken. Unter Wasser hebt es nahe Hindernisse, Entdeckungen und Kreaturen mit einem matten blauen Leuchten hervor. Du musst näher heran, um herauszufinden, was sie sind",
+        "Description": "Sonar lässt dich unter der Zee sehen. Unter Wasser zeichnet es nahe Hindernisse, Entdeckungen und Kreaturen in schwachem Blau nach. Um sie zu erkennen, musst du näher heran",
         "ShouldPause": false
     }
 ]

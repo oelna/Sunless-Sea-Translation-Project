@@ -2,7 +2,7 @@
     {
         "Name": "ForwardSalvo",
         "Image": "devastatingsalvo_ability",
-        "Description": "Deals {x} damage against ships and {y} damage against creatures.",
+        "Description": "Verursacht {x} Schaden an Schiffen und {y} Schaden an Kreaturen.",
         "QualityRequired": null,
         "QualityRequiredId": 0,
         "Range": 250,
@@ -17,7 +17,7 @@
     {
         "Name": "DeckSalvo",
         "Image": "salvo_ability",
-        "Description": "Deals {x} damage against ships and {y} damage against creatures.",
+        "Description": "Verursacht {x} Schaden an Schiffen und {y} Schaden an Kreaturen.",
         "QualityRequired": null,
         "QualityRequiredId": 0,
         "Range": 140,
@@ -32,7 +32,7 @@
     {
         "Name": "AftSalvo",
         "Image": "salvo_ability",
-        "Description": "Deals {x} damage against ships and {y} damage against creatures.",
+        "Description": "Verursacht {x} Schaden an Schiffen und {y} Schaden an Kreaturen.",
         "QualityRequired": null,
         "QualityRequiredId": 0,
         "Range": 140,
@@ -47,7 +47,7 @@
     {
         "Name": "RammingAttack",
         "Image": "salvo_ability",
-        "Description": "Ramming attack. Deals {x} damage against ships and {y} damage against creatures.",
+        "Description": "Rammangriff. Verursacht {x} Schaden an Schiffen und {y} Schaden an Kreaturen.",
         "QualityRequired": null,
         "QualityRequiredId": 0,
         "Range": 140,
@@ -553,7 +553,7 @@
     {
         "Name": "Reproach",
         "Image": "gun_blue_square",
-        "Description": "Deals {x} damage against ships and {y} damage against creatures.",
+        "Description": "Verursacht {x} Schaden an Schiffen und {y} Schaden an Kreaturen.",
         "QualityRequired": null,
         "QualityRequiredId": 107127,
         "Range": 200,
@@ -568,7 +568,7 @@
     {
         "Name": "Denunciation",
         "Image": "gun_green_square",
-        "Description": "Deals {x} damage against ships and {y} damage against creatures.",
+        "Description": "Verursacht {x} Schaden an Schiffen und {y} Schaden an Kreaturen.",
         "QualityRequired": null,
         "QualityRequiredId": 108999,
         "Range": 200,
@@ -583,7 +583,7 @@
     {
         "Name": "Hellthrasher",
         "Image": "gun_purple_square",
-        "Description": "Deals {x} damage against ships and {y} damage against creatures.",
+        "Description": "Verursacht {x} Schaden an Schiffen und {y} Schaden an Kreaturen.",
         "QualityRequired": null,
         "QualityRequiredId": 107138,
         "Range": 200,

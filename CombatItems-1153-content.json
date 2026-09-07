@@ -1,34 +1,34 @@
 [
     {
-        "Name": "Pneumatic Ratsender",
+        "Name": "Pneumatischer Rattenwerfer",
         "Image": "ratsender_square",
-        "Description": "Repairs 10 hull damage instantly.",
+        "Description": "Repariert sofort 10 Punkte Rumpfschaden.",
         "AssociatedQualityId": 110532,
         "ExoticEffectName": "RepairSmall",
         "Cooldown": 3
     },
     {
-        "Name": "Unclear Device",
+        "Name": "Unklare Vorrichtung",
         "Image": "lamppost_square",
-        "Description": "Obscures you from view for 5 seconds.",
+        "Description": "Verbirgt dich 5 Sekunden lang vor fremden Blicken.",
         "AssociatedQualityId": 110435,
         "ExoticEffectName": "Disappear",
         "IsUsableFuncName": "HasTarget",
         "Cooldown": 3
     },
     {
-        "Name": "Strange Catch",
+        "Name": "Seltsamer Fang",
         "Image": "carcass_square",
-        "Description": "Lures a submerged zee-beast to the surface.",
+        "Description": "Lockt ein untergetauchtes Zeeungeheuer an die Oberfläche.",
         "AssociatedQualityId": 108654,
         "ExoticEffectName": "Lure",
         "IsUsableFuncName": "CanLure",
         "Cooldown": 1
     },
     {
-        "Name": "Blue Scintillack",
+        "Name": "Blauer Szintillack",
         "Image": "scintillack_square",
-        "Description": "Fill all of your firing solutions instantly.",
+        "Description": "Stellt sofort sämtliche Feuerleitlösungen fertig.",
         "AssociatedQualityId": 109974,
         "ExoticEffectName": "FillSolution",
         "IsUsableFuncName": "HasTarget",
@@ -36,9 +36,9 @@
         "IsInfinate": true
     },
     {
-        "Name": "Flare",
+        "Name": "Leuchtrakete",
         "Image": "flare_ability",
-        "Description": "Fire a flare, illuminating the ocean for 10 seconds.",
+        "Description": "Feuert eine Leuchtrakete ab, die die Zee 10 Sekunden lang erhellt.",
         "AssociatedQualityId": 113263,
         "ExoticEffectName": "Flare",
         "IsUsableFuncName": "HasTarget",
@@ -46,9 +46,9 @@
         "IsInfinate": false
     },
     {
-        "Name": "Mountain-sherd",
+        "Name": "Bergscherbe",
         "Image": "diamondblue_square",
-        "Description": "Summon Mt Nomad.\n\nYou must be in open waters in order to use this.",
+        "Description": "Ruft Berg Nomad herbei.\n\nNur auf offenem Wasser einsetzbar.",
         "AssociatedQualityId": 114994,
         "ExoticEffectName": "SummonBeastie,MtNomad",
         "IsUsableFuncName": "CanDisengage",
@@ -56,9 +56,9 @@
         "IsInfinate": false
     },
     {
-        "Name": "Element of Dawn",
+        "Name": "Element der Morgenröte",
         "Image": "dawnmachine_square",
-        "Description": "Summon The Tree of Ages.\n\nYou must be in open waters in order to use this.",
+        "Description": "Ruft den Baum der Zeitalter herbei.\n\nNur auf offenem Wasser einsetzbar.",
         "AssociatedQualityId": 114995,
         "ExoticEffectName": "SummonBeastie,TreeOfAges",
         "IsUsableFuncName": "CanDisengage",
@@ -84,9 +84,9 @@
         "IsInfinate": false
     },
     {
-        "Name": "Hand-Carved Ushabti",
+        "Name": "Handgeschnitzter Uschebti",
         "Image": "ushabti_square",
-        "Description": "Summon The Pirate Poet.\n\nYou must be in open waters in order to use this.",
+        "Description": "Ruft die Piratendichterin herbei.\n\nNur auf offenem Wasser einsetzbar.",
         "AssociatedQualityId": 118651,
         "ExoticEffectName": "SummonBeastie,Corvette",
         "Cooldown": 1,

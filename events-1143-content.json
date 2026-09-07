@@ -97,9 +97,9 @@
                 "Id": 124457
             }
         ],
-        "Name": "Ein erfahrener Besatzungsmitglied",
+        "Name": "Ein tüchtiger Matrose",
         "Image": "sailor",
-        "Description": "Das ist der Zailor, der Sie um einen Liegeplatz angebettelt hat. Er hat hier gute Arbeit geleistet. Aber er hat im hinteren Teil des Laderaums einen kleinen Schrein für das Salz, den namenlosen Gott des Horizonts.",
+        "Description": "Dies ist der Zeemann, der dich um eine Koje angebettelt hat. Gute Arbeit hat er geleistet. Doch hinten im Laderaum unterhält er einen kleinen Schrein für Salz, den namenlosen Gott des Horizonts.",
         "Ordering": 0.9588417,
         "Deck": {
             "Name": "Manchmal",
@@ -405,9 +405,9 @@
                 "Id": 147715
             }
         ],
-        "Name": "AVerworfenes Gesicht",
+        "Name": "Ein abgelegtes Gesicht",
         "Image": "masktanned",
-        "Description": "„Kapitän! Das habe ich in den Bilgen gefunden.“ Der Zailor hält es hin und verzieht das Gesicht: ein Stück Menschenhaut mit Löchern für Augen, Nase, Mund ...\r\n\r\nDu erkennst den Schnurrbart, der an seiner zerlumpten Lippe klebt: der Schnurrbart des zerlumpten Besatzungsmitglieds, das du gerettet hast! Er muss einer dieser gesichtsstehlenden Abscheulichkeiten gewesen sein, die man Snuffers nennt. Aber wessen Gesicht trägt der Snuffer jetzt?",
+        "Description": "„Kapitän! Das trieb unten in der Bilge.“ Der Zeemann hält es dir hin und verzieht das Gesicht: ein Stück Menschenhaut mit Löchern für Augen, Nase, Mund ...\r\n\r\nDu erkennst den Schnurrbart an der zerfetzten Lippe: den Schnurrbart des zerlumpten Matrosen, den du gerettet hast! Er muss eines jener gesichterstehlenden Scheusale gewesen sein, die man Snuffer nennt. Doch wessen Gesicht trägt der Snuffer jetzt?",
         "Ordering": 0.09928245,
         "Deck": {
             "Name": "Manchmal",
@@ -529,7 +529,7 @@
         ],
         "Name": "Ruhelose Nächte",
         "Image": "candlescream",
-        "Description": "In den Wachen der Nacht tappen Sie sanft an der Luke vorbei zum Mannschaftsquartier. Ein Mann schreit im Schlaf leise und verzweifelt. Ein anderer. ",
+        "Description": "In den Nachtwachen schleichst du leise an der Luke zum Mannschaftsquartier vorbei. Ein Mann schreit im Schlaf auf, leise, verzweifelt. Noch einer. ",
         "Ordering": 0.2870869,
         "Deck": {
             "Name": "Manchmal",
@@ -1238,7 +1238,7 @@
         ],
         "Name": "Werkzeugkasten",
         "Image": "apartment",
-        "Description": "[q:Adressiert als], dieses Storylet sollte für Entwicklercharaktere jederzeit verfügbar sein. Wenn Sie das Spiel spielen, kann das Klicken auf dieses Zeug zu großen Problemen führen.",
+        "Description": "[q:Addressed as], dieses Storylet sollte Entwicklerfiguren jederzeit offenstehen. Wenn du regulär spielst, kann ein Klick hier einiges gründlich durcheinanderbringen.",
         "Ordering": 0.325756878,
         "Deck": {
             "Name": "Immer",
@@ -1637,9 +1637,9 @@
                 "Id": 125022
             }
         ],
-        "Name": "Wer waren Sie?",
+        "Name": "Wer warst du?",
         "Image": "jigsaw",
-        "Description": "Jetzt bist du Kapitän: Jetzt gehörst du zur Unterzee. Aber wer warst du vorher?",
+        "Description": "Nun bist du Kapitän: Nun gehörst du der Unterzee. Doch wer warst du zuvor?",
         "Ordering": 0.1071001,
         "Deck": {
             "Name": "Immer",
@@ -1838,9 +1838,9 @@
                 "Id": 113500
             }
         ],
-        "Name": "A letzter Fetzen Papierkram",
+        "Name": "Ein letzter Fetzen Papierkram",
         "Image": "callingcard",
-        "Description": "„Kapitän! Kapitän! Eine Unregelmäßigkeit beim Hafenamt! Sie möchten wissen – welche Anrede bevorzugen Sie an Land?“ [Dies bestimmt, wie die Leute Ihren Kapitän nennen, aber das Geschlecht Ihres Kapitäns liegt bei Ihnen.]",
+        "Description": "„Kapitän! Kapitän! Eine Unstimmigkeit beim Hafenmeisteramt! Man möchte wissen – welche Anrede bevorzugst du an Land?“ [Dies bestimmt, wie andere deine Spielfigur anreden. Ihr Geschlecht bestimmst allein du.]",
         "Ordering": 0.708938062,
         "Deck": {
             "Name": "Immer",
@@ -5374,7 +5374,7 @@
                         }
                     ],
                     "Name": "Zu hell",
-                    "Description": "Sein Auge erhebt sich wie der Mond. Du siehst es unbeirrt an, solange du kannst. Sein Blick beraubt dich aller Abwehrkräfte – deines Stolzes, deines Mutes, deiner Haut, deines Fleisches. Wenn sein Blick auf deine nackten Knochen fällt, weckt dich der Schrecken schreiend.\n\nIhre Crew beobachtet Sie aufmerksam. Sie beginnen, das Vertrauen in dich zu verlieren. [Du hast es nicht geschafft, deinen Albtraum zu besiegen. Es ist stärker geworden.]",
+                    "Description": "Sein Auge erhebt sich wie der Mond. Du siehst es unbeirrt an, solange du kannst. Sein Blick beraubt dich aller Abwehrkräfte – deines Stolzes, deines Mutes, deiner Haut, deines Fleisches. Wenn sein Blick auf deine nackten Knochen fällt, weckt dich der Schrecken schreiend.\r\n\r\nIhre Crew beobachtet Sie aufmerksam. Sie beginnen, das Vertrauen in dich zu verlieren. [Du hast es nicht geschafft, deinen Albtraum zu besiegen. Es ist stärker geworden.]",
                     "ExoticEffects": "",
                     "Id": 155239
                 },
@@ -5471,7 +5471,7 @@
                     "ChildBranches": [],
                     "QualitiesAffected": [],
                     "Name": "Agegnerischen Angriffen ausweichen",
-                    "Description": "Ein grünes Leuchten bedeutet, dass Ihr Feind im Licht ist. Feindliche Schiffe haben ebenfalls einen Bogen auf ihren Geschützen – versuchen Sie, ihnen aus dem Weg zu gehen. Feindliche Zee-Beasts werden im Allgemeinen versuchen, Sie zu rammen oder zu beißen, und zwischendurch tauchen sie unter, um Ihren Angriffen auszuweichen.\n\nWenn Sie vorsichtig sind und das Licht ausschalten, können Sie sich vielleicht auch von hinten an sie heranschleichen und als Erster eine Chance bekommen.",
+                    "Description": "Ein grünes Leuchten bedeutet, dass Ihr Feind im Licht ist. Feindliche Schiffe haben ebenfalls einen Bogen auf ihren Geschützen – versuchen Sie, ihnen aus dem Weg zu gehen. Feindliche Zee-Beasts werden im Allgemeinen versuchen, Sie zu rammen oder zu beißen, und zwischendurch tauchen sie unter, um Ihren Angriffen auszuweichen.\r\n\r\nWenn Sie vorsichtig sind und das Licht ausschalten, können Sie sich vielleicht auch von hinten an sie heranschleichen und als Erster eine Chance bekommen.",
                     "ExoticEffects": "",
                     "LinkToEvent": {
                         "Id": 149127
@@ -5484,7 +5484,7 @@
                 "QualitiesRequired": [],
                 "Name": "ON KÄMPFEN",
                 "Image": "",
-                "Description": "Wenn sich Ihr Feind im Schussbereich Ihrer Waffen befindet, werden Sie sehen, wie die Feuerlösung – das Leuchten um die Feuerknöpfe herum – zunimmt. Wenn es fertig ist, geben Sie es ihnen!\n\nWenn Sie möchten, können Sie auch früher feuern, es kann aber sein, dass Sie danebengehen. Größere Schiffe haben möglicherweise Zugriff auf andere Geschützplätze.",
+                "Description": "Wenn sich Ihr Feind im Schussbereich Ihrer Waffen befindet, werden Sie sehen, wie die Feuerlösung – das Leuchten um die Feuerknöpfe herum – zunimmt. Wenn es fertig ist, geben Sie es ihnen!\r\n\r\nWenn Sie möchten, können Sie auch früher feuern, es kann aber sein, dass Sie danebengehen. Größere Schiffe haben möglicherweise Zugriff auf andere Geschützplätze.",
                 "ActionCost": 1,
                 "ButtonText": "MEHR",
                 "Ordering": 4,
@@ -5543,7 +5543,7 @@
                     "ChildBranches": [],
                     "QualitiesAffected": [],
                     "Name": "Zee-Fledermaus?",
-                    "Description": "Drücken Sie Z oder klicken Sie auf die Zee-Bat-Schaltfläche am unteren Bildschirmrand. Daraufhin wird Ihnen angezeigt, wo sich die nächste unentdeckte Insel befindet.\n\nSeien Sie gewarnt: Wenn Sie sich bewegen, erhalten Sie weniger genaue Anweisungen. Machen Sie eine Pause, um den genauesten Messwert zu erhalten.",
+                    "Description": "Drücken Sie Z oder klicken Sie auf die Zee-Bat-Schaltfläche am unteren Bildschirmrand. Daraufhin wird Ihnen angezeigt, wo sich die nächste unentdeckte Insel befindet.\r\n\r\nSeien Sie gewarnt: Wenn Sie sich bewegen, erhalten Sie weniger genaue Anweisungen. Machen Sie eine Pause, um den genauesten Messwert zu erhalten.",
                     "ExoticEffects": "",
                     "LinkToEvent": {
                         "Id": 149127
@@ -6171,7 +6171,7 @@
                         }
                     ],
                     "Name": "Ein verzweifelter Sieg",
-                    "Description": "Ihr trefft euch im Schein der letzten Glimmerlampen der Brücke. In diesem Halbdunkel und mit seinem verstohlenen Gesicht kann man sich kaum vorstellen, wie es einen jemals getäuscht hat. Es ist so stark wie erstickender Seetang und sein Atem stinkt nach Blut und heißem Feuerstein. Aber du drückst es nieder, zermürbst seine Entschlossenheit, spießt es mit deinem Stiefelmesser durchs Herz.\n\nRollen Sie es über Bord. Beobachten Sie, wie es in die Dunkelheit verschwindet. Jetzt müssen Sie herausfinden, wie Sie nach Hause kommen.",
+                    "Description": "Ihr trefft euch im Schein der letzten Glimmerlampen der Brücke. In diesem Halbdunkel und mit seinem verstohlenen Gesicht kann man sich kaum vorstellen, wie es einen jemals getäuscht hat. Es ist so stark wie erstickender Seetang und sein Atem stinkt nach Blut und heißem Feuerstein. Aber du drückst es nieder, zermürbst seine Entschlossenheit, spießt es mit deinem Stiefelmesser durchs Herz.\r\n\r\nRollen Sie es über Bord. Beobachten Sie, wie es in die Dunkelheit verschwindet. Jetzt müssen Sie herausfinden, wie Sie nach Hause kommen.",
                     "ExoticEffects": "",
                     "Id": 149097
                 },
@@ -6212,7 +6212,7 @@
                         }
                     ],
                     "Name": "Gadzooks!",
-                    "Description": "„Stirb, Hautfresser!“ schreit dein Kamerad, während er den Knüppel hebt. „Das ist für Jaffers!“ Was?\n\nDu rollst dich weg und schreist verzweifelt: „Mensch! Mensch! Ich dachte, du wärst es!“ Irgendwie baut ihr beide ein schwaches Vertrauen auf. Es scheint, als wären Sie beide tatsächlich Menschen, und die Sache mit dem Menschenfresser ist verschwunden. Von ihm ist keine Spur mehr übrig... aber ein Rettungsboot fehlt. Etwas hat es dazu gebracht, dich im Stich zu lassen.",
+                    "Description": "„Stirb, Hautfresser!“ schreit dein Kamerad, während er den Knüppel hebt. „Das ist für Jaffers!“ Was?\r\n\r\nDu rollst dich weg und schreist verzweifelt: „Mensch! Mensch! Ich dachte, du wärst es!“ Irgendwie baut ihr beide ein schwaches Vertrauen auf. Es scheint, als wären Sie beide tatsächlich Menschen, und die Sache mit dem Menschenfresser ist verschwunden. Von ihm ist keine Spur mehr übrig... aber ein Rettungsboot fehlt. Etwas hat es dazu gebracht, dich im Stich zu lassen.",
                     "ExoticEffects": "",
                     "Id": 149102
                 },
@@ -6250,7 +6250,7 @@
                         }
                     ],
                     "Name": "O Elend!",
-                    "Description": "Sie überfallen Ihren Kameraden und zerschmettern ihm den Schädel ... und zu Ihrer Bestürzung stellen Sie fest, dass es sich bei seinem Gesicht um ihr eigenes handelt. Guter Gott. Du bist ganz allein: und du bist ein Mörder.\n\nVon dem Snuffer ist keine Spur mehr übrig ... aber ein Rettungsboot fehlt. Etwas hat es dazu gebracht, dich im Stich zu lassen. Es könnte schlimmer sein.",
+                    "Description": "Sie überfallen Ihren Kameraden und zerschmettern ihm den Schädel ... und zu Ihrer Bestürzung stellen Sie fest, dass es sich bei seinem Gesicht um ihr eigenes handelt. Guter Gott. Du bist ganz allein: und du bist ein Mörder.\r\n\r\nVon dem Snuffer ist keine Spur mehr übrig ... aber ein Rettungsboot fehlt. Etwas hat es dazu gebracht, dich im Stich zu lassen. Es könnte schlimmer sein.",
                     "ExoticEffects": "",
                     "Id": 149103
                 },
@@ -7857,7 +7857,7 @@
                             "Id": 426135
                         }
                     ],
-                    "Description": "Sie begegnen seinem Blick und warten darauf, dass er seine Unangemessenheit erkennt. Das Lächeln des Ermittlers lässt nicht nach. „Ihr Schweigen genügt als Antwort. Vielen Dank.“\n\nMit diesem Mann werden Sie keine Zeit mehr verschwenden. Es gibt wichtige Dinge, die Sie erledigen müssen.",
+                    "Description": "Sie begegnen seinem Blick und warten darauf, dass er seine Unangemessenheit erkennt. Das Lächeln des Ermittlers lässt nicht nach. „Ihr Schweigen genügt als Antwort. Vielen Dank.“\r\n\r\nMit diesem Mann werden Sie keine Zeit mehr verschwenden. Es gibt wichtige Dinge, die Sie erledigen müssen.",
                     "ExoticEffects": "",
                     "Id": 237490
                 },
@@ -11626,7 +11626,7 @@
                         }
                     ],
                     "Name": "In der Tat lebhaft",
-                    "Description": "Die Aktivistin transportiert Sie – und sich selbst – an den Rand der Verzückung – nicht nur einmal, sondern mehrere Male. Sie haben jedoch das Gefühl, dass sie mit ihren Gedanken woanders ist.\n\n„Oh ja“, gibt sie hinterher zu. „Ich denke ans Sterben. Offensichtlich. Aber, mmm, das war eine wunderbare Ablenkung. Noch einmal?“",
+                    "Description": "Die Aktivistin transportiert Sie – und sich selbst – an den Rand der Verzückung – nicht nur einmal, sondern mehrere Male. Sie haben jedoch das Gefühl, dass sie mit ihren Gedanken woanders ist.\r\n\r\n„Oh ja“, gibt sie hinterher zu. „Ich denke ans Sterben. Offensichtlich. Aber, mmm, das war eine wunderbare Ablenkung. Noch einmal?“",
                     "ExoticEffects": "",
                     "Id": 150911
                 },
@@ -11985,7 +11985,7 @@
                         }
                     ],
                     "Name": "Etwas Unmenschliches",
-                    "Description": "Wieder einmal die Hitze ihres Mundes, die unglaubliche Freude ihrer Berührung, das Aufsteigen einer unwiderstehlichen Elektrizität in deinem Magen. Wieder einmal hat man das Gefühl, dass sich Türen zu einem wilderen Raum öffnen. Während ihre eigene Erregung ihren Höhepunkt erreicht, verändert sich etwas in ihren Augen – ein Glitzern, wie die Schuppen auf dem Flügel einer Motte …\n\n„Ich werde mich an dich erinnern“, sagt sie ernst, „wenn ich hier fertig bin. Aber ich werde hier fertig sein. Allerdings noch nicht. Noch nicht.“",
+                    "Description": "Wieder einmal die Hitze ihres Mundes, die unglaubliche Freude ihrer Berührung, das Aufsteigen einer unwiderstehlichen Elektrizität in deinem Magen. Wieder einmal hat man das Gefühl, dass sich Türen zu einem wilderen Raum öffnen. Während ihre eigene Erregung ihren Höhepunkt erreicht, verändert sich etwas in ihren Augen – ein Glitzern, wie die Schuppen auf dem Flügel einer Motte …\r\n\r\n„Ich werde mich an dich erinnern“, sagt sie ernst, „wenn ich hier fertig bin. Aber ich werde hier fertig sein. Allerdings noch nicht. Noch nicht.“",
                     "ExoticEffects": "",
                     "Id": 180984
                 },
@@ -12036,7 +12036,7 @@
                         }
                     ],
                     "Name": "An unruhiges Zwischenspiel",
-                    "Description": "Sie liegen zusammen in der langen Mündung der Waffe, Haut an Haut, und die Angelegenheit geht angenehm auf einen dringenden Abschluss zu, als sie nachdenklich sagt: „Stellen Sie sich vor, sie würden jetzt abfeuern. Was würde von uns übrig bleiben, denken Sie? ‚Ein Lumpen und ein Knochen und eine Haarsträhne.‘ Ein Teufel hat mir dieses Lied einmal vorgesungen.\n\nSie finden Ihre Fassung wieder und erledigen gemeinsam das, wozu Sie dorthin gegangen sind, aber die Atmosphäre ist, das kann man mit Fug und Recht sagen, schlecht.",
+                    "Description": "Sie liegen zusammen in der langen Mündung der Waffe, Haut an Haut, und die Angelegenheit geht angenehm auf einen dringenden Abschluss zu, als sie nachdenklich sagt: „Stellen Sie sich vor, sie würden jetzt abfeuern. Was würde von uns übrig bleiben, denken Sie? ‚Ein Lumpen und ein Knochen und eine Haarsträhne.‘ Ein Teufel hat mir dieses Lied einmal vorgesungen.\r\n\r\nSie finden Ihre Fassung wieder und erledigen gemeinsam das, wozu Sie dorthin gegangen sind, aber die Atmosphäre ist, das kann man mit Fug und Recht sagen, schlecht.",
                     "ExoticEffects": "",
                     "Id": 180985
                 },
@@ -12523,7 +12523,7 @@
                         }
                     ],
                     "Name": "Das Licht geht aus",
-                    "Description": "„Meine Familie“, sagt sie gelassen, „wird eine Meinung zu meiner Sache mit meinem Buren haben –“ Sie beginnt verzweifelt zu husten. Ein Krampf ergreift sie. Die Besatzung versammelt sich entsetzt. Auf dem Deck ist Blut.\n\nSie hängt an deinem Arm und schaut zu dir auf. „Beerdigung. Dieses Fleisch – kontaminiert – gib es – zee. Bei zee!“\n\nDas Licht in ihren Augen erlischt: Die Kraft aus ihrem Arm ist verschwunden. Sie bricht zusammen wie ein einstürzender Turm.",
+                    "Description": "„Meine Familie“, sagt sie gelassen, „wird eine Meinung zu meiner Sache mit meinem Buren haben –“ Sie beginnt verzweifelt zu husten. Ein Krampf ergreift sie. Die Besatzung versammelt sich entsetzt. Auf dem Deck ist Blut.\r\n\r\nSie hängt an deinem Arm und schaut zu dir auf. „Beerdigung. Dieses Fleisch – kontaminiert – gib es – zee. Bei zee!“\r\n\r\nDas Licht in ihren Augen erlischt: Die Kraft aus ihrem Arm ist verschwunden. Sie bricht zusammen wie ein einstürzender Turm.",
                     "ExoticEffects": "",
                     "LinkToEvent": {
                         "Id": 165309
@@ -12695,7 +12695,7 @@
                         }
                     ],
                     "Name": "Das Licht geht aus",
-                    "Description": "„Meine Familie“, sagt sie gelassen, „wird eine Meinung zu meiner Sache mit meinem Buren haben –“ Sie beginnt verzweifelt zu husten. Ein Krampf ergreift sie. Die Besatzung versammelt sich entsetzt. Auf dem Deck ist Blut.\n\nSie hängt an deinem Arm und schaut zu dir auf. „Beerdigung. Dieses Fleisch – kontaminiert – gib es – zee. Bei zee!“\n\nDas Licht in ihren Augen erlischt: Die Kraft aus ihrem Arm ist verschwunden. Sie bricht zusammen wie ein einstürzender Turm.",
+                    "Description": "„Meine Familie“, sagt sie gelassen, „wird eine Meinung zu meiner Sache mit meinem Buren haben –“ Sie beginnt verzweifelt zu husten. Ein Krampf ergreift sie. Die Besatzung versammelt sich entsetzt. Auf dem Deck ist Blut.\r\n\r\nSie hängt an deinem Arm und schaut zu dir auf. „Beerdigung. Dieses Fleisch – kontaminiert – gib es – zee. Bei zee!“\r\n\r\nDas Licht in ihren Augen erlischt: Die Kraft aus ihrem Arm ist verschwunden. Sie bricht zusammen wie ein einstürzender Turm.",
                     "ExoticEffects": "",
                     "LinkToEvent": {
                         "Id": 165309
@@ -12832,7 +12832,7 @@
                         }
                     ],
                     "Name": "Das Licht geht aus",
-                    "Description": "„Meine Familie“, sagt sie gelassen, „wird eine Meinung zu meiner Sache mit meinem Buren haben –“ Sie beginnt verzweifelt zu husten. Ein Krampf ergreift sie. Die Besatzung versammelt sich entsetzt. Auf dem Deck ist Blut.\n\nSie hängt an deinem Arm und schaut zu dir auf. „Beerdigung. Dieses Fleisch – kontaminiert – gib es – zee. Bei zee!“\n\nDas Licht in ihren Augen erlischt: Die Kraft aus ihrem Arm ist verschwunden. Sie bricht zusammen wie ein einstürzender Turm.",
+                    "Description": "„Meine Familie“, sagt sie gelassen, „wird eine Meinung zu meiner Sache mit meinem Buren haben –“ Sie beginnt verzweifelt zu husten. Ein Krampf ergreift sie. Die Besatzung versammelt sich entsetzt. Auf dem Deck ist Blut.\r\n\r\nSie hängt an deinem Arm und schaut zu dir auf. „Beerdigung. Dieses Fleisch – kontaminiert – gib es – zee. Bei zee!“\r\n\r\nDas Licht in ihren Augen erlischt: Die Kraft aus ihrem Arm ist verschwunden. Sie bricht zusammen wie ein einstürzender Turm.",
                     "ExoticEffects": "",
                     "LinkToEvent": {
                         "Id": 165309
@@ -14336,7 +14336,7 @@
                             "Id": 426133
                         }
                     ],
-                    "Description": "Sie begegnen seinem Blick und warten darauf, dass er seine Unangemessenheit erkennt. Das Lächeln des Ermittlers lässt nicht nach. „Ihr Schweigen genügt als Antwort. Vielen Dank.“\n\nMit diesem Mann werden Sie keine Zeit mehr verschwenden. Es gibt wichtige Dinge, die Sie erledigen müssen.",
+                    "Description": "Sie begegnen seinem Blick und warten darauf, dass er seine Unangemessenheit erkennt. Das Lächeln des Ermittlers lässt nicht nach. „Ihr Schweigen genügt als Antwort. Vielen Dank.“\r\n\r\nMit diesem Mann werden Sie keine Zeit mehr verschwenden. Es gibt wichtige Dinge, die Sie erledigen müssen.",
                     "ExoticEffects": "",
                     "Id": 237489
                 },
@@ -14648,7 +14648,7 @@
                     "ChildBranches": [],
                     "QualitiesAffected": [],
                     "Name": "Unmöglich",
-                    "Description": "Selbst bei voller Fahrt haften die bekannten Gesichter an Ihren Bullaugen. Die Zähne in diesem krabbenzerfressenen Gesicht konnten nur dem alarmierenden Gelehrten gehören. Du erinnerst dich an eine wässrige Stimme aus deiner Jugend. Eine Hand, die einen vertrauten Ring trägt, fährt über das Glas.\n\nIst ganz Neath ertrunken, während du unten warst? Bleibt noch jemand über den Wellen? Du gehst zu ihrer Luftschleuse und legst deine Hände auf die Luke. Sie zittern vor Aufregung. Draußen warten Ihre Freunde, Familie und Lieben. Du drehst das Rad.",
+                    "Description": "Selbst bei voller Fahrt haften die bekannten Gesichter an Ihren Bullaugen. Die Zähne in diesem krabbenzerfressenen Gesicht konnten nur dem alarmierenden Gelehrten gehören. Du erinnerst dich an eine wässrige Stimme aus deiner Jugend. Eine Hand, die einen vertrauten Ring trägt, fährt über das Glas.\r\n\r\nIst ganz Neath ertrunken, während du unten warst? Bleibt noch jemand über den Wellen? Du gehst zu ihrer Luftschleuse und legst deine Hände auf die Luke. Sie zittern vor Aufregung. Draußen warten Ihre Freunde, Familie und Lieben. Du drehst das Rad.",
                     "ExoticEffects": "",
                     "LinkToEvent": {
                         "Id": 139750
@@ -14679,7 +14679,7 @@
         ],
         "Name": "Bekannte Gesichter",
         "Image": "drownie_female",
-        "Description": "A klopfen an die Luke. Ein trauriger Klagegesang, der durch den Rumpf hallt. Gesichter am Bullauge, aufgedunsen und anklagend.\n\nSie kennen diese Gesichter. Sogar diejenigen, die unmöglich hier sein können. Ehemalige Besatzungsmitglieder, tot oder verstorben, und voller Trauer darüber, dass Sie sie zurückgelassen haben.",
+        "Description": "A klopfen an die Luke. Ein trauriger Klagegesang, der durch den Rumpf hallt. Gesichter am Bullauge, aufgedunsen und anklagend.\r\n\r\nSie kennen diese Gesichter. Sogar diejenigen, die unmöglich hier sein können. Ehemalige Besatzungsmitglieder, tot oder verstorben, und voller Trauer darüber, dass Sie sie zurückgelassen haben.",
         "Ordering": 0.0288782734,
         "Deck": {
             "Name": "Manchmal",
@@ -14796,7 +14796,7 @@
                     "ChildBranches": [],
                     "QualitiesAffected": [],
                     "Name": "An Unterwasserschlachthof",
-                    "Description": "In den engen Gängen des Zub kann Ihre meuternde Truppe Sie nur einzeln angreifen. Die erste verliert ihr Ohr, die nächste ein Auge. Der Dritte verliert seine linke Hand; der vierte ihr Recht. \n\nDas Schiff neigt sich in einen Sturzflug. Weitere Besatzungsmitglieder fallen ihrerseits, bis Sie zu wenige und zu verwundet sind, um Ihr sinkendes Schiff zu retten. Im Meeresgrund klafft ein Abgrund. Es beansprucht Ihr Schiff, bevor die Meuterer es können.",
+                    "Description": "In den engen Gängen des Zub kann Ihre meuternde Truppe Sie nur einzeln angreifen. Die erste verliert ihr Ohr, die nächste ein Auge. Der Dritte verliert seine linke Hand; der vierte ihr Recht. \r\n\r\nDas Schiff neigt sich in einen Sturzflug. Weitere Besatzungsmitglieder fallen ihrerseits, bis Sie zu wenige und zu verwundet sind, um Ihr sinkendes Schiff zu retten. Im Meeresgrund klafft ein Abgrund. Es beansprucht Ihr Schiff, bevor die Meuterer es können.",
                     "ExoticEffects": "",
                     "LinkToEvent": {
                         "Id": 139750
@@ -14850,7 +14850,7 @@
                         }
                     ],
                     "Name": "A zee voller Reichtümer",
-                    "Description": "Sie verlassen die Kabine und begrüßen die Menge herzlich in Ihrer besten Abendgarderobe. Ihre momentane Verwirrung ermöglicht es Ihnen, sie in Geschichten über versunkene khaganische Schatzgaleonen, paradiesische Unterwasserbuchten und Perlen in der Größe reifer Äpfel einzuhüllen. \n\nApropos, der Koch hat einen besonderen Leckerbissen aufgehoben. Warum legen sie ihre Waffen nicht nieder? Am Ende des Essens singen sie noch einmal Loblieder auf Sie und träumen von zukünftigen Reichtümern. ",
+                    "Description": "Sie verlassen die Kabine und begrüßen die Menge herzlich in Ihrer besten Abendgarderobe. Ihre momentane Verwirrung ermöglicht es Ihnen, sie in Geschichten über versunkene khaganische Schatzgaleonen, paradiesische Unterwasserbuchten und Perlen in der Größe reifer Äpfel einzuhüllen. \r\n\r\nApropos, der Koch hat einen besonderen Leckerbissen aufgehoben. Warum legen sie ihre Waffen nicht nieder? Am Ende des Essens singen sie noch einmal Loblieder auf Sie und träumen von zukünftigen Reichtümern. ",
                     "ExoticEffects": "",
                     "Id": 239179
                 },
@@ -14907,7 +14907,7 @@
         ],
         "Name": "In Zee begraben",
         "Image": "ironrepublic",
-        "Description": "Zuerst war es ein Flüstern. Ängstliche Zailoren sagen, sie gehören über die Wellen, nicht unter sie. Dann kam das Weinen. Sie haben sie in einem Metallsarg versiegelt, sagten sie, und sie am Meer begraben. \n\nJetzt hallen Rufe und metallisches Klingeln vor Ihrer Kabine wider. Sie sind für dich gekommen.",
+        "Description": "Zuerst war es ein Flüstern. Ängstliche Zailoren sagen, sie gehören über die Wellen, nicht unter sie. Dann kam das Weinen. Sie haben sie in einem Metallsarg versiegelt, sagten sie, und sie am Meer begraben. \r\n\r\nJetzt hallen Rufe und metallisches Klingeln vor Ihrer Kabine wider. Sie sind für dich gekommen.",
         "Ordering": 0.212938786,
         "Deck": {
             "Name": "Manchmal",
@@ -14984,7 +14984,7 @@
                         }
                     ],
                     "Name": "Nicht unversehrt",
-                    "Description": "Die perlmuttfarbenen Fische sind hypnotisierend, aber das unablässige Klopfen ihrer schuppigen Körper auf dem Metall Ihres Rumpfes schreckt Sie vom Träumen ab. Sie fliehen mit voller Geschwindigkeit aus der augenlosen Schule und lecken aus einem halben Dutzend Löchern in Ihrem Panzerrumpf, von denen jedes nicht größer als eine Sardine ist. Von jedem Punkt erstreckt sich ein dünner Faden in die Dunkelheit, der schnell durchtrennt wird, wenn Ihre Motoren Sie wegziehen.Der Schwarm fällt immer weiter hinter Sie zurück und richtet seine Aufmerksamkeit auf andere Beutetiere. Die sich zusammenballende Masse umschließt einen vorbeifliegenden Hai und zerschmettert ihn, bis eine trübe Paste entsteht.",
+                    "Description": "Die perlmuttglänzenden Fische bannen den Blick, doch das unerbittliche Hämmern ihrer Schuppenleiber auf den Metallrumpf vertreibt jede Träumerei. Mit Höchstfahrt fliehst du vor dem augenlosen Schwarm. Dein Panzerrumpf leckt aus einem halben Dutzend Löchern, keines größer als eine Sardine. Von jedem zieht sich ein dünner Faden durch die Dunkelheit auf denselben Punkt zu; die Fahrt deiner Maschinen reißt sie rasch entzwei.\r\n\r\nDer Schwarm fällt immer weiter zurück und wendet sich anderer Beute zu. Die wimmelnde Masse umringt einen vorbeiziehenden Hai und prügelt ihn zu trübem Brei.",
                     "ExoticEffects": "",
                     "Id": 239181
                 },
@@ -15066,7 +15066,7 @@
                         }
                     ],
                     "Name": "Nahrung für den Schwarm",
-                    "Description": "Die hungrige Schule ignoriert deine Torpedos. Explosionen sprengen ihre geordneten Reihen, aber es schwimmen noch mehr Fischzähne, um ihre Reihen wieder aufzufüllen. Immer wieder wird Ihr Zubmarine verwüstet, wenn es sich gegen Ihren Rumpf wirft. selbstmörderisch im Metall vergraben. Während Sie zusehen, platzt einer der Perlenfische durch ein Bullauge und vergräbt sich im Hals eines Zailors.Sie machen sich panisch auf den Rückzug und die Flut der Zähne verliert das Interesse, während Ihr Zubmarine davonhumpelt. Wenn man den toten Zailor hinlegt, kann man immer noch die Gestalt des Seehechts sehen, der sich unter seiner Haut windet.",
+                    "Description": "Der hungrige Schwarm missachtet deine Torpedos. Explosionen zerreißen seine geordneten Reihen, doch weitere Fischzähne schwimmen heran, um sie zu schließen. Wieder und wieder wird dein Zeeboot zerfleischt: Sie werfen sich gegen den Rumpf und bohren sich selbstmörderisch ins Metall. Vor deinen Augen durchschlägt einer der Perlfische ein Bullauge und gräbt sich in den Hals eines Zeemanns.\r\n\r\nDu trittst panisch den Rückzug an. Als dein Zeeboot davonhinkt, verliert die Zahnflut das Interesse. Beim Aufbahren des toten Zeemanns siehst du noch immer den Umriss des Zahnfischs, der sich unter seiner Haut windet.",
                     "ExoticEffects": "",
                     "Id": 239182
                 },
@@ -15089,7 +15089,7 @@
                         }
                     ],
                     "Name": "A zappelnde Trophäe",
-                    "Description": "Sie führen die Flut von Zahnfischen in einen Meeresabgrund und kehren dann zurück, sobald die kräuselnde Masse Ihnen ins Innere gefolgt ist. Eine gezielte Explosion lässt den Rand des Abgrunds einstürzen und versiegelt ihn für alle bis auf ein paar Mitglieder der Schule. \n\nAbgeschnitten von ihren Mitmenschen sind sie gedankenlos untätig. Es ist ein Kinderspiel, ein Netz voller augenloser Fische einzusammeln. Ihre perlmuttartigen Schuppen glitzern im Lampenlicht. Von der Rückseite des Schädels jedes Fisches erstreckt sich ein hauchdünner Faden – feiner als eine Angelschnur, aber jetzt durchtrennt. ",
+                    "Description": "Sie führen die Flut von Zahnfischen in einen Meeresabgrund und kehren dann zurück, sobald die kräuselnde Masse Ihnen ins Innere gefolgt ist. Eine gezielte Explosion lässt den Rand des Abgrunds einstürzen und versiegelt ihn für alle bis auf ein paar Mitglieder der Schule. \r\n\r\nAbgeschnitten von ihren Mitmenschen sind sie gedankenlos untätig. Es ist ein Kinderspiel, ein Netz voller augenloser Fische einzusammeln. Ihre perlmuttartigen Schuppen glitzern im Lampenlicht. Von der Rückseite des Schädels jedes Fisches erstreckt sich ein hauchdünner Faden – feiner als eine Angelschnur, aber jetzt durchtrennt. ",
                     "ExoticEffects": "",
                     "Id": 239184
                 },
@@ -15206,7 +15206,7 @@
                         }
                     ],
                     "Name": "Weitermachen",
-                    "Description": "Der Schrecken der Crew ist ein wahnsinniges Biest, aber Sie haben es schon mit schlimmeren Menschenmengen zu tun bekommen. Beruhigende Töne. Langsame Bewegungen. Tief durchatmen. Alles wird gut, sagen Sie es ihnen. Kümmere dich um das Schiff und das Schiff wird sich um dich kümmern.\n\nEs wird sie nicht lange beruhigen, aber im Moment gibt es einen Hauch von Hoffnung. Und indem Sie die Crew beruhigen, können Sie spüren, wie sich Ihr eigener Puls wieder normalisiert.",
+                    "Description": "Der Schrecken der Crew ist ein wahnsinniges Biest, aber Sie haben es schon mit schlimmeren Menschenmengen zu tun bekommen. Beruhigende Töne. Langsame Bewegungen. Tief durchatmen. Alles wird gut, sagen Sie es ihnen. Kümmere dich um das Schiff und das Schiff wird sich um dich kümmern.\r\n\r\nEs wird sie nicht lange beruhigen, aber im Moment gibt es einen Hauch von Hoffnung. Und indem Sie die Crew beruhigen, können Sie spüren, wie sich Ihr eigener Puls wieder normalisiert.",
                     "ExoticEffects": "",
                     "Id": 239188
                 },
@@ -15236,7 +15236,7 @@
                         }
                     ],
                     "Name": "taub für die Vernunft",
-                    "Description": "Sie stellen die Crew zusammen, um ihre Ängste zu zerstreuen. Aber während Sie die Sicherheit der Zubmarine und die Stärke ihrer Hände preisen, hallt die Stimme eines wahnsinnigen Schützen durch das Schiff. \n\n„Wir sind Eindringlinge! Hier gibt es nichts als Elend und Ende und den Fluch von Lady Black!“\n\nSie rennen gerade rechtzeitig zu ihrer Station, um zu verhindern, dass sie den Munitionsvorrat zur Explosion bringt. Ihr Weinen hallt durch die Korridore, als sie zur Arrestzelle geschleppt wird. ",
+                    "Description": "Sie stellen die Crew zusammen, um ihre Ängste zu zerstreuen. Aber während Sie die Sicherheit der Zubmarine und die Stärke ihrer Hände preisen, hallt die Stimme eines wahnsinnigen Schützen durch das Schiff. \r\n\r\n„Wir sind Eindringlinge! Hier gibt es nichts als Elend und Ende und den Fluch von Lady Black!“\r\n\r\nSie rennen gerade rechtzeitig zu ihrer Station, um zu verhindern, dass sie den Munitionsvorrat zur Explosion bringt. Ihr Weinen hallt durch die Korridore, als sie zur Arrestzelle geschleppt wird. ",
                     "ExoticEffects": "",
                     "Id": 239187
                 },
@@ -17732,7 +17732,7 @@
                         }
                     ],
                     "Name": "Aus Ihren Fingern",
-                    "Description": "Die Zee-Fledermaus nimmt Pilzcracker von Ihren Fingern, so kühn wie ein Papagei. Es neigt seinen Kopf zu Ihnen und zwitschert etwas, das Sie vielleicht für Sprache halten würden. Es breitet seine Flügel aus und springt in die Luft.\n\nAm nächsten Tag ist Ihr Besatzungsmitglied verschwunden, zusammen mit einem der Boote des Schiffes. Niemand hat gesehen, wie er gegangen ist, und niemand weiß, warum.",
+                    "Description": "Die Zee-Fledermaus nimmt Pilzcracker von Ihren Fingern, so kühn wie ein Papagei. Es neigt seinen Kopf zu Ihnen und zwitschert etwas, das Sie vielleicht für Sprache halten würden. Es breitet seine Flügel aus und springt in die Luft.\r\n\r\nAm nächsten Tag ist Ihr Besatzungsmitglied verschwunden, zusammen mit einem der Boote des Schiffes. Niemand hat gesehen, wie er gegangen ist, und niemand weiß, warum.",
                     "ExoticEffects": "",
                     "Id": 150635
                 },
@@ -17788,7 +17788,7 @@
                         }
                     ],
                     "Name": "KNALL",
-                    "Description": "Es sieht deine Absicht und breitet seine Flügel aus, um zu fliehen. Aber dein Schuss fängt es ein und es fällt mit unterbrochenem Flattern zu Boden.\n\nSie überqueren das Deck, um die blasse Leiche einzusammeln. Ihre Crew schweigt völlig. Niemand fällt dir ins Auge.",
+                    "Description": "Es sieht deine Absicht und breitet seine Flügel aus, um zu fliehen. Aber dein Schuss fängt es ein und es fällt mit unterbrochenem Flattern zu Boden.\r\n\r\nSie überqueren das Deck, um die blasse Leiche einzusammeln. Ihre Crew schweigt völlig. Niemand fällt dir ins Auge.",
                     "ExoticEffects": "",
                     "Id": 150637
                 },
@@ -17811,7 +17811,7 @@
                         }
                     ],
                     "Name": "BANG -",
-                    "Description": "Du vermisst. Die Fledermaus schlägt Flügel und ist verschwunden.\n\nEin leises Grollen erklingt aus Ihrer Mannschaft, als wären sie eine Menschenmenge bei einem Gerichtsverfahren.",
+                    "Description": "Du vermisst. Die Fledermaus schlägt Flügel und ist verschwunden.\r\n\r\nEin leises Grollen erklingt aus Ihrer Mannschaft, als wären sie eine Menschenmenge bei einem Gerichtsverfahren.",
                     "ExoticEffects": "",
                     "Id": 150636
                 },
@@ -18140,7 +18140,7 @@
                         }
                     ],
                     "Name": "A Kannibale unter uns",
-                    "Description": "Sie finden den Täter in einem Kabuff im hinteren Laderaum, verborgen unter einer Decke. Es gibt Leichenkerzen, grobe Bilder und einen Topf mit schrecklicher Suppe. Ein menschliches Schienbein wurde zur Hälfte in eine Flöte geschnitzt. „Eine Abrechnung!“ Der Kannibale gackert, als er zur Gefängniszelle verschleppt wird. „Eine Abrechnung darf nicht aufgeschoben werden!“\n\nSie halten ein überstürztes Schiffsgericht ab und verurteilen ihn zur einzig denkbaren Strafe: Fesseln und Ertrinken. Er lacht immer noch, während ihm das Meer in den Mund strömt.",
+                    "Description": "Sie finden den Täter in einem Kabuff im hinteren Laderaum, verborgen unter einer Decke. Es gibt Leichenkerzen, grobe Bilder und einen Topf mit schrecklicher Suppe. Ein menschliches Schienbein wurde zur Hälfte in eine Flöte geschnitzt. „Eine Abrechnung!“ Der Kannibale gackert, als er zur Gefängniszelle verschleppt wird. „Eine Abrechnung darf nicht aufgeschoben werden!“\r\n\r\nSie halten ein überstürztes Schiffsgericht ab und verurteilen ihn zur einzig denkbaren Strafe: Fesseln und Ertrinken. Er lacht immer noch, während ihm das Meer in den Mund strömt.",
                     "ExoticEffects": "",
                     "Id": 144491
                 },
@@ -18764,7 +18764,7 @@
         ],
         "Name": "Ein zahnknackender Schatz",
         "Image": "clouds",
-        "Description": "Ein im Schiffskeks gebackenes Stück Sand! Du knackst einen Zahn und fluchst. Ihre Crew lacht, aber als sich herausstellt, dass es sich bei dem Objekt um einen Diamanten handelt – klein und stark fehlerhaft, aber dennoch um einen Diamanten –, verstummen alle.\n\n„Diamanten sind dem Stein heilig“, sagt einer. „Geben Sie ihn dem Zee, Kapitän.“ Es wird Glück für uns sein.",
+        "Description": "Ein im Schiffskeks gebackenes Stück Sand! Du knackst einen Zahn und fluchst. Ihre Crew lacht, aber als sich herausstellt, dass es sich bei dem Objekt um einen Diamanten handelt – klein und stark fehlerhaft, aber dennoch um einen Diamanten –, verstummen alle.\r\n\r\n„Diamanten sind dem Stein heilig“, sagt einer. „Geben Sie ihn dem Zee, Kapitän.“ Es wird Glück für uns sein.",
         "Ordering": 0.6273062,
         "Deck": {
             "Name": "Manchmal",
@@ -18809,7 +18809,7 @@
         "ChildBranches": [],
         "Name": "Bei Zee belauscht: Wunderbares Haar",
         "Image": "campaigner2",
-        "Description": "SLY NAVIGATOR: Du hast wunderbares Haar.\nAktivist: Gehen Sie bitte weg.\nSLY NAVIGATOR: Ich wollte nur über deine Haare sprechen.\nKAMPAGNER: Geh weg, du grässlicher kleiner Mann, oder ich hole etwas heraus.",
+        "Description": "SLY NAVIGATOR: Du hast wunderbares Haar.\r\nAktivist: Gehen Sie bitte weg.\r\nSLY NAVIGATOR: Ich wollte nur über deine Haare sprechen.\r\nKAMPAGNER: Geh weg, du grässlicher kleiner Mann, oder ich hole etwas heraus.",
         "ExoticEffects": "",
         "Ordering": 0.9745631,
         "Deck": {
@@ -18862,7 +18862,7 @@
         "ChildBranches": [],
         "Name": "Belauscht bei Zee: Fragen",
         "Image": "pianist",
-        "Description": "CARNELIAN EXILE: Du.\nNACREOUS OUTCAST: Ffrhume?\nCARNELIAN EXILE: Ich will deine Geheimnisse.\nNACREOUS OUTCAST: Ffiefhh humth!\nCARNELIAN EXILE: Wie Sie wollen. Ich kann warten.",
+        "Description": "CARNELIAN EXILE: Du.\r\nNACREOUS OUTCAST: Ffrhume?\r\nCARNELIAN EXILE: Ich will deine Geheimnisse.\r\nNACREOUS OUTCAST: Ffiefhh humth!\r\nCARNELIAN EXILE: Wie Sie wollen. Ich kann warten.",
         "ExoticEffects": "",
         "Ordering": 0.572617233,
         "Deck": {
@@ -18922,7 +18922,7 @@
         "ChildBranches": [],
         "Name": "In Zee belauscht: Zailor's End",
         "Image": "wretchedmog",
-        "Description": "ZAILOR: Hier, Kater. Kater, Kater, Kater. Kater, Kater. Hier. Au. Au! AARGH! BITTE SÜß GAAAAAAGHH! AGGGGGGGGGGGGH!\nWRETCHED MOG: Prrrt.",
+        "Description": "ZAILOR: Hier, Kater. Kater, Kater, Kater. Kater, Kater. Hier. Au. Au! AARGH! BITTE SÜß GAAAAAAGHH! AGGGGGGGGGGGGH!\r\nWRETCHED MOG: Prrrt.",
         "ExoticEffects": "",
         "Ordering": 0.7632263,
         "Deck": {
@@ -18982,7 +18982,7 @@
         "ChildBranches": [],
         "Name": "Bei Zee belauscht: Materialien",
         "Image": "bandagedpoissonier",
-        "Description": "BANDAGED POISSONNIER: Nur ein bisschen, jetzt.\nNACREOUS OUTCAST: Fotharoothathoth!\nPOISSONNIER: Jetzt, jetzt. Du wirst es wieder wachsen lassen.\nAUSSTRÖßER: Etha! Ssithakothothoth!\nPOISSONNIER: Du bist keine großzügige Seele.",
+        "Description": "BANDAGED POISSONNIER: Nur ein bisschen, jetzt.\r\nNACREOUS OUTCAST: Fotharoothathoth!\r\nPOISSONNIER: Jetzt, jetzt. Du wirst es wieder wachsen lassen.\r\nAUSSTRÖßER: Etha! Ssithakothothoth!\r\nPOISSONNIER: Du bist keine großzügige Seele.",
         "ExoticEffects": "",
         "Ordering": 0.8066581,
         "Deck": {
@@ -19035,7 +19035,7 @@
         "ChildBranches": [],
         "Name": "Belauscht bei Zee: Belastungen",
         "Image": "sigilriddennavigator",
-        "Description": "FRISCHER KAMPAGNER: Wie geht es Ihnen?\nSIGIL-RIDDEN NAVIGATOR: Das Gleiche. Bitte nicht - \nKAMPAGNER: Seien Sie kein Idiot. Es ist eine Tätowierung und Kopfschmerzen. Sonst nichts. Wenn du keine Besserung willst, kann ich dir nicht helfen. Aber man sollte den Wunsch haben, besser zu werden.\nNAVIGATOR: Ich wollte nur sagen –\nKAMPAGNER: Ich habe kein Interesse! Sie können sich in Ihrer Freizeit selbst zum Scheitern bringen. Solange ich hier bin, wird es nichts von diesem Unsinn geben.\nNAVIGATOR: Ich wollte nur sagen – bitte reden Sie nicht so laut.",
+        "Description": "FRISCHER KAMPAGNER: Wie geht es Ihnen?\r\nSIGIL-RIDDEN NAVIGATOR: Das Gleiche. Bitte nicht - \r\nKAMPAGNER: Seien Sie kein Idiot. Es ist eine Tätowierung und Kopfschmerzen. Sonst nichts. Wenn du keine Besserung willst, kann ich dir nicht helfen. Aber man sollte den Wunsch haben, besser zu werden.\r\nNAVIGATOR: Ich wollte nur sagen –\r\nKAMPAGNER: Ich habe kein Interesse! Sie können sich in Ihrer Freizeit selbst zum Scheitern bringen. Solange ich hier bin, wird es nichts von diesem Unsinn geben.\r\nNAVIGATOR: Ich wollte nur sagen – bitte reden Sie nicht so laut.",
         "ExoticEffects": "",
         "Ordering": 0.279005975,
         "Deck": {
@@ -19095,7 +19095,7 @@
         "ChildBranches": [],
         "Name": "Bei Zee belauscht: Tongues",
         "Image": "disguise2",
-        "Description": "NACREOUS OUTCAST: Othatooroth ithacithi?\nZwielichtiger Koch: Baragerralock. ",
+        "Description": "NACREOUS OUTCAST: Othatooroth ithacithi?\r\nZwielichtiger Koch: Baragerralock. ",
         "ExoticEffects": "",
         "Ordering": 0.4742558,
         "Deck": {
@@ -19247,7 +19247,7 @@
         "ChildBranches": [],
         "Name": "Bei Zee belauscht: Ein anderes Land",
         "Image": "presbyterateadventuress",
-        "Description": "ADVENTURESS: Du warst noch nie auf dem älteren Kontinent.\nMAGIER: Guter Gott, nein. Am liebsten hätte ich London nie verlassen.\nABENTEUERIN: Was ist das Besondere an London?\nMAGIER: Tsk. Nur ein Continental würde diese Frage jemals stellen.",
+        "Description": "ADVENTURESS: Du warst noch nie auf dem älteren Kontinent.\r\nMAGIER: Guter Gott, nein. Am liebsten hätte ich London nie verlassen.\r\nABENTEUERIN: Was ist das Besondere an London?\r\nMAGIER: Tsk. Nur ein Continental würde diese Frage jemals stellen.",
         "ExoticEffects": "",
         "Ordering": 0.68172276,
         "Deck": {
@@ -19402,7 +19402,7 @@
         "ChildBranches": [],
         "Name": "In Zee belauscht: Tausend Jahre",
         "Image": "presbyterateadventuress",
-        "Description": "SIGIL-RIDDEN NAVIGATOR: Stimmt es, dass ihr ewig lebt?\nADVENTURESS: Das ist keine gute Frage.\nSIGIL-RIDDEN NAVIGATOR: Es tut mir leid.\nABENTEUER: Oh, was zum Teufel. Nein, wir leben nicht ewig. Aber wir können tausend Jahre leben. <i>Einige</i> von uns können tausend Jahre alt werden.\nSIGIL-RIDDEN NAVIGATOR: Dann tut es mir noch mehr leid. \nABENTEUERIN: Großer Stein, Mann, du bist deprimierend! Kannst du dich ein wenig aufmuntern? Bitte?\nSIGIL-RIDDEN NAVIGATOR: Nein... nein, das kann ich wirklich nicht.",
+        "Description": "SIGIL-RIDDEN NAVIGATOR: Stimmt es, dass ihr ewig lebt?\r\nADVENTURESS: Das ist keine gute Frage.\r\nSIGIL-RIDDEN NAVIGATOR: Es tut mir leid.\r\nABENTEUER: Oh, was zum Teufel. Nein, wir leben nicht ewig. Aber wir können tausend Jahre leben. <i>Einige</i> von uns können tausend Jahre alt werden.\r\nSIGIL-RIDDEN NAVIGATOR: Dann tut es mir noch mehr leid. \r\nABENTEUERIN: Großer Stein, Mann, du bist deprimierend! Kannst du dich ein wenig aufmuntern? Bitte?\r\nSIGIL-RIDDEN NAVIGATOR: Nein... nein, das kann ich wirklich nicht.",
         "ExoticEffects": "",
         "Ordering": 0.416278243,
         "Deck": {
@@ -19455,7 +19455,7 @@
         "ChildBranches": [],
         "Name": "Bei Zee belauscht: Rivalität",
         "Image": "irrepressiblecannonneer",
-        "Description": "Kanonier: Hallo!!\nMECHANIKER: Hallo!!\nCANNONEER: Wie geht es Ihren Kesseln?\nMECHANIKER: Erträglich, erträglich. Wir probieren einen neuen Umleitungsmechanismus für den Druck aus – aber davon wollen Sie nichts hören. Wie geht es deinen, ähm, Waffen?\nKanonier: Wunderbar!! Die Mannschaften kommen gut voran!! Das neue Übungsprogramm. Oh, aber es tut mir leid, dass ich dich langweile??\nMECHANIKER: Überhaupt nicht, aber ich muss weitermachen. Ich wünsche Ihnen einen angenehmen Nachmittag.\nKanonier: (Dilettant.)\nMECHANIKER: (Amateur.)",
+        "Description": "Kanonier: Hallo!!\r\nMECHANIKER: Hallo!!\r\nCANNONEER: Wie geht es Ihren Kesseln?\r\nMECHANIKER: Erträglich, erträglich. Wir probieren einen neuen Umleitungsmechanismus für den Druck aus – aber davon wollen Sie nichts hören. Wie geht es deinen, ähm, Waffen?\r\nKanonier: Wunderbar!! Die Mannschaften kommen gut voran!! Das neue Übungsprogramm. Oh, aber es tut mir leid, dass ich dich langweile??\r\nMECHANIKER: Überhaupt nicht, aber ich muss weitermachen. Ich wünsche Ihnen einen angenehmen Nachmittag.\r\nKanonier: (Dilettant.)\r\nMECHANIKER: (Amateur.)",
         "ExoticEffects": "",
         "Ordering": 0.185134664,
         "Deck": {
@@ -19508,7 +19508,7 @@
         "ChildBranches": [],
         "Name": "Bei Zee belauscht: die Rote Wissenschaft",
         "Image": "irrepressiblecannonneer",
-        "Description": "Kanonier: Hallo!! Ich habe eine Frage an Sie.\nAUSSTRÖßER: Fhel Nafham.\nCANNONEER: Du bist ein Shapeling, nicht wahr?\nOUTCAST: Gosph nfoo ffierreffof.\nCANNONEER: Wissen Sie etwas über die Rote Wissenschaft?\nAUSSTRÖßER: Feroo. FEROO.\nCANNONEER: Nein, ich verstehe, aber –\nAUSSTRÖßER: FERRO, also FHESH.\nCANNONEER: Oh, wie es dir passt.",
+        "Description": "Kanonier: Hallo!! Ich habe eine Frage an Sie.\r\nAUSSTRÖßER: Fhel Nafham.\r\nCANNONEER: Du bist ein Shapeling, nicht wahr?\r\nOUTCAST: Gosph nfoo ffierreffof.\r\nCANNONEER: Wissen Sie etwas über die Rote Wissenschaft?\r\nAUSSTRÖßER: Feroo. FEROO.\r\nCANNONEER: Nein, ich verstehe, aber –\r\nAUSSTRÖßER: FERRO, also FHESH.\r\nCANNONEER: Oh, wie es dir passt.",
         "ExoticEffects": "",
         "Ordering": 0.357004732,
         "Deck": {
@@ -19561,7 +19561,7 @@
         "ChildBranches": [],
         "Name": "Oberhört bei Zee: Familiengeheimnisse",
         "Image": "parabolanpanther",
-        "Description": "VIELLEICHT'S TOCHTER: Hallo, Tante.\nPARABOLAN PANTHER: [Stille.]\nVIELLEICHT'S TOCHTER: Guter Punkt. Behalten wir es vorerst für uns.",
+        "Description": "VIELLEICHT'S TOCHTER: Hallo, Tante.\r\nPARABOLAN PANTHER: [Stille.]\r\nVIELLEICHT'S TOCHTER: Guter Punkt. Behalten wir es vorerst für uns.",
         "ExoticEffects": "",
         "Ordering": 0.6384731,
         "Deck": {
@@ -19614,7 +19614,7 @@
         "ChildBranches": [],
         "Name": "Overheard at Zee: Ein Verhör",
         "Image": "pianist",
-        "Description": "CARNELIAN EXILE: Du schon wieder.\nNACREOUS OUTCAST: Fffrah erffuhth.\nCARNELIAN EXILE: Ich habe lange genug gewartet. Jetzt steckt mehr in dir.\nNACREOUS OUTCAST: Intheth nath Frosttfhounf!\nCARNELIAN EXILE: Nein. Nicht mehr. Die Sterne haben Hunger. Mir läuft die Zeit davon.\nNACREOUS OUTCAST: Eatht. Das Essen.\nCARNELIAN EXILE: Das ist alles? Das ist alles, was du für mich hast? ...d__n dich. Verdammt, jeder von euch. Möge Achsel brennen.",
+        "Description": "CARNELIAN EXILE: Du schon wieder.\r\nNACREOUS OUTCAST: Fffrah erffuhth.\r\nCARNELIAN EXILE: Ich habe lange genug gewartet. Jetzt steckt mehr in dir.\r\nNACREOUS OUTCAST: Intheth nath Frosttfhounf!\r\nCARNELIAN EXILE: Nein. Nicht mehr. Die Sterne haben Hunger. Mir läuft die Zeit davon.\r\nNACREOUS OUTCAST: Eatht. Das Essen.\r\nCARNELIAN EXILE: Das ist alles? Das ist alles, was du für mich hast? ...d__n dich. Verdammt, jeder von euch. Möge Achsel brennen.",
         "ExoticEffects": "",
         "Ordering": 0.5176289,
         "Deck": {
@@ -19688,7 +19688,7 @@
                         }
                     ],
                     "Name": "Die Natur des Schnees",
-                    "Description": "[q:Sacks and Snow: The Snow Child's Name] eilt Sie in den Frachtraum. Die Wände sind mit Holzkohleflecken bedeckt. „Sehen Sie! Ich bin heute kleiner!“\n\nEs ist nur einen Zentimeter kürzer als die vorherige Marke, wenn überhaupt, aber die Sorge ist real. Jeden Tag schmilzt es ein bisschen mehr.",
+                    "Description": "[q:Sacks and Snow: The Snow Child's Name] eilt Sie in den Frachtraum. Die Wände sind mit Holzkohleflecken bedeckt. „Sehen Sie! Ich bin heute kleiner!“\r\n\r\nEs ist nur einen Zentimeter kürzer als die vorherige Marke, wenn überhaupt, aber die Sorge ist real. Jeden Tag schmilzt es ein bisschen mehr.",
                     "ExoticEffects": "",
                     "Id": 223643
                 },
@@ -20005,7 +20005,7 @@
         "ChildBranches": [],
         "Name": "Bei Zee belauscht: Oben oder unten ",
         "Image": "irrepressiblecannonneer",
-        "Description": "CANNONEER: Ich habe mich gefragt, ob Sie darüber nachgedacht haben?\nEXIL: Viel. \nCANNONEER: Ich meine über unsere aktuelle Situation.\nEXIL: Es ist unerwartet. Ich hätte nie gedacht, dass meine Reise hierher führen würde, aber mein Ziel ist dasselbe.\nKanonier: Pfft. Ich glaube, du bist aufgeregt!\nEXIL: Das bin ich nicht. Also. Vielleicht ein wenig.",
+        "Description": "CANNONEER: Ich habe mich gefragt, ob Sie darüber nachgedacht haben?\r\nEXIL: Viel. \r\nCANNONEER: Ich meine über unsere aktuelle Situation.\r\nEXIL: Es ist unerwartet. Ich hätte nie gedacht, dass meine Reise hierher führen würde, aber mein Ziel ist dasselbe.\r\nKanonier: Pfft. Ich glaube, du bist aufgeregt!\r\nEXIL: Das bin ich nicht. Also. Vielleicht ein wenig.",
         "ExoticEffects": "",
         "Ordering": 0.439532548,
         "Deck": {
@@ -20060,7 +20060,7 @@
         "ChildBranches": [],
         "Name": "Belauscht bei Zee: Unerwünschte Fragen",
         "Image": "presbyterateadventuress",
-        "Description": "KAMPAGNER: Sie missbilligen die Sieben. Warum? Weil sie verloren haben?\nABENTEUER: Natürlich nicht! Weil sie geflohen sind. Sie waren immer weniger, als sie schienen.\nKAMPAGNER: Haben Sie kein Einfühlungsvermögen?\nABENTEUERIN: Hören Sie auf, diesen Traum zu verfolgen. \nKAMPAGNER: Das ist für Sie leicht zu sagen. \nABENTEUERIN: Nein. Es ist das Schwierigste, was ich je lernen musste.",
+        "Description": "KAMPAGNER: Sie missbilligen die Sieben. Warum? Weil sie verloren haben?\r\nABENTEUER: Natürlich nicht! Weil sie geflohen sind. Sie waren immer weniger, als sie schienen.\r\nKAMPAGNER: Haben Sie kein Einfühlungsvermögen?\r\nABENTEUERIN: Hören Sie auf, diesen Traum zu verfolgen. \r\nKAMPAGNER: Das ist für Sie leicht zu sagen. \r\nABENTEUERIN: Nein. Es ist das Schwierigste, was ich je lernen musste.",
         "ExoticEffects": "",
         "Ordering": 0.2754364,
         "Deck": {
@@ -20128,7 +20128,7 @@
         "ChildBranches": [],
         "Name": "Oberhört bei Zee: In den Tiefen ",
         "Image": "sleeplessmechanic",
-        "Description": "DOKTOR: Das ist höllisch. Warum zum Teufel lächelst du?\nMECHANIKER: Es macht mir Spaß, zu sehen, wie unser Zub bis an seine Grenzen getestet wird! Berauschend, oder?\nDOKTOR: Und der lebende Körper?\nMECHANIKER: Was?\nDOCTOR: Ist das nicht auch auf die Probe gestellt? ",
+        "Description": "DOKTOR: Das ist höllisch. Warum zum Teufel lächelst du?\r\nMECHANIKER: Es macht mir Spaß, zu sehen, wie unser Zub bis an seine Grenzen getestet wird! Berauschend, oder?\r\nDOKTOR: Und der lebende Körper?\r\nMECHANIKER: Was?\r\nDOCTOR: Ist das nicht auch auf die Probe gestellt? ",
         "ExoticEffects": "",
         "Ordering": 0.150470853,
         "Deck": {
@@ -20182,7 +20182,7 @@
         "ChildBranches": [],
         "Name": "Bei Zee belauscht: Seltenes Fleisch",
         "Image": "bandagedpoissonier",
-        "Description": "POISSONNIER: Da sind Sie! Ich habe etwas Erlesenes für Sie. Sie <i>müssen</i> davon probieren. \nNAVIGATOR: Bitte... nicht. \nPOISSONNIER: Es muss über den Gant Pole gewandert sein. Ein prächtiges Exemplar. Sehen Sie, wenn ich diese Rückendrüse drücke: So! Es verströmt einen gewaltigen Saft aus seiner eigenen Mischung! \nNAVIGATOR: Entschuldigung. Ich merke, dass ich keinen Appetit habe.Z",
+        "Description": "POISSONNIER: Da sind Sie! Ich habe etwas Erlesenes für Sie. Sie <i>müssen</i> davon probieren. \r\nNAVIGATOR: Bitte... nicht. \r\nPOISSONNIER: Es muss über den Gant Pole gewandert sein. Ein prächtiges Exemplar. Sehen Sie, wenn ich diese Rückendrüse drücke: So! Es verströmt einen gewaltigen Saft aus seiner eigenen Mischung! \r\nNAVIGATOR: Entschuldigung. Ich merke, dass ich keinen Appetit habe.Z",
         "ExoticEffects": "",
         "Ordering": 0.41974932,
         "Deck": {
@@ -20250,7 +20250,7 @@
         "ChildBranches": [],
         "Name": "Belauscht bei Zee: Licht aus ",
         "Image": "maybesdaughter",
-        "Description": "VIELLEICHT: Ich weiß, dass das deine Schuld ist. \nCANNONEER: Es tut mir leid! \nVIELLEICHT: Niemand wurde verletzt. Es ist in Ordnung. \nCANNONEER: Ich wusste nicht, dass es das tun würde!\nVIELLEICHT: Ich glaube, das hast du getan. \nCANNONEER: Es tut mir leid. Ich kann es wahrscheinlich reparieren. Irgendwie. Ich hole mein Werkzeug.Z",
+        "Description": "VIELLEICHT: Ich weiß, dass das deine Schuld ist. \r\nCANNONEER: Es tut mir leid! \r\nVIELLEICHT: Niemand wurde verletzt. Es ist in Ordnung. \r\nCANNONEER: Ich wusste nicht, dass es das tun würde!\r\nVIELLEICHT: Ich glaube, das hast du getan. \r\nCANNONEER: Es tut mir leid. Ich kann es wahrscheinlich reparieren. Irgendwie. Ich hole mein Werkzeug.Z",
         "ExoticEffects": "",
         "Ordering": 0.298880219,
         "Deck": {
@@ -20311,7 +20311,7 @@
         "ChildBranches": [],
         "Name": "Belauscht bei Zee: Freundliche Sorge ",
         "Image": "nacreousoutcast",
-        "Description": "MAGIER: Es ist schön, dich mit allen anderen auf dem Laufenden zu sehen. Ich war mir nicht sicher, wie anpassungsfähig Ihr Typ ist. Dein Mantelkamm scheint ganz -\nAUSSTRÖßER: Nishe. Fffine.\nMAGIER: Ganz, ja. Aber diese ach, Extrusionen – deine Begrenzungen und, ach, dieses Licht? Sicherlich - \nOUTCASE: Thhhurvithed werttth. ",
+        "Description": "MAGIER: Es ist schön, dich mit allen anderen auf dem Laufenden zu sehen. Ich war mir nicht sicher, wie anpassungsfähig Ihr Typ ist. Dein Mantelkamm scheint ganz -\r\nAUSSTRÖßER: Nishe. Fffine.\r\nMAGIER: Ganz, ja. Aber diese ach, Extrusionen – deine Begrenzungen und, ach, dieses Licht? Sicherlich - \r\nOUTCASE: Thhhurvithed werttth. ",
         "ExoticEffects": "",
         "Ordering": 0.536693454,
         "Deck": {
@@ -20372,7 +20372,7 @@
         "ChildBranches": [],
         "Name": "Overheard bei Zee: The Dark is Rising ",
         "Image": "haunteddoctor",
-        "Description": "CANNONEER: Sehr interessant, nicht wahr?! \nDOKTOR: Es ist dunkel. Die Dunkelheit ist überall ähnlich. \nCANNONEER: Die Art und Weise, wie sich die Menschen an die Tiefen angepasst haben – „Salzen“, oder? - bemerkenswert! Nehmen wir zum Beispiel Hideaway –\nDOKTOR: Das möchte ich lieber nicht. Wir sollten die Dunkelheit und die Dinge, die darin wohnen, in Ruhe lassen.",
+        "Description": "CANNONEER: Sehr interessant, nicht wahr?! \r\nDOKTOR: Es ist dunkel. Die Dunkelheit ist überall ähnlich. \r\nCANNONEER: Die Art und Weise, wie sich die Menschen an die Tiefen angepasst haben – „Salzen“, oder? - bemerkenswert! Nehmen wir zum Beispiel Hideaway –\r\nDOKTOR: Das möchte ich lieber nicht. Wir sollten die Dunkelheit und die Dinge, die darin wohnen, in Ruhe lassen.",
         "ExoticEffects": "",
         "Ordering": 0.833785057,
         "Deck": {
@@ -20433,7 +20433,7 @@
         "ChildBranches": [],
         "Name": "In Zee gehört: Ausfransende Gemüter ",
         "Image": "pianist",
-        "Description": "ABENTEUERIN: Ich weiß nicht, wie du es ertragen kannst, unter Wasser zu sein.\nEXIL: Die meisten Dinge sind letztendlich erträglich. \nABENTEUERIN: Spiel nicht den Stoiker mit mir!\nEXIL: Warum? Stimmt etwas nicht? Du scheinst verunsichert zu sein. \nABENTEUERIN: Kein Licht. Kein Wind. Kein Ton außer dem Ächzen dieses ... Stahlsargs!  \nEXIL: Ah. Und?\nABENTEUERIN: Oh, Salt nimm dich!",
+        "Description": "ABENTEUERIN: Ich weiß nicht, wie du es ertragen kannst, unter Wasser zu sein.\r\nEXIL: Die meisten Dinge sind letztendlich erträglich. \r\nABENTEUERIN: Spiel nicht den Stoiker mit mir!\r\nEXIL: Warum? Stimmt etwas nicht? Du scheinst verunsichert zu sein. \r\nABENTEUERIN: Kein Licht. Kein Wind. Kein Ton außer dem Ächzen dieses ... Stahlsargs!  \r\nEXIL: Ah. Und?\r\nABENTEUERIN: Oh, Salt nimm dich!",
         "ExoticEffects": "",
         "Ordering": 0.83052367,
         "Deck": {
@@ -20501,7 +20501,7 @@
         "ChildBranches": [],
         "Name": "Overheard bei Zee: Notwendige Anpassungen ",
         "Image": "campaigner2",
-        "Description": "KAMPAGNER: Geht es Ihnen gut? Du siehst krank aus.\nEXIL: Doktor, Sie sagen, der Körper könne sich an die meisten Umstände anpassen, wenn er „ausreichend motiviert“ sei. Meiner scheint zurückhaltend zu sein.\nKAMPAGNER: Ah! Nun, denken Sie nur daran, dass wir in einer experimentellen Metalldose, die mit zweifelhafter Hydraulik und begrenztem Sauerstoff ausgestattet ist, unheimlich tief tauchen. Das finde ich unheimlich motivierend.\nEXIL: Ja, das hilft.",
+        "Description": "KAMPAGNER: Geht es Ihnen gut? Du siehst krank aus.\r\nEXIL: Doktor, Sie sagen, der Körper könne sich an die meisten Umstände anpassen, wenn er „ausreichend motiviert“ sei. Meiner scheint zurückhaltend zu sein.\r\nKAMPAGNER: Ah! Nun, denken Sie nur daran, dass wir in einer experimentellen Metalldose, die mit zweifelhafter Hydraulik und begrenztem Sauerstoff ausgestattet ist, unheimlich tief tauchen. Das finde ich unheimlich motivierend.\r\nEXIL: Ja, das hilft.",
         "ExoticEffects": "",
         "Ordering": 0.9196258,
         "Deck": {
@@ -20555,7 +20555,7 @@
         "ChildBranches": [],
         "Name": "Overheard bei Zee: Vorsichtsmaßnahmen ",
         "Image": "irrepressiblecannonneer",
-        "Description": "CANNONEER: Ich habe eine Tarnung entwickelt, die auf der von Wreckships verwendeten Tarnung basiert. Ich dachte mit deiner Geschichte -\nMAGIER: Dass ich etwas beitragen könnte? Nun, wie wäre es damit: Was glauben Sie, was die Admiralität mit unserem kleinen Schiff machen wird, wenn sie es als Abschleppwagen verkleidet sieht?\nCANNONEER: ...Das ist nur ein Prototyp. So weit hatte ich noch nicht gedacht.\nMAGIER: Vielleicht fangen Sie besser an.",
+        "Description": "CANNONEER: Ich habe eine Tarnung entwickelt, die auf der von Wreckships verwendeten Tarnung basiert. Ich dachte mit deiner Geschichte -\r\nMAGIER: Dass ich etwas beitragen könnte? Nun, wie wäre es damit: Was glauben Sie, was die Admiralität mit unserem kleinen Schiff machen wird, wenn sie es als Abschleppwagen verkleidet sieht?\r\nCANNONEER: ...Das ist nur ein Prototyp. So weit hatte ich noch nicht gedacht.\r\nMAGIER: Vielleicht fangen Sie besser an.",
         "ExoticEffects": "",
         "Ordering": 0.400833517,
         "Deck": {
@@ -20609,7 +20609,7 @@
         "ChildBranches": [],
         "Name": "Belauscht bei Zee: (anhaltendes Flattern)",
         "Image": "blemmigangallivanter",
-        "Description": "ELEGIAC COCKATOO: [Stille.]\nBLEMMIGAN GALLIVANTER: (Mehrere leise Triller, die immer lauter und eindringlicher werden.)\nELEGISCHER KAKADU: Nein. \nBLEMMIGAN GALLIVANTER: (trauriges Pfeifen)",
+        "Description": "ELEGIAC COCKATOO: [Stille.]\r\nBLEMMIGAN GALLIVANTER: (Mehrere leise Triller, die immer lauter und eindringlicher werden.)\r\nELEGISCHER KAKADU: Nein. \r\nBLEMMIGAN GALLIVANTER: (trauriges Pfeifen)",
         "ExoticEffects": "",
         "Ordering": 0.78331697,
         "Deck": {
@@ -20663,7 +20663,7 @@
         "ChildBranches": [],
         "Name": "Bei Zee belauscht: (Quietscht)",
         "Image": "blemmigangallivanter",
-        "Description": "BLEMMIGAN GALLIVANTER: Puh! Weeeee! Wir – Waaaargh!! \nelender MOG: <i>Mroaw!</i>\nBLEMMIGAN GALLIVANTER: Eeeeee!",
+        "Description": "BLEMMIGAN GALLIVANTER: Puh! Weeeee! Wir – Waaaargh!! \r\nelender MOG: <i>Mroaw!</i>\r\nBLEMMIGAN GALLIVANTER: Eeeeee!",
         "ExoticEffects": "",
         "Ordering": 0.8260948,
         "Deck": {
@@ -21453,7 +21453,7 @@
                         }
                     ],
                     "Name": "Ein verzweifelter Sieg",
-                    "Description": "Es gelingt Ihnen, den ankommenden Arm mit Ihrem Handgelenk zu blockieren und eine eigene Waffe zu ziehen. Der Modiste fällt zurück. Kreise. Fixiert lässig eine lose Haarsträhne wieder an ihrem Platz, während sich ihre Lippen zu einem Tigerlächeln verziehen.\n\nDer Moment bricht! Schrägstrich! Stechen! Aus oberflächlichen Wunden tropft Blut über deinen Ärmel und lässt sich vorerst leicht ignorieren. Sie blinzelt nicht, während sie sich einen Kratzer von einer wunderschönen Wange wischt. Wieder ein Kampf der Waffen!Wieder das halb gefühlte Gefühl von zerrissenem Fleisch! Eine verzweifelte Finte. Der raue Geruch von Eisen hing plötzlich in der Luft.\n\nDer Modiste fällt besiegt auf das Kopfsteinpflaster.",
+                    "Description": "Es gelingt Ihnen, den ankommenden Arm mit Ihrem Handgelenk zu blockieren und eine eigene Waffe zu ziehen. Der Modiste fällt zurück. Kreise. Fixiert lässig eine lose Haarsträhne wieder an ihrem Platz, während sich ihre Lippen zu einem Tigerlächeln verziehen.\r\n\r\nDer Moment bricht! Schrägstrich! Stechen! Aus oberflächlichen Wunden tropft Blut über deinen Ärmel und lässt sich vorerst leicht ignorieren. Sie blinzelt nicht, während sie sich einen Kratzer von einer wunderschönen Wange wischt. Wieder ein Kampf der Waffen!Wieder das halb gefühlte Gefühl von zerrissenem Fleisch! Eine verzweifelte Finte. Der raue Geruch von Eisen hing plötzlich in der Luft.\r\n\r\nDer Modiste fällt besiegt auf das Kopfsteinpflaster.",
                     "ExoticEffects": "",
                     "LinkToEvent": {
                         "Id": 193093
@@ -21479,7 +21479,7 @@
                         }
                     ],
                     "Name": "Verwundet!",
-                    "Description": "Die Klinge von Modiste findet ihr Ziel. Du fällst zu ihren Füßen zusammen und blutest stark. Sie steht über dir und lächelt. Beugt sich nach unten. „Denken Sie nicht darüber nach, mein Kapitän“, flüstert sie und ritzt damit ein wenig zusätzliche Qual in Ihr Fleisch. „Vielleicht habe ich beim nächsten Mal ein Design im Kopf, das Ihre Haut in den Vordergrund stellt. Dadurch würde so geschmeidiges Leder entstehen.“\n\nSie lässt dich auf der Straße liegen, während sie davonschreitet.",
+                    "Description": "Die Klinge von Modiste findet ihr Ziel. Du fällst zu ihren Füßen zusammen und blutest stark. Sie steht über dir und lächelt. Beugt sich nach unten. „Denken Sie nicht darüber nach, mein Kapitän“, flüstert sie und ritzt damit ein wenig zusätzliche Qual in Ihr Fleisch. „Vielleicht habe ich beim nächsten Mal ein Design im Kopf, das Ihre Haut in den Vordergrund stellt. Dadurch würde so geschmeidiges Leder entstehen.“\r\n\r\nSie lässt dich auf der Straße liegen, während sie davonschreitet.",
                     "ExoticEffects": "",
                     "Id": 193094
                 },
@@ -21525,7 +21525,7 @@
                         }
                     ],
                     "Name": "Genau der richtige Zeitpunkt",
-                    "Description": "Der Schmerz ist heftig, aber er strahlt vom Knochen deines Unterarms ab. Sie fangen den Arm des Modiste und lassen ihn wieder in seiner Fassung einrasten. Sie schreit und fällt auf die Knie. Du drehst dich noch einmal, fester. Das Messer klappert auf dem Kopfsteinpflaster. <i>Härter!</i> Ein Kinderspiel. Ein Schrei, fast zu laut, um gehört zu werden. Noch eine Wendung...\n\nDer Modiste sackt bewusstlos zu Boden.",
+                    "Description": "Der Schmerz ist heftig, aber er strahlt vom Knochen deines Unterarms ab. Sie fangen den Arm des Modiste und lassen ihn wieder in seiner Fassung einrasten. Sie schreit und fällt auf die Knie. Du drehst dich noch einmal, fester. Das Messer klappert auf dem Kopfsteinpflaster. <i>Härter!</i> Ein Kinderspiel. Ein Schrei, fast zu laut, um gehört zu werden. Noch eine Wendung...\r\n\r\nDer Modiste sackt bewusstlos zu Boden.",
                     "ExoticEffects": "",
                     "LinkToEvent": {
                         "Id": 193093
@@ -21551,7 +21551,7 @@
                         }
                     ],
                     "Name": "Verwundet",
-                    "Description": "Die Klinge von Modiste findet ihr Ziel. Du fällst zu ihren Füßen zusammen und blutest stark. Sie steht über dir und lächelt. Beugt sich nach unten. „Denken Sie nicht darüber nach, mein Kapitän“, flüstert sie und ritzt damit ein wenig zusätzliche Qual in Ihr Fleisch. „Vielleicht habe ich beim nächsten Mal ein Design im Kopf, das Ihre Haut in den Vordergrund stellt. Dadurch würde so geschmeidiges Leder entstehen.“\n\nSie lässt dich auf der Straße liegen, während sie davonschreitet.",
+                    "Description": "Die Klinge von Modiste findet ihr Ziel. Du fällst zu ihren Füßen zusammen und blutest stark. Sie steht über dir und lächelt. Beugt sich nach unten. „Denken Sie nicht darüber nach, mein Kapitän“, flüstert sie und ritzt damit ein wenig zusätzliche Qual in Ihr Fleisch. „Vielleicht habe ich beim nächsten Mal ein Design im Kopf, das Ihre Haut in den Vordergrund stellt. Dadurch würde so geschmeidiges Leder entstehen.“\r\n\r\nSie lässt dich auf der Straße liegen, während sie davonschreitet.",
                     "ExoticEffects": "",
                     "Id": 193095
                 },
@@ -21615,7 +21615,7 @@
                         }
                     ],
                     "Name": "A grausiger Preis",
-                    "Description": "Die gezackte Klinge der Modiste schneidet mühelos durch ihr Fleisch und öffnet ihre Brust. Zerschmettere ihren Brustkorb. Drücken Sie es mit den Händen auf und drücken Sie dabei, bis die Knochen nachgeben und knacken.\n\nWie zerbrechlich sich ihr Herz zwischen deinen Fingern anfühlt. Noch zerbrechlicher, wenn man es aus seiner Fett- und Muskelwiege herausreißt. \n\nDas ist jetzt deine Trophäe. Du hast es dir verdient.",
+                    "Description": "Die gezackte Klinge der Modiste schneidet mühelos durch ihr Fleisch und öffnet ihre Brust. Zerschmettere ihren Brustkorb. Drücken Sie es mit den Händen auf und drücken Sie dabei, bis die Knochen nachgeben und knacken.\r\n\r\nWie zerbrechlich sich ihr Herz zwischen deinen Fingern anfühlt. Noch zerbrechlicher, wenn man es aus seiner Fett- und Muskelwiege herausreißt. \r\n\r\nDas ist jetzt deine Trophäe. Du hast es dir verdient.",
                     "ExoticEffects": "",
                     "Id": 193098
                 },
@@ -53166,7 +53166,7 @@
                         }
                     ],
                     "Name": "A Erleichterung",
-                    "Description": "Der Haunted Doctor atmet leichter. Er kramt nach einer versteckten Flasche und trinkt kräftig. „Es tut mir leid, [q:Addressed as]. Es ist nicht so, dass ich ein feiger Mann bin, nur…“\n\nEr seufzt. „Ich wurde nicht in Neath geboren. Als ich mich hierher wagte, wusste ich nichts über Clay Men; ich hätte mir kaum vorstellen können, dass ich eines Tages ein Kutschentaxi mit einem charismatischen Teufel teilen würde. Ich hatte noch nie etwas von den Trauerspinnen gehört, deren Netze die Gedanken der Männer so leicht erfassen wie ihre Körper.“„Haben Sie das Observatorium besucht, wo sie nisten? Ich vermute nicht.“ Seine Hand zittert. „Es war ein ganzes Jahr, in dem ich mich dort befand, bei der Dame. Sie wickelte mich in Seide und ihre Kinder hielten mich warm. Sie gab mir ihr Augenlicht, und alles, was sie im Gegenzug verlangte, war mein Auge.“\n\n„Es war ein Traum, den ich nicht als Albtraum bezeichnen kann, und dennoch erwachte ich mit Schauern und einer Offenbarung. Wenn solche Trauer im Licht entsteht, kann es nur in der Dunkelheit Hoffnung geben.“Ich glaubte, in der Befreiung der Nacht Hoffnung für uns alle zu sehen. Ich war... fehlgeleitet. Aber diese Geschichte, wissen Sie.\n\n„Bitte. Ich würde zu meinen Pflichten zurückkehren.",
+                    "Description": "Der heimgesuchte Arzt atmet auf. Er kramt eine versteckte Flasche hervor und nimmt einen tiefen Zug. „Verzeihung, [q:Addressed as]. Ich bin kein feiger Mann, es ist nur ...“\r\n\r\nEr seufzt. „Ich bin nicht in der Unterwelt geboren. Als ich mich hierher wagte, wusste ich nichts von Lehmmenschen; kaum hätte ich mir träumen lassen, eines Tages eine Droschke mit einem gewinnenden Teufel zu teilen. Nie hatte ich von Trauerspinnen gehört, deren Netze den Geist der Menschen so mühelos fangen wie ihre Körper.“\r\n\r\n„Warst du im Observatorium, wo sie nisten? Ich vermute nicht.“ Seine Hand zittert. „Ein ganzes Jahr verbrachte ich dort, bei der Dame. Sie hüllte mich in Seide, und ihre Kinder hielten mich warm. Sie schenkte mir ihren Blick; dafür verlangte sie nur mein Auge.“\r\n\r\n„Es war ein Traum, den ich keinen Albtraum nennen kann. Und doch erwachte ich daraus mit Schaudern und einer Erkenntnis. Wenn solches Leid im Licht gedeiht, konnte Hoffnung nur in der Dunkelheit liegen. In der Befreiung der Nacht glaubte ich Hoffnung für uns alle zu sehen. Ich war ... fehlgeleitet. Doch diese Geschichte kennst du.“\r\n\r\n„Bitte. Ich möchte zu meinen Pflichten zurückkehren.“",
                     "ExoticEffects": "",
                     "Id": 180522
                 },
@@ -53211,7 +53211,7 @@
                         }
                     ],
                     "Name": "A Erleichterung",
-                    "Description": "Der Haunted Doctor atmet leichter. Er kramt nach einer versteckten Flasche und trinkt kräftig. „Es tut mir leid, [q:Addressed as]. Es ist nicht so, dass ich ein feiger Mann bin, nur…“\n\nEr seufzt. „Ich wurde nicht in Neath geboren. Als ich mich hierher wagte, wusste ich nichts über Clay Men; ich hätte mir kaum vorstellen können, dass ich eines Tages ein Kutschentaxi mit einem charismatischen Teufel teilen würde. Ich hatte noch nie etwas von den Trauerspinnen gehört, deren Netze die Gedanken der Männer so leicht erfassen wie ihre Körper.“„Haben Sie das Observatorium besucht, wo sie nisten? Ich vermute nicht.“ Seine Hand zittert. „Es war ein ganzes Jahr, in dem ich mich dort befand, bei der Dame. Sie wickelte mich in Seide und ihre Kinder hielten mich warm. Sie gab mir ihr Augenlicht, und alles, was sie im Gegenzug verlangte, war mein Auge.“\n\n„Es war ein Traum, den ich nicht als Albtraum bezeichnen kann, und dennoch erwachte ich mit Schauern und einer Offenbarung. Wenn solche Trauer im Licht entsteht, kann es nur in der Dunkelheit Hoffnung geben.“Ich glaubte, in der Befreiung der Nacht Hoffnung für uns alle zu sehen. Ich war... fehlgeleitet. Aber diese Geschichte, wissen Sie.\n\n„Bitte. Ich würde zu meinen Pflichten zurückkehren.",
+                    "Description": "Der heimgesuchte Arzt atmet auf. Er kramt eine versteckte Flasche hervor und nimmt einen tiefen Zug. „Verzeihung, [q:Addressed as]. Ich bin kein feiger Mann, es ist nur ...“\r\n\r\nEr seufzt. „Ich bin nicht in der Unterwelt geboren. Als ich mich hierher wagte, wusste ich nichts von Lehmmenschen; kaum hätte ich mir träumen lassen, eines Tages eine Droschke mit einem gewinnenden Teufel zu teilen. Nie hatte ich von Trauerspinnen gehört, deren Netze den Geist der Menschen so mühelos fangen wie ihre Körper.“\r\n\r\n„Warst du im Observatorium, wo sie nisten? Ich vermute nicht.“ Seine Hand zittert. „Ein ganzes Jahr verbrachte ich dort, bei der Dame. Sie hüllte mich in Seide, und ihre Kinder hielten mich warm. Sie schenkte mir ihren Blick; dafür verlangte sie nur mein Auge.“\r\n\r\n„Es war ein Traum, den ich keinen Albtraum nennen kann. Und doch erwachte ich daraus mit Schaudern und einer Erkenntnis. Wenn solches Leid im Licht gedeiht, konnte Hoffnung nur in der Dunkelheit liegen. In der Befreiung der Nacht glaubte ich Hoffnung für uns alle zu sehen. Ich war ... fehlgeleitet. Doch diese Geschichte kennst du.“\r\n\r\n„Bitte. Ich möchte zu meinen Pflichten zurückkehren.“",
                     "ExoticEffects": "",
                     "Id": 182324
                 },
@@ -54178,7 +54178,7 @@
                         }
                     ],
                     "Name": "\"Nein!\"",
-                    "Description": "„Captain! Ich muss! Die Sonne! Die Sonne!“\n\nIhre Crew unterwirft den elenden Zailor und schließlich beruhigt er sich. Aber der Impeller spricht in Ihren Träumen und in den Träumen Ihrer Crew. Es ist nicht alles gut. Alles ist alles andere als gut.Z",
+                    "Description": "„Captain! Ich muss! Die Sonne! Die Sonne!“\r\n\r\nIhre Crew unterwirft den elenden Zailor und schließlich beruhigt er sich. Aber der Impeller spricht in Ihren Träumen und in den Träumen Ihrer Crew. Es ist nicht alles gut. Alles ist alles andere als gut.Z",
                     "ExoticEffects": "",
                     "Id": 182221
                 },
@@ -54292,7 +54292,7 @@
                         }
                     ],
                     "Name": "A verspielter Krieg",
-                    "Description": "Das Affen-Findelkind dreht sich und streckt triumphierend die Zunge heraus. [q:Sacks and Snow: The Snow Child's Name] wirft ihr einen bösen Blick zu und reißt ihr eine Faust ab – einen spontanen Schneeball, der das Findelkind mitten ins Gesicht trifft und es auf den Hintern wirft.\n\n[q:Sacks and Snow: The Snow Child's Name] lacht. Das Affen-Findelkind blickt finster, aber nur für einen Moment. Gerade lange genug, um mit einer einfachen Bewegung wieder auf die Beine zu kommen, während die Hände bereits den Schnee zusammengepackt haben. Sie grinst und zieht sich zurück, um das Feuer zu erwidern.",
+                    "Description": "Das Affen-Findelkind dreht sich und streckt triumphierend die Zunge heraus. [q:Sacks and Snow: The Snow Child's Name] wirft ihr einen bösen Blick zu und reißt ihr eine Faust ab – einen spontanen Schneeball, der das Findelkind mitten ins Gesicht trifft und es auf den Hintern wirft.\r\n\r\n[q:Sacks and Snow: The Snow Child's Name] lacht. Das Affen-Findelkind blickt finster, aber nur für einen Moment. Gerade lange genug, um mit einer einfachen Bewegung wieder auf die Beine zu kommen, während die Hände bereits den Schnee zusammengepackt haben. Sie grinst und zieht sich zurück, um das Feuer zu erwidern.",
                     "ExoticEffects": "",
                     "Id": 223618
                 },
@@ -54320,7 +54320,7 @@
                         }
                     ],
                     "Name": "A Lektion, die sie nicht so schnell vergessen werden",
-                    "Description": "Sie lassen die beiden vor Ihrer Hütte stehen, beide halten in jeder Hand einen schweren Eimer Wasser, während Sie den Papierkram des Tages erledigen. Das Kichern und das kaum zu verstehende Flüstern lassen darauf schließen, dass keiner von ihnen sich ganz auf seine Bestrafung einlässt.\n\nBesonders deutlich wird dies, wenn man die leicht geöffnete Tür aufstößt und plötzlich einen eiskalten Schauer aus einem sorgfältig platzierten Eimer erhält.Zwei kichernde Männer verschwinden in den gegenüberliegenden Korridoren und suchen eilig Verstecke, in denen sie den kommenden Sturm überstehen können.",
+                    "Description": "Sie lassen die beiden vor Ihrer Hütte stehen, beide halten in jeder Hand einen schweren Eimer Wasser, während Sie den Papierkram des Tages erledigen. Das Kichern und das kaum zu verstehende Flüstern lassen darauf schließen, dass keiner von ihnen sich ganz auf seine Bestrafung einlässt.\r\n\r\nBesonders deutlich wird dies, wenn man die leicht geöffnete Tür aufstößt und plötzlich einen eiskalten Schauer aus einem sorgfältig platzierten Eimer erhält.Zwei kichernde Männer verschwinden in den gegenüberliegenden Korridoren und suchen eilig Verstecke, in denen sie den kommenden Sturm überstehen können.",
                     "ExoticEffects": "",
                     "Id": 223619
                 },
@@ -54405,7 +54405,7 @@
                         }
                     ],
                     "Name": "A-Verlust abgewendet",
-                    "Description": "Herr Sacks schweigt einen Moment. „MÖGEN SIE ALLE GROSSZÜGIGKEIT ERFAHREN, DIE SIE VERDIENEN“, heißt es, tritt in die Dunkelheit und nimmt das Licht und alle Erinnerungen an das Licht mit sich.\n\nSie wachen schweißgebadet auf und versuchen, die Laterne neben Ihrem Bett anzuzünden. Nur ein Albtraum, aber einer, der das kranke Gefühl hinterlässt, dass etwas kaum abgewendet werden kann.",
+                    "Description": "Herr Sacks schweigt einen Moment. „MÖGEN SIE ALLE GROSSZÜGIGKEIT ERFAHREN, DIE SIE VERDIENEN“, heißt es, tritt in die Dunkelheit und nimmt das Licht und alle Erinnerungen an das Licht mit sich.\r\n\r\nSie wachen schweißgebadet auf und versuchen, die Laterne neben Ihrem Bett anzuzünden. Nur ein Albtraum, aber einer, der das kranke Gefühl hinterlässt, dass etwas kaum abgewendet werden kann.",
                     "ExoticEffects": "",
                     "Id": 223592
                 },
@@ -54459,7 +54459,7 @@
                         }
                     ],
                     "Name": "AEine Opfergabe wird gemacht",
-                    "Description": "Der Sack kennt nur Hunger. Du gibst ihm dein Vermögen. Du gibst ihm deine Unterkunft. Du gibst ihm dein Schiff. Du gibst ihm die Kleider vom Leib. Du stehst nackt, obdachlos und mittellos auf den Straßen Londons und trotzdem verlangt Mr. Sacks „MEHR“.\n\nDu wachst wieder schweißgebadet auf, klammerst dich an die Bettdecke und hörst das beruhigende Summen eines Gefäßes, das vorerst dir gehört. Einfach ein Traum. Es bedeutet nichts. ",
+                    "Description": "Der Sack kennt nur Hunger. Du gibst ihm dein Vermögen. Du gibst ihm deine Unterkunft. Du gibst ihm dein Schiff. Du gibst ihm die Kleider vom Leib. Du stehst nackt, obdachlos und mittellos auf den Straßen Londons und trotzdem verlangt Mr. Sacks „MEHR“.\r\n\r\nDu wachst wieder schweißgebadet auf, klammerst dich an die Bettdecke und hörst das beruhigende Summen eines Gefäßes, das vorerst dir gehört. Einfach ein Traum. Es bedeutet nichts. ",
                     "ExoticEffects": "",
                     "Id": 223600
                 },
@@ -54480,7 +54480,7 @@
                 ],
                 "Name": "Herr Sacks! Nimm meinen Reichtum.",
                 "Image": "",
-                "Description": "Sie können es nicht mitnehmen. Es wird Zeit gewinnen.\n [Das kostet dich Echos.]",
+                "Description": "Sie können es nicht mitnehmen. Es wird Zeit gewinnen.\r\n [Das kostet dich Echos.]",
                 "ActionCost": 1,
                 "ButtonText": "",
                 "Id": 173281
@@ -54514,7 +54514,7 @@
                         }
                     ],
                     "Name": "AEine Opfergabe wird gemacht",
-                    "Description": "Du stehst da wie in deinem letzten Traum, ein mittelloser Landstreicher, der im spitzen Schnee Londons friert. Das Biest drückt eine Hand auf deine nackte Haut; eine Kälte, die deinem Fleisch und deinem Geist die Hitze entzieht. Schweißperlen prickeln auf Ihrer Haut und verwandeln sich in Eis. Dein Atem hängt nicht mehr vor dir. Das Biest knurrt. \"MEHR.\"\n\nDu wachst zitternd auf; ein Feuer in deinem Kopf und Eis in deinem Herzen. Sie müssen sich von diesem Albtraum befreien, und zwar bald.",
+                    "Description": "Du stehst da wie in deinem letzten Traum, ein mittelloser Landstreicher, der im spitzen Schnee Londons friert. Das Biest drückt eine Hand auf deine nackte Haut; eine Kälte, die deinem Fleisch und deinem Geist die Hitze entzieht. Schweißperlen prickeln auf Ihrer Haut und verwandeln sich in Eis. Dein Atem hängt nicht mehr vor dir. Das Biest knurrt. \"MEHR.\"\r\n\r\nDu wachst zitternd auf; ein Feuer in deinem Kopf und Eis in deinem Herzen. Sie müssen sich von diesem Albtraum befreien, und zwar bald.",
                     "ExoticEffects": "",
                     "Id": 223601
                 },
@@ -54544,7 +54544,7 @@
                 ],
                 "Name": "Herr Sacks! Nimm meine Wärme.Z",
                 "Image": "",
-                "Description": "It wird im kalten Lack nicht mehr lange durchhalten.\n [Das kostet Sie Herzen.]",
+                "Description": "It wird im kalten Lack nicht mehr lange durchhalten.\r\n [Das kostet Sie Herzen.]",
                 "ActionCost": 1,
                 "ButtonText": "",
                 "Id": 173282
@@ -54578,7 +54578,7 @@
                         }
                     ],
                     "Name": "AEine Opfergabe wird gemacht",
-                    "Description": "Das Biest wartet ungeduldig. Sie greifen in Ihren Mund, jeder Zahn bricht und blutet bei der geringsten Berührung. Du greifst den ersten; ein Hund. Deine Finger rutschen aus. Du greifst fester, ziehst, zerrst, kämpfst. Es löst sich von deinem Zahnfleisch, Blut spritzt auf den Schnee zu deinen Füßen, deine Nerven kreischen, während sie die Kälte in der Luft schmecken. Sie werfen Mr. Sacks die blutige Beute vor die Füße. Es schaut nicht nach unten. „MEHR“, dröhnt es.Du wachst auf und hast einen Kupfergeschmack im Hals. Deine Hand geht zu deinem Mund; Zum Glück bleiben Ihre Zähne erhalten. Zumindest alles, was vorhanden war, als Sie zu Bett gingen. ",
+                    "Description": "Die Bestie wartet ungeduldig. Du greifst in deinen Mund; jeder Zahn knackt und blutet bei der leisesten Berührung. Du packst den ersten, einen Eckzahn. Deine Finger gleiten ab. Du greifst fester, ziehst, zerrst, ringst. Er reißt aus dem Zahnfleisch, Blut spritzt in den Schnee zu deinen Füßen, Nerven kreischen, als sie die Kälte der Luft schmecken. Du wirfst Mr Sacks die blutige Beute vor die Füße. Es sieht nicht hinab. „MEHR“, dröhnt es.\r\n\r\nDu erwachst mit Kupfergeschmack im Hals. Deine Hand fährt zum Mund; zum Glück sind deine Zähne noch da. Zumindest alle, die beim Zubettgehen da waren. ",
                     "ExoticEffects": "",
                     "Id": 223602
                 },
@@ -54608,7 +54608,7 @@
                 ],
                 "Name": "Herr Sacks! Nimm meine Zähne.",
                 "Image": "",
-                "Description": "Etwas vom Körper, um seinen Hunger zu stillen.\n [Das kostet Sie Eisen.]",
+                "Description": "Etwas vom Körper, um seinen Hunger zu stillen.\r\n [Das kostet Sie Eisen.]",
                 "ActionCost": 1,
                 "ButtonText": "",
                 "Id": 173283
@@ -54642,7 +54642,7 @@
                         }
                     ],
                     "Name": "AEine Opfergabe wird gemacht",
-                    "Description": "Sie stellen sich mit toten Augen im Schnee auf. Im entfernten Takt marschieren sie. Einer nach dem anderen, in den Sack. Einer nach dem anderen drehen sie den Kopf zu Ihnen und dann weg. Das Biest zieht die Kordeln fest. \"MEHR.\" es verlangt. \"MEHR.\"\n\nEin Klopfen an der Tür weckt Sie. Du stehst mit Fieber auf, dein Kopf hämmert immer noch von einem halb vergessenen Trommelschlag. Der Besatzungsmitglied draußen bringt beunruhigende Neuigkeiten. Was? Wie ist das passiert? Wie viele? Du schließt die Tür. Sicherlich ein Zufall. Nur ein Zufall.",
+                    "Description": "Sie stellen sich mit toten Augen im Schnee auf. Im entfernten Takt marschieren sie. Einer nach dem anderen, in den Sack. Einer nach dem anderen drehen sie den Kopf zu Ihnen und dann weg. Das Biest zieht die Kordeln fest. \"MEHR.\" es verlangt. \"MEHR.\"\r\n\r\nEin Klopfen an der Tür weckt Sie. Du stehst mit Fieber auf, dein Kopf hämmert immer noch von einem halb vergessenen Trommelschlag. Der Besatzungsmitglied draußen bringt beunruhigende Neuigkeiten. Was? Wie ist das passiert? Wie viele? Du schließt die Tür. Sicherlich ein Zufall. Nur ein Zufall.",
                     "ExoticEffects": "",
                     "Id": 223603
                 },
@@ -54671,7 +54671,7 @@
                 ],
                 "Name": "Herr Sacks! Nimm meine Crew.",
                 "Image": "",
-                "Description": "ZBesser sie als du. Ist das nicht die Art des Kapitäns?\n [Dies wird eine zunehmende Anzahl an Besatzungsmitgliedern erfordern.]",
+                "Description": "ZBesser sie als du. Ist das nicht die Art des Kapitäns?\r\n [Dies wird eine zunehmende Anzahl an Besatzungsmitgliedern erfordern.]",
                 "ActionCost": 1,
                 "ButtonText": "",
                 "Id": 173284
@@ -54701,7 +54701,7 @@
                 ],
                 "Name": "Herr Sacks! Nimm... mich.",
                 "Image": "",
-                "Description": "Du hast nichts mehr zu geben.\n [Der Albtraum hat dich. Damit ist Ihr Spiel beendet. Beenden oder entkommen Sie Ihrem Gottesdienst, bevor es dazu kommt.]",
+                "Description": "Du hast nichts mehr zu geben.\r\n [Der Albtraum hat dich. Damit ist Ihr Spiel beendet. Beenden oder entkommen Sie Ihrem Gottesdienst, bevor es dazu kommt.]",
                 "ActionCost": 1,
                 "ButtonText": "",
                 "Id": 173578
@@ -54802,7 +54802,7 @@
                         }
                     ],
                     "Name": "Nachricht aus London",
-                    "Description": "„Mein gnädiger Arbeitgeber macht sich große Sorgen um Ihren Gast unten im Laderaum, Kapitän, und den Kurs, den Sie jetzt einschlagen. Blut wird vergießen, bevor diese Reise zu Ende ist, aber es muss nicht Ihr eigenes sein.“\n\nJervaise bringt ein kleines Fläschchen hervor. Kristall. Das Blut ist rot; röter als normales Blut, fast leuchtend vor Vitalität. „Hier ist ein bitterer Jahrgang. Wenn die Zeit gekommen ist, fordere ich Sie auf, mit Bedacht zu wählen. Ein Gefallen von oben ist selten eine schlechte Investition.“",
+                    "Description": "„Mein gnädiger Arbeitgeber macht sich große Sorgen um Ihren Gast unten im Laderaum, Kapitän, und den Kurs, den Sie jetzt einschlagen. Blut wird vergießen, bevor diese Reise zu Ende ist, aber es muss nicht Ihr eigenes sein.“\r\n\r\nJervaise bringt ein kleines Fläschchen hervor. Kristall. Das Blut ist rot; röter als normales Blut, fast leuchtend vor Vitalität. „Hier ist ein bitterer Jahrgang. Wenn die Zeit gekommen ist, fordere ich Sie auf, mit Bedacht zu wählen. Ein Gefallen von oben ist selten eine schlechte Investition.“",
                     "ExoticEffects": "",
                     "Id": 223596
                 },
@@ -54821,7 +54821,7 @@
         ],
         "Name": "Klopf, klopf",
         "Image": "jigsaw",
-        "Description": "Ein Besatzungsmitglied betritt Ihre Kabine. Seine Uniform ist eines Ihrer Probleme, obwohl das Gesicht nichts Besonderes ist. Sie vermischen sich nach einer Weile. Allerdings sieht er nicht wie ein Kerl aus, der Decks putzt oder Kanonen lädt.\n\n„Bitte um Verzeihung, Kapitän. Erlauben Sie mir, mich vorzustellen. Jervaise. Zu Ihren Diensten, zumindest solange der arme Kerl, der hinter der Galeere gefesselt ist, bedauerlicherweise unpässlich bleibt. Darf ich Sie für einen kurzen Moment Ihrer Zeit belästigen, bevor ich ihn zur Brigg eskortiere?“",
+        "Description": "Ein Besatzungsmitglied betritt Ihre Kabine. Seine Uniform ist eines Ihrer Probleme, obwohl das Gesicht nichts Besonderes ist. Sie vermischen sich nach einer Weile. Allerdings sieht er nicht wie ein Kerl aus, der Decks putzt oder Kanonen lädt.\r\n\r\n„Bitte um Verzeihung, Kapitän. Erlauben Sie mir, mich vorzustellen. Jervaise. Zu Ihren Diensten, zumindest solange der arme Kerl, der hinter der Galeere gefesselt ist, bedauerlicherweise unpässlich bleibt. Darf ich Sie für einen kurzen Moment Ihrer Zeit belästigen, bevor ich ihn zur Brigg eskortiere?“",
         "Ordering": 0.213121817,
         "Deck": {
             "Name": "Manchmal",
@@ -54934,7 +54934,7 @@
                         }
                     ],
                     "Name": "Der Modiste wird in die Dunkelheit geworfen",
-                    "Description": "Sie kämpft auf jedem Schritt des Weges, einen Ausdruck absoluten Entsetzens auf ihrem Gesicht. Ihr Blick trifft deinen an der Schwelle der Luftschleuse auf dem Schiff, bevor die Waffe in ihrem Gesicht sie dazu zwingt, langsam die Leiter in die Tiefe hinunterzusteigen.\n\nFür einen Moment erklingt ein knirschendes Geräusch aus Schmerz und knackenden Knochen aus dem Bauch des Zubmarine, das plötzlich abgeschnitten und ersetzt wird durch ... Vivaldi? Die hohen Töne dringen ins Ohr, die tiefen graben sich tief in den Bauch.„Die Extraktion ist abgeschlossen. Es bleibt nichts Interessantes übrig.“\n\nEine kleinere Luftschleuse öffnet sich. Darin eine Kiste. Darin ein Herz. Kalt, ausgetrocknet, mit Hunderten von Löchern durchbohrt, die an eine Rolle Pianola-Papier erinnern.\n\nDer <i>Irrepressible</i> taucht unter. Seine Wellen verschwinden bald. Seien Sie also gewarnt, der Piraten-Dichter. Ihre Zelle ist offen und ein Rettungsboot fehlt. Verbunden? Es spielt kaum eine Rolle.Ohne die Modiste hat man von ihr sowieso nichts zu gewinnen.",
+                    "Description": "Sie wehrt sich bei jedem Schritt, blankes Entsetzen im Gesicht. An der Schwelle der Luftschleuse oben auf dem Schiff trifft ihr Blick deinen. Dann zwingt die Waffe vor ihrem Gesicht sie, langsam die Leiter in die Tiefe hinabzusteigen.\r\n\r\nEinen Augenblick lang dringt aus dem Bauch des Zeeboots ein Knirschen von Schmerz und brechenden Knochen. Jäh verstummt es, ersetzt durch ... Vivaldi? Die hohen Töne durchbohren deine Ohren, die tiefen graben sich tief in deinen Leib.\r\n\r\n„Die Extraktion ist abgeschlossen. Nichts von Interesse verbleibt.“\r\n\r\nEine kleinere Luftschleuse öffnet sich. Darin eine Kiste. Darin ein Herz. Kalt, vertrocknet, von Hunderten Löchern durchstanzt, die an eine Pianola-Papierrolle denken lassen.\r\n\r\nDie <i>Unbändige</i> taucht ab. Bald verschwinden ihre Wellen. Wie man dir meldet, ist auch die Piratendichterin verschwunden. Ihre Zelle steht offen; ein Rettungsboot fehlt. Ein Zusammenhang? Kaum von Belang. Ohne die Modistin hast du ohnehin nichts mehr von ihr zu gewinnen.",
                     "ExoticEffects": "",
                     "Id": 193082
                 },
@@ -55023,7 +55023,7 @@
                         }
                     ],
                     "Name": "Der Piratendichter wird in die Dunkelheit geworfen",
-                    "Description": "Sie geht mit erhobenem Kopf zur Luftschleuse auf dem Zubmarine. „Ich bin vorbereitet“, erklärt sie und löst mit einem kräftigen Ruck die Fesseln an ihren Handgelenken, um leichter die Leiter hinuntersteigen zu können. „Ich bin zurückgekehrt. Ich <i>submit</i>.“ Und sie geht runter.\n\nFür einen Moment erklingt das knirschende Geräusch tanzender Sägeblätter aus dem Bauch des Zubmarine, plötzlich abgeschnitten und ersetzt durch ... Vivaldi?Die hohen Töne dringen ins Ohr, die tiefen graben sich tief in die Knochen.\n\n„Die Extraktion ist abgeschlossen. Es bleibt nichts Interessantes übrig.“\n\nEine kleinere Luftschleuse öffnet sich. Darin eine Kiste. In der Schachtel... ein Herz. Angefeuchtet, immer noch warm im Griff. Durchbohrt mit Löchern, wie eine Rolle Pianola-Papier.\n\nDer <i>Irrepressible</i> taucht unter. Seine Wellen verschwinden bald. Der Modiste ist zu erleichtert, um wütend zu sein ... im Moment.",
+                    "Description": "Sie geht mit erhobenem Kopf zur Luftschleuse auf dem Zubmarine. „Ich bin vorbereitet“, erklärt sie und löst mit einem kräftigen Ruck die Fesseln an ihren Handgelenken, um leichter die Leiter hinuntersteigen zu können. „Ich bin zurückgekehrt. Ich <i>submit</i>.“ Und sie geht runter.\r\n\r\nFür einen Moment erklingt das knirschende Geräusch tanzender Sägeblätter aus dem Bauch des Zubmarine, plötzlich abgeschnitten und ersetzt durch ... Vivaldi?Die hohen Töne dringen ins Ohr, die tiefen graben sich tief in die Knochen.\r\n\r\n„Die Extraktion ist abgeschlossen. Es bleibt nichts Interessantes übrig.“\r\n\r\nEine kleinere Luftschleuse öffnet sich. Darin eine Kiste. In der Schachtel... ein Herz. Angefeuchtet, immer noch warm im Griff. Durchbohrt mit Löchern, wie eine Rolle Pianola-Papier.\r\n\r\nDer <i>Irrepressible</i> taucht unter. Seine Wellen verschwinden bald. Der Modiste ist zu erleichtert, um wütend zu sein ... im Moment.",
                     "ExoticEffects": "",
                     "Id": 193083
                 },
@@ -55126,7 +55126,7 @@
                         }
                     ],
                     "Name": "Der Modiste und der Dichter werden in die Dunkelheit geworfen",
-                    "Description": "Zwei Besatzungsmitglieder führen die beiden Mitglieder des Sets mit vorgehaltener Waffe an. Der Piratenpoet legt unbeholfen eine tröstende Hand auf die Schulter des Modiste, als dieser sich der Luftschleuse auf dem Zub nähert. Sie ist die Erste, die die Leiter hinabsteigt und in den stechenden Tiefen verschwindet. Der Modiste folgt. Hinter ihnen knallt die Luke zu.\n\nFür einen Moment erklingt ein knirschendes Geräusch aus Schmerz und knackenden Knochen aus dem Bauch des Zubmarine, das plötzlich abgeschnitten und durch ... ersetzt wird.Vivaldi? Die hohen Töne dringen ins Ohr, die tiefen graben sich tief in den Bauch.\n\n„Die Extraktion ist abgeschlossen. Es bleibt nichts Interessantes übrig.“\n\nEine kleinere Luftschleuse öffnet sich. Darin eine Kiste. Darin... zwei Herzen. Einer ist feuchter Ton, einer ist getrocknetes Fleisch. Beide sind mit Hunderten von Löchern übersät, die an grausige Pianola-Papierrollen erinnern.\n\nDer <i>Irrepressible</i> taucht unter. Seine Wellen verschwinden bald.",
+                    "Description": "Zwei Besatzungsmitglieder führen die beiden Mitglieder des Sets mit vorgehaltener Waffe an. Der Piratenpoet legt unbeholfen eine tröstende Hand auf die Schulter des Modiste, als dieser sich der Luftschleuse auf dem Zub nähert. Sie ist die Erste, die die Leiter hinabsteigt und in den stechenden Tiefen verschwindet. Der Modiste folgt. Hinter ihnen knallt die Luke zu.\r\n\r\nFür einen Moment erklingt ein knirschendes Geräusch aus Schmerz und knackenden Knochen aus dem Bauch des Zubmarine, das plötzlich abgeschnitten und durch ... ersetzt wird.Vivaldi? Die hohen Töne dringen ins Ohr, die tiefen graben sich tief in den Bauch.\r\n\r\n„Die Extraktion ist abgeschlossen. Es bleibt nichts Interessantes übrig.“\r\n\r\nEine kleinere Luftschleuse öffnet sich. Darin eine Kiste. Darin... zwei Herzen. Einer ist feuchter Ton, einer ist getrocknetes Fleisch. Beide sind mit Hunderten von Löchern übersät, die an grausige Pianola-Papierrollen erinnern.\r\n\r\nDer <i>Irrepressible</i> taucht unter. Seine Wellen verschwinden bald.",
                     "ExoticEffects": "",
                     "Id": 193084
                 },
@@ -55189,7 +55189,7 @@
                         }
                     ],
                     "Name": "Ein abgelehntes Angebot",
-                    "Description": "Schweigen. Eine lange, ununterbrochene Stille, in der man über den Schaden nachdenkt, den ein Zubmarine einem Schiff zufügen kann. Die Torpedos, die es abfeuern könnte. Die Rotorblätter, die den Rumpf unterhalb der Wasserlinie durchschneiden könnten. Die Harpunen, die es nach- ziehen könnten-\n\n„Anerkannt. Vielen Dank für Ihre Zeit.“\n\nDer <i>Irrepressible</i> taucht unter. Seine Wellen verschwinden bald.",
+                    "Description": "Schweigen. Eine lange, ununterbrochene Stille, in der man über den Schaden nachdenkt, den ein Zubmarine einem Schiff zufügen kann. Die Torpedos, die es abfeuern könnte. Die Rotorblätter, die den Rumpf unterhalb der Wasserlinie durchschneiden könnten. Die Harpunen, die es nach- ziehen könnten-\r\n\r\n„Anerkannt. Vielen Dank für Ihre Zeit.“\r\n\r\nDer <i>Irrepressible</i> taucht unter. Seine Wellen verschwinden bald.",
                     "ExoticEffects": "",
                     "Id": 193085
                 },
@@ -55206,7 +55206,7 @@
         ],
         "Name": "A Zubmarine taucht auf!",
         "Image": "pianolist",
-        "Description": "Das <i>Unbändige</i>! Das legendäre Schiff des Pianolisten! Während seine Wellen verblassen, hallt eine musikalische Stimme im Dunkeln mit dem Knistern eines schlecht gewarteten Phonographen wider.\n\n„Grüße an Sie! Grüße und Glückwünsche, Mitkapitän! Sie haben Verräter an Bord, einer Gruppe, die vorzeitig zerstreut wurde. Wir würden erleben, wie unsere Verräter Verrat schmecken. Was für eine exquisite Ironie! Es gibt so viel zu lernen! Werden Sie sie uns ausliefern?“Die luftige Musikstimme wechselt zur Moll-Tonart.\n„Ihre sofortige Reaktion ist höflich gefragt.“",
+        "Description": "Die <i>Unbändige</i>! Das legendäre Schiff des Pianolisten! Während seine Wellen verebben, hallt eine melodische Stimme durch die Dunkelheit, knisternd wie ein schlecht gepflegter Phonograph.\r\n\r\n„Sei gegrüßt! Gruß und Wohlergehen, werter Mitkapitän! Du führst Verräter an Bord, aus einer vor ihrer Zeit zersprengten Gesellschaft. Wir möchten unsere Verräter den Verrat kosten sehen. Welch köstliche Ironie! Wie viel es zu lernen gibt! Wirst du sie uns ausliefern?“\r\n\r\nDie heitere, melodische Stimme wechselt nach Moll.\r\n„Um deine unverzügliche Antwort wird höflich ersucht.“",
         "Ordering": 0.7242852,
         "Deck": {
             "Name": "Manchmal",
@@ -55286,7 +55286,7 @@
                             "Id": 317517
                         }
                     ],
-                    "Description": "Der Modiist zuckt mit den Schultern. „Seien Sie so. Aber seien Sie sich darüber im Klaren, dass wir uns freuen würden, Sie in unsere kleinen Salons zurückkehren zu sehen, wenn diese fiese Angelegenheit erst einmal vorbei ist.\n\nSie kaut eine Weile auf ihrer Lippe und beobachtet den Piratendichter beim Komponieren. „Schade, dass du der Bildhauerin nie ihren kleinen Spaß gönnst.Die Dinge, die sie mit ihren Hämmern und Meißeln für Sie tun konnte. Hörner! Reißzähne! Flügel aus schimmerndem Knochen! „Mütter würden ihre Kinder mit Geschichten über dein Gesicht allein in den Schlaf schrecken.“ Sie grinst. „Brauche ich überhaupt <i>beschreiben</i> das perfekte Kostüm, das ich entwerfen würde?“\n\nDer Piratendichter denkt widerwillig darüber nach.\n\n„Kein verdammtes Arsen“, grunzt sie. „Und kein bl___y Taft.“",
+                    "Description": "Der Modiist zuckt mit den Schultern. „Seien Sie so. Aber seien Sie sich darüber im Klaren, dass wir uns freuen würden, Sie in unsere kleinen Salons zurückkehren zu sehen, wenn diese fiese Angelegenheit erst einmal vorbei ist.\r\n\r\nSie kaut eine Weile auf ihrer Lippe und beobachtet den Piratendichter beim Komponieren. „Schade, dass du der Bildhauerin nie ihren kleinen Spaß gönnst.Die Dinge, die sie mit ihren Hämmern und Meißeln für Sie tun konnte. Hörner! Reißzähne! Flügel aus schimmerndem Knochen! „Mütter würden ihre Kinder mit Geschichten über dein Gesicht allein in den Schlaf schrecken.“ Sie grinst. „Brauche ich überhaupt <i>beschreiben</i> das perfekte Kostüm, das ich entwerfen würde?“\r\n\r\nDer Piratendichter denkt widerwillig darüber nach.\r\n\r\n„Kein verdammtes Arsen“, grunzt sie. „Und kein bl___y Taft.“",
                     "ExoticEffects": "",
                     "Id": 194412
                 },
@@ -55347,7 +55347,7 @@
                             "Id": 317410
                         }
                     ],
-                    "Description": "„Ah. Dein übliches Thema, meine Liebe?“\n\nDer Piraten-Poet streicht einen Strich unter seinem Titel. „Ich muss... meine Arbeit beenden. Solange ich kann. Anderen muss der Weg gezeigt werden, sonst bedeutet es nichts. Du kannst es nicht verstehen.“\n\n„Könnte ich nicht?“ Der Modiste sieht wirklich entsetzt aus. „Süße, was ist der Zweck unseres kleinen Sets, wenn nicht der Kampf für Art‘s eigene Befreiung?Es sind nicht nur unsere eigenen Musen, die wir zum Fliegen bringen, sondern alle Kreationen, die unsere bescheidene Arbeit den ungehobelten <i>ignorati</i> schmackhafter macht.“\n\n„Ich glaube nicht, dass der Rest... das so sieht.“\n\n„In ihrem Herzen tun sie es. Diejenigen, die sie noch haben.",
+                    "Description": "„Ah. Dein übliches Thema, meine Liebe?“\r\n\r\nDer Piraten-Poet streicht einen Strich unter seinem Titel. „Ich muss... meine Arbeit beenden. Solange ich kann. Anderen muss der Weg gezeigt werden, sonst bedeutet es nichts. Du kannst es nicht verstehen.“\r\n\r\n„Könnte ich nicht?“ Der Modiste sieht wirklich entsetzt aus. „Süße, was ist der Zweck unseres kleinen Sets, wenn nicht der Kampf für Art‘s eigene Befreiung?Es sind nicht nur unsere eigenen Musen, die wir zum Fliegen bringen, sondern alle Kreationen, die unsere bescheidene Arbeit den ungehobelten <i>ignorati</i> schmackhafter macht.“\r\n\r\n„Ich glaube nicht, dass der Rest... das so sieht.“\r\n\r\n„In ihrem Herzen tun sie es. Diejenigen, die sie noch haben.",
                     "ExoticEffects": "",
                     "Id": 194413
                 },
@@ -55415,7 +55415,7 @@
                             "Id": 317518
                         }
                     ],
-                    "Description": "„Die Befreiung der Kunst.“ Der Piraten-Dichter ritzt Trotz in die Wand. „Meine Worte haben noch nie einen anderen in Fesseln gelegt. Kannst du das Gleiche von deinen Kleidern sagen?“\n\n„Jeder ist ein Kritiker.“ Der Modiste wedelt mit dem Finger. „Genauer gesagt möchte ich Sie wissen lassen, dass meine Beschäftigung mit Nevercold Brass am gefragtesten war!“\n\n„Ich…“ Der Piraten-Poet zögert. „Manchmal vermisse ich die Ketten. Vor der Poesie waren die Dinge... einfacher.Bevor ich-“ Sie streicht eine Strophe durch. „Bevor mein Kopf immer voller Worte war <i>Ich schaffe es nie richtig!</i>“\n\n„Wir nennen es ein <i>Künstler</i>, meine Liebe. Ist es da ein Wunder, dass so viele von uns Cracker sind?“ Die Modiste tätschelt liebevoll ihre Hand. „Die Worte werden kommen, Süße. Das tun sie immer. Kunst lässt sich nicht überstürzen.“\n\nEine Pause. „Vielleicht sollte es unter den gegebenen Umständen <i></i> unterstützt werden. Ich frage mich – „Sie lächelt.„Würde ein schönes Stückchen Kuchen Ihnen helfen, sich besser zu fühlen?“",
+                    "Description": "„Die Befreiung der Kunst.“ Der Piraten-Dichter ritzt Trotz in die Wand. „Meine Worte haben noch nie einen anderen in Fesseln gelegt. Kannst du das Gleiche von deinen Kleidern sagen?“\r\n\r\n„Jeder ist ein Kritiker.“ Der Modiste wedelt mit dem Finger. „Genauer gesagt möchte ich Sie wissen lassen, dass meine Beschäftigung mit Nevercold Brass am gefragtesten war!“\r\n\r\n„Ich…“ Der Piraten-Poet zögert. „Manchmal vermisse ich die Ketten. Vor der Poesie waren die Dinge... einfacher.Bevor ich-“ Sie streicht eine Strophe durch. „Bevor mein Kopf immer voller Worte war <i>Ich schaffe es nie richtig!</i>“\r\n\r\n„Wir nennen es ein <i>Künstler</i>, meine Liebe. Ist es da ein Wunder, dass so viele von uns Cracker sind?“ Die Modiste tätschelt liebevoll ihre Hand. „Die Worte werden kommen, Süße. Das tun sie immer. Kunst lässt sich nicht überstürzen.“\r\n\r\nEine Pause. „Vielleicht sollte es unter den gegebenen Umständen <i></i> unterstützt werden. Ich frage mich – „Sie lächelt.„Würde ein schönes Stückchen Kuchen Ihnen helfen, sich besser zu fühlen?“",
                     "ExoticEffects": "",
                     "Id": 194414
                 },
@@ -79040,7 +79040,7 @@
                             "Id": 431448
                         }
                     ],
-                    "Description": "\r\n> hinzufügen: Schwarm +1. fehlerhaft, ich kann nichts hinzufügen.\n\nDie maskierte Gestalt, bekannt als Hempen Man, hat Reden gehalten, in denen sie den Kult des Schlunds anprangerte und argumentierte, dass die Besänftigung des Schlunds ihre Zukunft nicht länger garantieren könne. Sie zögern und haben Angst, Ihnen mehr zu erzählen.",
+                    "Description": "\r\n> hinzufügen: Schwarm +1. fehlerhaft, ich kann nichts hinzufügen.\r\n\r\nDie maskierte Gestalt, bekannt als Hempen Man, hat Reden gehalten, in denen sie den Kult des Schlunds anprangerte und argumentierte, dass die Besänftigung des Schlunds ihre Zukunft nicht länger garantieren könne. Sie zögern und haben Angst, Ihnen mehr zu erzählen.",
                     "ExoticEffects": "",
                     "Id": 240137
                 },
@@ -79134,7 +79134,7 @@
                             "Id": 431450
                         }
                     ],
-                    "Description": "beobachtet.\n\nIst es in Ordnung, dass dies schleifbar ist? Wenn nicht, gibt es eine andere Währung, die einigermaßen gleichwertig ist?",
+                    "Description": "beobachtet.\r\n\r\nIst es in Ordnung, dass dies schleifbar ist? Wenn nicht, gibt es eine andere Währung, die einigermaßen gleichwertig ist?",
                     "ExoticEffects": "",
                     "Id": 240140
                 },
@@ -121036,7 +121036,7 @@
         ],
         "QualitiesRequired": [],
         "ChildBranches": [],
-        "Name": "_WIEDERVERWENDUNG",
+        "Name": "_REUSE",
         "Image": "bazaarsun",
         "Description": "\"Kapitän - Kapitän, ich kann den Weisen immer noch hören. Er ist in der Maschine, Kapitän - \"",
         "ExoticEffects": "",
@@ -176560,7 +176560,7 @@
                         }
                     ],
                     "Name": "Ihre Aufmerksamkeit wandert",
-                    "Description": "...während du das Biest zerhackst. Irgendwie scheinst du nicht mehr mit Sezieren beschäftigt zu sein, sondern erklimmst einen hellen Kiesstrand. Die Kieselsteine ​​glitzern vor Schleim. Jenseits des Strandrückens hört man Musik: ein nachlässiges, fröhliches Pfeifen. Du kämpfst höher. Zee-Fledermäuse flitzen vorbei. Das Pfeifen endet abrupt: Alles ist still. Sie blicken zurück über den Strand zum Unterzee: Lichtstrahlen durchdringen die Dunkelheit. „Die Sonne!“ schreit eine Stimme. „Die Sonne!“\n\nNein: keine Sonne.Du kniest in der Dunkelheit, in den zerfallenden Innereien eines riesigen Aals.",
+                    "Description": "...während du das Biest zerhackst. Irgendwie scheinst du nicht mehr mit Sezieren beschäftigt zu sein, sondern erklimmst einen hellen Kiesstrand. Die Kieselsteine ​​glitzern vor Schleim. Jenseits des Strandrückens hört man Musik: ein nachlässiges, fröhliches Pfeifen. Du kämpfst höher. Zee-Fledermäuse flitzen vorbei. Das Pfeifen endet abrupt: Alles ist still. Sie blicken zurück über den Strand zum Unterzee: Lichtstrahlen durchdringen die Dunkelheit. „Die Sonne!“ schreit eine Stimme. „Die Sonne!“\r\n\r\nNein: keine Sonne.Du kniest in der Dunkelheit, in den zerfallenden Innereien eines riesigen Aals.",
                     "ExoticEffects": "",
                     "Id": 148476
                 },

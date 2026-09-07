@@ -86,89 +86,89 @@
             {
                 "Name": "Eject the Shady Sort",
                 "QualityId": 111745,
-                "Tooltip": "Captain! What are you thinking?"
+                "Tooltip": "Kapitän! Was fällt dir ein?"
             },
             {
                 "Name": "Eject the Checquered Character",
                 "QualityId": 112728,
-                "Tooltip": "Wrong move!"
+                "Tooltip": "Falscher Zug!"
             },
             {
                 "Name": "Eject the Unsettling Sage",
                 "QualityId": 109347,
-                "Tooltip": "No no no. We shall do... wonderful things together."
+                "Tooltip": "Nein, nein, nein. Wir werden gemeinsam ... wunderbare Dinge tun."
             },
             {
                 "Name": "Eject the Delightful Adventuress",
                 "QualityId": 114766,
-                "Tooltip": "I don't _think_ so."
+                "Tooltip": "Das _glaube_ ich kaum."
             }
         ],
         "LegacyUnlockQualities": [
             {
-                "Name": "A Ironclad Will",
-                "Description": "Your next character inherits your Lodgings, along with any Heirlooms you have stored there.",
-                "Tooltip": "Upgrade your Lodgings and purchase a Will.",
+                "Name": "Ein eisernes Testament",
+                "Description": "Deine nächste Spielfigur erbt deine Unterkunft samt allen dort verwahrten Erbstücken.",
+                "Tooltip": "Verbessere deine Unterkunft und kaufe ein Testament.",
                 "UnlockQualityId": 110641,
                 "Order": 1
             },
             {
-                "Name": "A Scion",
-                "Description": "This time, you can choose two legacies.",
-                "Tooltip": "Raise a child, and bring it gifts from the zee.",
+                "Name": "Ein Spross",
+                "Description": "Diesmal kannst du zwei Vermächtnisse wählen.",
+                "Tooltip": "Ziehe ein Kind groß und bringe ihm Geschenke von der Zee.",
                 "UnlockQualityId": 114230,
                 "AdditionalLegaciesAllowed": 1,
                 "Order": 2
             },
             {
-                "Name": "Horizon Codex",
-                "Description": "Increases your starting Pages by +25.",
-                "Tooltip": "Go North.",
+                "Name": "Horizontkodex",
+                "Description": "Erhöht deinen Anfangswert für Seiten um +25.",
+                "Tooltip": "Geh nach Norden.",
                 "UnlockQualityId": 113320,
                 "QualityToIncreaseId": 102898,
                 "IncreaseLevel": 25,
                 "Order": 3
             },
             {
-                "Name": "Boke of Sharps",
-                "Description": "Increases your starting Iron by +25.",
-                "Tooltip": "Raise the Anarchists to prominence.",
+                "Name": "Buch der scharfen Künste",
+                "Description": "Erhöht deinen Anfangswert für Eisen um +25.",
+                "Tooltip": "Verhilf den Anarchisten zur Macht.",
                 "UnlockQualityId": 113575,
                 "QualityToIncreaseId": 102894,
                 "IncreaseLevel": 25,
                 "Order": 4
             },
             {
-                "Name": "A Travelling Light",
-                "Description": "Increases your starting Mirrors by +25.",
-                "Tooltip": "Rise high and go east.",
+                "Name": "Ein wanderndes Licht",
+                "Description": "Erhöht deinen Anfangswert für Spiegel um +25.",
+                "Tooltip": "Steige hoch und ziehe gen Osten.",
                 "UnlockQualityId": 114084,
                 "QualityToIncreaseId": 102895,
                 "IncreaseLevel": 25,
                 "Order": 5
             },
             {
-                "Name": "A Dream of Red",
-                "Description": "Increases your starting Hearts by +25.",
-                "Tooltip": "Carry a lost sister to her homeland.",
+                "Name": "Ein Traum in Rot",
+                "Description": "Erhöht deinen Anfangswert für Herzen um +25.",
+                "Tooltip": "Bringe eine verlorene Schwester in ihre Heimat.",
                 "UnlockQualityId": 114086,
                 "QualityToIncreaseId": 102897,
                 "IncreaseLevel": 25,
                 "Order": 6
             },
             {
-                "Name": "Manual of Miracles",
-                "Description": "Increases your starting Veils by +25.",
-                "Tooltip": "While forgotten, find one who is forgotten.",
+                "Name": "Handbuch der Wunder",
+                "Description": "Erhöht deinen Anfangswert für Schleier um +25.",
+                "Tooltip": "Finde, selbst vergessen, eine Vergessene.",
                 "UnlockQualityId": 114087,
                 "QualityToIncreaseId": 102896,
                 "IncreaseLevel": 25,
                 "Order": 7
             },
             {
-                "Name": "An Adumbration of Her Heart",
-                "Description": "Increases your starting Pages by +10.",
-                "Tooltip": "Behold Her Ladyship.",
+                "Name": "Ein Schattenriss ihres Herzens",
+                "Description": "Erhöht deinen Anfangswert für Seiten um +10.",
+                "Tooltip": "Erblicke Ihre Ladyschaft.",
                 "UnlockQualityId": 128853,
                 "QualityToIncreaseId": 102898,
                 "IncreaseLevel": 10,
