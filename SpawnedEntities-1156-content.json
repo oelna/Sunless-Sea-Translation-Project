@@ -2,7 +2,7 @@
     {
         "Name": "AuroralMegalops",
         "ParentSpawnPoint": null,
-        "HumanName": "Auroral-Megalops",
+        "HumanName": "Aurora-Megalops",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/AuroralMegalops",
@@ -76,7 +76,7 @@
     {
         "Name": "PirateSteamPinnace",
         "ParentSpawnPoint": null,
-        "HumanName": "Piraten-Dampfpinasse",
+        "HumanName": "Piraten-Dampfbarkasse",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/PirateSteamPinnace",
@@ -113,7 +113,7 @@
     {
         "Name": "Jillyfleur",
         "ParentSpawnPoint": null,
-        "HumanName": "Jillyfleur",
+        "HumanName": "Quallenblüte",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/Jillyfleur",
@@ -150,7 +150,7 @@
     {
         "Name": "CrackSteamPinnace",
         "ParentSpawnPoint": null,
-        "HumanName": "Crack Pirate Steam-Pinnace",
+        "HumanName": "Elite-Piratenbarkasse",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/PirateSteamPinnace",
@@ -224,7 +224,7 @@
     {
         "Name": "BoundShark",
         "ParentSpawnPoint": null,
-        "HumanName": "Gebundener Hai",
+        "HumanName": "Fesselhai",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/BoundShark",
@@ -379,7 +379,7 @@
     {
         "Name": "CrackPirateFrigate",
         "ParentSpawnPoint": null,
-        "HumanName": "Knacken Sie die Piratenfregatte",
+        "HumanName": "Elite-Piratenfregatte",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/PirateFrigate",
@@ -417,7 +417,7 @@
     {
         "Name": "ParticularlyTormentedBoundShark",
         "ParentSpawnPoint": null,
-        "HumanName": "Besonders gequälter gefesselter Hai",
+        "HumanName": "Besonders gepeinigter Fesselhai",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/BoundShark",
@@ -455,7 +455,7 @@
     {
         "Name": "AlbinoMoray",
         "ParentSpawnPoint": null,
-        "HumanName": "Albino Moray",
+        "HumanName": "Albino-Muräne",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/AlbinoMoray",
@@ -492,7 +492,7 @@
     {
         "Name": "Behemoustache",
         "ParentSpawnPoint": null,
-        "HumanName": "Behemoustache",
+        "HumanName": "Behemobart",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/Behemoustache",
@@ -530,7 +530,7 @@
     {
         "Name": "KhanateTrimaran",
         "ParentSpawnPoint": null,
-        "HumanName": "Khanat-Kriegs-Trimaran",
+        "HumanName": "Kriegstrimaran des Khanats",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/KhanateTrimaran",
@@ -682,7 +682,7 @@
     {
         "Name": "GloriousFrigate",
         "ParentSpawnPoint": null,
-        "HumanName": "Ruhmreiche Fregatte",
+        "HumanName": "Glorreiche Fregatte",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/GloriousFrigate",
@@ -726,7 +726,7 @@
     {
         "Name": "Jillyfish",
         "ParentSpawnPoint": null,
-        "HumanName": "Jillyfish",
+        "HumanName": "Quallenfisch",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/Jillyfish",
@@ -763,7 +763,7 @@
     {
         "Name": "Lifeberg",
         "ParentSpawnPoint": null,
-        "HumanName": "Lebensberg",
+        "HumanName": "Lebberg",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/Lifeberg",
@@ -800,7 +800,7 @@
     {
         "Name": "RepublicanDreadnought",
         "ParentSpawnPoint": null,
-        "HumanName": "Republikanische Dreadnought",
+        "HumanName": "Republikanischer Dreadnought",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/RepublicanDreadnought",
@@ -996,7 +996,7 @@
     {
         "Name": "Soultaker",
         "ParentSpawnPoint": null,
-        "HumanName": "Seelenfänger",
+        "HumanName": "Seelenräuber",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/FausticCorsair",
@@ -1035,7 +1035,7 @@
     {
         "Name": "ElderAnglerCrab",
         "ParentSpawnPoint": null,
-        "HumanName": "Ältere Anglerkrabbe",
+        "HumanName": "Uralte Anglerkrabbe",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/ElderAnglerCrab",
@@ -1072,7 +1072,7 @@
     {
         "Name": "LornFluke",
         "ParentSpawnPoint": null,
-        "HumanName": "Lorn-Fluke",
+        "HumanName": "Verlorener Fluke",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/LornFluke",
@@ -1110,7 +1110,7 @@
     {
         "Name": "EaterOfNames",
         "ParentSpawnPoint": null,
-        "HumanName": "Namensfresser",
+        "HumanName": "Namenfresser",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/EaterOfNames",
@@ -1149,7 +1149,7 @@
     {
         "Name": "SavageLornFluke",
         "ParentSpawnPoint": null,
-        "HumanName": "Wilde Lorn-Fluke",
+        "HumanName": "Wilder verlorener Fluke",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/LornFluke",
@@ -1187,7 +1187,7 @@
     {
         "Name": "MtNomad",
         "ParentSpawnPoint": null,
-        "HumanName": "Mt. Nomad",
+        "HumanName": "Berg Nomad",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/MtNomad",
@@ -1456,7 +1456,7 @@
     {
         "Name": "Beloved",
         "ParentSpawnPoint": null,
-        "HumanName": "Geliebten",
+        "HumanName": "Geliebtes Wesen",
         "Neutral": true,
         "Description": "",
         "PrefabName": "Fierce/Organic/Beloved",
@@ -1493,7 +1493,7 @@
     {
         "Name": "LornestFluke",
         "ParentSpawnPoint": null,
-        "HumanName": "Lornest Fluke",
+        "HumanName": "Verlorenster Fluke",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/LornestFluke",
@@ -1569,7 +1569,7 @@
     {
         "Name": "DawnFluke",
         "ParentSpawnPoint": null,
-        "HumanName": "Dawn Fluke",
+        "HumanName": "Morgenröten-Fluke",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/DawnFluke",
@@ -1607,7 +1607,7 @@
     {
         "Name": "Neither",
         "ParentSpawnPoint": null,
-        "HumanName": "Weder",
+        "HumanName": "Keins von beiden",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/Neither",
@@ -1644,7 +1644,7 @@
     {
         "Name": "Boundling",
         "ParentSpawnPoint": null,
-        "HumanName": "Bündelung",
+        "HumanName": "Fesselling",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/Boundling",
@@ -1681,7 +1681,7 @@
     {
         "Name": "ConstantCompanion",
         "ParentSpawnPoint": null,
-        "HumanName": "Ständiger Begleiter.",
+        "HumanName": "Ständiger Begleiter",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Organic/ConstantCompanion",
@@ -1707,7 +1707,7 @@
     {
         "Name": "Undergalley",
         "ParentSpawnPoint": null,
-        "HumanName": "Corsair Untergaleere",
+        "HumanName": "Korsaren-Untergaleere",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/Undergalley",
@@ -1744,7 +1744,7 @@
     {
         "Name": "Putterpony",
         "ParentSpawnPoint": null,
-        "HumanName": "Putterpony",
+        "HumanName": "Tuckelpony",
         "Neutral": true,
         "Description": "",
         "PrefabName": "Fierce/Ships/Putterpony",
@@ -1818,7 +1818,7 @@
     {
         "Name": "KhanateSubmarine",
         "ParentSpawnPoint": null,
-        "HumanName": "Khanat-U-Boot",
+        "HumanName": "Unterseeboot des Khanats",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/KhanateSub",
@@ -1855,7 +1855,7 @@
     {
         "Name": "TheIrrepressible",
         "ParentSpawnPoint": null,
-        "HumanName": "Das Unwiderstehliche",
+        "HumanName": "Die Unbändige",
         "Neutral": false,
         "Description": "",
         "PrefabName": "Fierce/Ships/Irrepressible",

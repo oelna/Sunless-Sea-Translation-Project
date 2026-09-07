@@ -7,8 +7,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Adams Umhang",
-                "Description": "ZA carmine tint to the waves. Wir nähern uns Adams Weg, 'wo das Blut des Berges fließt' .",
+                "HumanName": "Adams Kap",
+                "Description": "Karminrot schimmern die Wellen. Wir nähern uns Adams Weg, „wo des Berges Blut fließt“.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -544,7 +544,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Darkgryphon-Straße",
+                        "Label": "Darkgryphonstraße",
                         "Description": "",
                         "Position": {
                             "X": 744,
@@ -557,7 +557,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Apis-Treffen",
+                        "Label": "Apis-Treff",
                         "Description": "",
                         "Position": {
                             "X": 363,
@@ -570,7 +570,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Gardiners Rock",
+                        "Label": "Gardiners Fels",
                         "Description": "",
                         "Position": {
                             "X": 385,
@@ -583,7 +583,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Punkt Livingston",
+                        "Label": "Kap Livingston",
                         "Description": "",
                         "Position": {
                             "X": 1235,
@@ -704,8 +704,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "The Boreal Reach",
-                "Description": "Boreal Reach. Is this snow? Touch it, and it puffs to vapour. Your crew huddles close to the warmth of pipe and funnel.",
+                "HumanName": "Die Nordweite",
+                "Description": "Die Nordweite. Ist das Schnee? Berühre ihn, und er zerstiebt zu Dampf. Deine Besatzung drängt sich an die warmen Rohre und den Schlot.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -825,7 +825,7 @@
                         "Name": "BorealBerg",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Discovered the Lifebergs of the Pale Haunt!",
+                        "Description": "Die Lebberge der Bleichen Heimsuchung entdeckt!",
                         "Position": {
                             "X": 862,
                             "Y": 275
@@ -846,7 +846,7 @@
                         "Name": "BorealBerg",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Discovered the Lifebergs of the Pale Haunt!",
+                        "Description": "Die Lebberge der Bleichen Heimsuchung entdeckt!",
                         "Position": {
                             "X": 970,
                             "Y": 1130
@@ -1445,7 +1445,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Puckeridge's Lookout",
+                        "Label": "Puckeridges Ausguck",
                         "Description": "",
                         "Position": {
                             "X": 1244,
@@ -1458,7 +1458,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Johannesson Town",
+                        "Label": "Johannessonstadt",
                         "Description": "",
                         "Position": {
                             "X": 282,
@@ -1471,7 +1471,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Odinson Straits",
+                        "Label": "Odinsonstraße",
                         "Description": "",
                         "Position": {
                             "X": 467,
@@ -1484,7 +1484,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Censor's Arch",
+                        "Label": "Zensorenbogen",
                         "Description": "",
                         "Position": {
                             "X": 820,
@@ -1497,7 +1497,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Andergard Harbour",
+                        "Label": "Andergard-Hafen",
                         "Description": "",
                         "Position": {
                             "X": 576,
@@ -1510,7 +1510,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Pale Wastes",
+                        "Label": "Bleiche Ödnis",
                         "Description": "",
                         "Position": {
                             "X": 244,
@@ -1523,7 +1523,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Codex",
+                        "Label": "Kodex",
                         "Description": "",
                         "Position": {
                             "X": 1150,
@@ -1536,7 +1536,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Whither",
+                        "Label": "Wohin",
                         "Description": "",
                         "Position": {
                             "X": 663,
@@ -1598,7 +1598,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Die Karneolküste",
-                "Description": "Die Karneolküste. Weit im Süden schimmert das Neudach über dem Berg des Lichts.",
+                "Description": "Die Karneolküste. Weit im Süden schimmert die Decke der Unterwelt über dem Berg des Lichts.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -2011,7 +2011,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Portkarneol",
+                        "Label": "Port Karneol",
                         "Description": "",
                         "Position": {
                             "X": 671,
@@ -2024,7 +2024,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Dybala-Stadt",
+                        "Label": "Dybalastadt",
                         "Description": "",
                         "Position": {
                             "X": 224,
@@ -2037,7 +2037,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Rolias Bluff",
+                        "Label": "Rolias Klippe",
                         "Description": "",
                         "Position": {
                             "X": 531,
@@ -2050,7 +2050,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Grotte des Bibliothekars",
+                        "Label": "Bibliothekarsgrotte",
                         "Description": "",
                         "Position": {
                             "X": 922,
@@ -2076,7 +2076,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Veltens Vortex",
+                        "Label": "Veltens Wirbel",
                         "Description": "",
                         "Position": {
                             "X": 895,
@@ -2197,8 +2197,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Das Chelonat",
-                "Description": "Eine weitere Meerestierleiche im Wasser. So viel Aas. Wir nähern uns dem Chelonat.",
+                "HumanName": "Die Chelonate",
+                "Description": "Wieder treibt ein totes Zeeungeheuer vorbei. So viel Aas. Wir nähern uns der Chelonate.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -2768,7 +2768,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Das Chelonat",
+                        "Label": "Die Chelonate",
                         "Description": "",
                         "Position": {
                             "X": 664,
@@ -2781,7 +2781,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Gant Pole",
+                        "Label": "Gantpol",
                         "Description": "",
                         "Position": {
                             "X": 542,
@@ -2794,7 +2794,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Sachatown",
+                        "Label": "Sachastadt",
                         "Description": "",
                         "Position": {
                             "X": 1031,
@@ -2807,7 +2807,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Schabelport",
+                        "Label": "Schabelhafen",
                         "Description": "",
                         "Position": {
                             "X": 666,
@@ -2846,7 +2846,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Der Gant-Pol",
+                        "Label": "Der Gantpol",
                         "Description": "",
                         "Position": {
                             "X": 496,
@@ -2927,7 +2927,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Korsarenwald",
-                "Description": "In der Ferne ragen Stalagmiten auf wie die Kräne der Wolfstack Docks, nur noch größer. Der Wald des Korsaren. Unsere Ausguckleute sind wachsam.",
+                "Description": "Stalagmiten ragen fern auf wie die Kräne der Wolfstack-Docks, doch gewaltiger, gewaltiger. Der Korsarenwald. Unsere Ausgucke sind wachsam.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -3061,7 +3061,7 @@
                         "Name": "CorsairsFrigate",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Den Piratenflotten des Korsarenwaldes begegnet!",
+                        "Description": "Den Piratenflotten des Korsarenwalds begegnet!",
                         "Position": {
                             "X": 970,
                             "Y": 260
@@ -3513,7 +3513,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Masseys Schaft",
+                        "Label": "Masseys Schacht",
                         "Description": "",
                         "Position": {
                             "X": 675,
@@ -3526,7 +3526,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Eeken RockZ",
+                        "Label": "Eekenfels",
                         "Description": "",
                         "Position": {
                             "X": 1154,
@@ -3539,7 +3539,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Patrick's Lot",
+                        "Label": "Patricks Los",
                         "Description": "",
                         "Position": {
                             "X": 637,
@@ -3578,8 +3578,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Die weinenden Höhen",
-                "Description": "Die Crying Heights, wo die Blauen Propheten die Namen der Sterbenden rufen.",
+                "HumanName": "Die Rufenden Höhen",
+                "Description": "Die Rufenden Höhen, wo die Blauen Propheten die Namen derer rufen, die bald sterben werden.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -4096,7 +4096,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Weinende Höhen",
+                        "Label": "Rufende Höhen",
                         "Description": "",
                         "Position": {
                             "X": 767,
@@ -4109,7 +4109,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Becker Bucht",
+                        "Label": "Beckerbucht",
                         "Description": "",
                         "Position": {
                             "X": 1172,
@@ -4135,7 +4135,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Rubenachgrotte",
+                        "Label": "Rubenach-Grotte",
                         "Description": "",
                         "Position": {
                             "X": 1354,
@@ -4201,8 +4201,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Cumäischer Kanal",
-                "Description": "Hier tummeln sich kleine Schiffe auf dem Wasser. Die Crew wird wehmütig: Sie tauscht alte Geschichten über das sonnenbeschienene Meer aus. Wir nähern uns dem Cumäischen Kanal, dem Weg zur Oberfläche.",
+                "HumanName": "Kumäischer Kanal",
+                "Description": "Kleine Schiffe drängen sich im Wasser. Die Besatzung wird wehmütig: Alte Geschichten vom sonnenhellen Meer machen die Runde. Wir nähern uns dem Kumäischen Kanal, dem Weg zur Oberfläche.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -4294,7 +4294,7 @@
                         "Name": "CumaeanJillyfleur",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Sie sind den Jillyfleurs begegnet, die die kumäische Schifffahrt jagen.",
+                        "Description": "Du bist den Quallenblüten begegnet, die kumäischen Schiffen nachstellen.",
                         "Position": {
                             "X": 1130,
                             "Y": 380
@@ -4315,7 +4315,7 @@
                         "Name": "CanalArchMegalops",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die Auroral-Megalops des Cumaean-Kanals.",
+                        "Description": "Die Aurora-Megalops des Kumäischen Kanals entdeckt.",
                         "Position": {
                             "X": 705,
                             "Y": 1225
@@ -4741,7 +4741,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Albertine GatesZ",
+                        "Label": "Albertinische Tore",
                         "Description": "",
                         "Position": {
                             "X": 800,
@@ -4767,7 +4767,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Der Cumäische Kanal",
+                        "Label": "Der Kumäische Kanal",
                         "Description": "",
                         "Position": {
                             "X": 714,
@@ -4806,8 +4806,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "ZDawn's EdgeZ",
-                "Description": "Als ich an Deck kam, war das Metall scharfkantig und voller Funken. Ozonkoronen verfolgen das Schiff. Das ist Dawn's Edge.",
+                "HumanName": "Saum der Morgenröte",
+                "Description": "An Deck empfing mich funkensprühendes Metall. Ozonkränze geistern um das Schiff. Dies ist der Saum der Morgenröte.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -4941,7 +4941,7 @@
                         "Name": "DawnFrigate",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Sie sind den glorreichen Fregatten begegnet.",
+                        "Description": "Du bist den  Glorreichen Fregatten begegnet.",
                         "Position": {
                             "X": 495,
                             "Y": 1175
@@ -4962,7 +4962,7 @@
                         "Name": "DawnDreadnaught",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die glorreichen Dreadnoughts.",
+                        "Description": "Die Glorreichen Dreadnoughts entdeckt.",
                         "Position": {
                             "X": 660,
                             "Y": 605
@@ -5362,7 +5362,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Die Dawn-Maschine",
+                        "Label": "Die Morgenrötenmaschine",
                         "Description": "",
                         "Position": {
                             "X": 325,
@@ -5388,7 +5388,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Hafen von Runeshmi",
+                        "Label": "Runeshmi-Hafen",
                         "Description": "",
                         "Position": {
                             "X": 145,
@@ -5401,7 +5401,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Corkery Bay",
+                        "Label": "Corkery-Bucht",
                         "Description": "",
                         "Position": {
                             "X": 169,
@@ -5427,7 +5427,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Schloss Clare",
+                        "Label": "Burg Clare",
                         "Description": "",
                         "Position": {
                             "X": 921,
@@ -5440,7 +5440,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Hodgertons Bluff",
+                        "Label": "Hodgertons Klippe",
                         "Description": "",
                         "Position": {
                             "X": 299,
@@ -5581,8 +5581,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": null,
                 "Position": null,
-                "HumanName": "Eine generische Kachel",
-                "Description": "Klafter unten, Meilen darüber.",
+                "HumanName": "Ein allgemeines Kartenfeld",
+                "Description": "Klafter darunter, Meilen darüber.",
                 "ProcLocations": [],
                 "SpawnPoints": [],
                 "Area": {
@@ -5646,8 +5646,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Demeaux-Tor",
-                "Description": "Hier vermischt sich die wildere Luft mit der Luft der näheren Umgebung. Demeaux's Gate, benannt nach einem oben verlorenen Seefahrer. Wie kamen seine Knochen nach unten?",
+                "HumanName": "Demeaux' Tor",
+                "Description": "Hier mischt sich die wilde Luft der Ferne mit der vertrauten der nahen Gewässer. Demeaux' Tor, benannt nach einem oben verschollenen Seefahrer. Wie kamen seine Gebeine hierher?",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -6119,7 +6119,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Bonny Riffe",
+                        "Label": "Liebliche Riffe",
                         "Description": "",
                         "Position": {
                             "X": 1284,
@@ -6132,7 +6132,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Iron & Misery Co. Funging Station",
+                        "Label": "Pilzstation der Eisen & Elend-Gesellschaft",
                         "Description": "",
                         "Position": {
                             "X": 732,
@@ -6145,7 +6145,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Moody's Light",
+                        "Label": "Moodys Leuchtfeuer",
                         "Description": "",
                         "Position": {
                             "X": 204,
@@ -6158,7 +6158,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Purewal Point",
+                        "Label": "Kap Purewal",
                         "Description": "",
                         "Position": {
                             "X": 158,
@@ -6171,7 +6171,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Die Phosgenbleiche",
+                        "Label": "Die Phosgenöden",
                         "Description": "",
                         "Position": {
                             "X": 910,
@@ -6211,7 +6211,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Das Reich der Hände",
-                "Description": "Wir nähern uns dem Reich der Hände. Lasst uns unsere Seelen fest umklammern, damit die Pfingstaffen sie uns nicht wegnehmen.",
+                "Description": "Wir nähern uns dem Reich der Hände. Halten wir unsere Seelen fest, damit die Pfingstaffen sie uns nicht entreißen.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -6761,7 +6761,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "ZPort StantonZ",
+                        "Label": "Port Stanton",
                         "Description": "",
                         "Position": {
                             "X": 842,
@@ -6774,7 +6774,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Ash IsthmusZ",
+                        "Label": "Aschenlandenge",
                         "Description": "",
                         "Position": {
                             "X": 721,
@@ -6787,7 +6787,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Truck PointZ",
+                        "Label": "Kap Torry",
                         "Description": "",
                         "Position": {
                             "X": 343,
@@ -6880,8 +6880,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Frostfound",
-                "Description": "Frostbedeckt, weit und kühl. Eine Festung, die von Fragen, Antworten und Rätseln belagert wird.",
+                "HumanName": "Frostfund",
+                "Description": "Frostfund, gewaltig und frostig. Eine Festung, belagert von Fragen, Antworten und Rätseln.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -6987,7 +6987,7 @@
                         "Name": "FrostfoundBerg",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Die Lebensberge von Frost entdeckt!",
+                        "Description": "Die Lebberge von Frostfund entdeckt!",
                         "Position": {
                             "X": 1230,
                             "Y": 971
@@ -7257,7 +7257,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Bergahornbogen",
+                        "Label": "Ahornbogen",
                         "Description": "",
                         "Position": {
                             "X": 806,
@@ -7283,7 +7283,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Achlys Abyss",
+                        "Label": "Achlys-Abgrund",
                         "Description": "",
                         "Position": {
                             "X": 1276,
@@ -7296,7 +7296,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Dathooleys Wut",
+                        "Label": "Dathooleys Zorn",
                         "Description": "",
                         "Position": {
                             "X": 213,
@@ -7309,7 +7309,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Frostfound",
+                        "Label": "Frostfund",
                         "Description": "",
                         "Position": {
                             "X": 553,
@@ -7438,8 +7438,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Hauchdünner Weg",
-                "Description": "Ein schwebender Netzstrang streichelt Ihr Gesicht. Die Luft deutet auf Spinnen hin.",
+                "HumanName": "Gespinstweg",
+                "Description": "Ein treibender Spinnfaden streichelt dein Gesicht. Die Luft lässt Spinnen ahnen.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -7907,7 +7907,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Das Arntzentief",
+                        "Label": "Die Arntzentiefe",
                         "Description": "",
                         "Position": {
                             "X": 1108,
@@ -7933,7 +7933,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Die Geburt Christi",
+                        "Label": "Die Geburt",
                         "Description": "",
                         "Position": {
                             "X": 1170,
@@ -8014,7 +8014,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Die Eiserne Republik",
-                "Description": "Knisternde Dämpfe steigen aus dem Meer auf. Die Zeit vergeht seitwärts. Eine Seilrolle hat einen Heizer gestochen, und seine Kameraden haben ihn zu Tode geprügelt. Wir stehen unter der Herrschaft der Eisernen Republik.",
+                "Description": "Zischende Dämpfe steigen aus der Zee. Die Zeit rutscht seitwärts. Ein Tauknäuel hat einen Heizer gestochen; seine Kameraden schlagen es tot. Die Hand der Eisernen Republik liegt auf uns.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -8122,7 +8122,7 @@
                         "Name": "IronRepublicDreadnaught",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Du bist den Dreadnaughts der Iron Republic begegnet.",
+                        "Description": "Du bist den Dreadnoughts der Eisernen Republik begegnet.",
                         "Position": {
                             "X": 1100,
                             "Y": 325
@@ -8143,7 +8143,7 @@
                         "Name": "IronRepublicUnfinishedRevolutionaries",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die unvollendeten Revolutionäre der Eisernen Republik.",
+                        "Description": "Die Unvollendeten Revolutionäre der Eisernen Republik entdeckt.",
                         "Position": {
                             "X": 1275,
                             "Y": 945
@@ -8491,7 +8491,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Die Mercurius-Tiefe",
+                        "Label": "Die Mercuriustiefe",
                         "Description": "",
                         "Position": {
                             "X": 1134,
@@ -8504,7 +8504,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Cugels Bluff",
+                        "Label": "Cugels Klippe",
                         "Description": "",
                         "Position": {
                             "X": 963,
@@ -8517,7 +8517,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Adams Untergang",
+                        "Label": "Adams Verhängnis",
                         "Description": "",
                         "Position": {
                             "X": 1114,
@@ -8530,7 +8530,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Van Horn Hafen",
+                        "Label": "Van-Horn-Hafen",
                         "Description": "",
                         "Position": {
                             "X": 737,
@@ -8611,7 +8611,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Myceligaea",
-                "Description": "Das Wasser ist träge mit Hyphenfäden. Violette Gemüsemassen durchbrechen die Oberfläche. Myceligaea!",
+                "Description": "Pilzfäden machen das Wasser träge. Violette Pflanzenmassen durchbrechen die Oberfläche. Myceligaea!",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -9141,7 +9141,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Der Urpilz",
+                        "Label": "Der Erzpilz",
                         "Description": "",
                         "Position": {
                             "X": 768,
@@ -9193,8 +9193,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Palmerstons Reichweite",
-                "Description": "Palmerstons Reichweite. Der Wind weht Schwefel.",
+                "HumanName": "Palmerstons Weite",
+                "Description": "Palmerstons Weite. Schwefel liegt im Wind.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -9855,7 +9855,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Ambrose Point",
+                        "Label": "Kap Ambrose",
                         "Description": "",
                         "Position": {
                             "X": 974,
@@ -9916,8 +9916,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Säulenmeer",
-                "Description": "Seltsame Wärmewolken aus der Luft hinter dem Eis. Dies ist das Säulenmeer, in dem Irem liegen wird. Lügen. Hat immer gelegen.",
+                "HumanName": "Säulenzee",
+                "Description": "Seltsame warme Luftstöße hinter dem Eis. Dies ist die Säulenzee, wo Irem liegen wird. Liegt. Seit jeher gelegen hat.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 5,
@@ -10214,7 +10214,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Ruegsegger-Straße",
+                        "Label": "Ruegseggerstraße",
                         "Description": "",
                         "Position": {
                             "X": 1012,
@@ -10253,7 +10253,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Weaver's Rift",
+                        "Label": "Webers Spalte",
                         "Description": "",
                         "Position": {
                             "X": 800,
@@ -10352,7 +10352,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Die Prinzipien der Koralle",
-                "Description": "Die Prinzipien der Koralle. Das Leichen-Regenbogenlicht unter den Wellen spiegelt die falschen Sterne darüber wider.",
+                "Description": "Die Prinzipien der Koralle. Unter den Wellen schillert ein Leichenregenbogen, ein Widerhall der falschen Sterne droben.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -10430,7 +10430,7 @@
                         "Name": "PrinciplesShark",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Habe die gebundenen Haie von Errant's Gyrus gefunden!",
+                        "Description": "Die Fesselhaie der Irrwindung gefunden!",
                         "Position": {
                             "X": 738,
                             "Y": 310
@@ -10807,7 +10807,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Dow's Ait",
+                        "Label": "Dows Eiland",
                         "Description": "",
                         "Position": {
                             "X": 660,
@@ -10820,7 +10820,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Dunkle Federn",
+                        "Label": "Lichtlose Kiele",
                         "Description": "",
                         "Position": {
                             "X": 720,
@@ -10898,7 +10898,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Königlicher Komplex",
+                        "Label": "Königliches Geflecht",
                         "Description": "",
                         "Position": {
                             "X": 245,
@@ -10911,7 +10911,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Errants Gyrus",
+                        "Label": "Irrwindung",
                         "Description": "",
                         "Position": {
                             "X": 294,
@@ -10924,7 +10924,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Noktischer Lappen",
+                        "Label": "Nachtlappen",
                         "Description": "",
                         "Position": {
                             "X": 1198,
@@ -10963,8 +10963,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Das versprochene Meer",
-                "Description": "Das versprochene Meer. Überall an diesem Ort liegt der Gesang der Drownies zitternd und süß im Wind.",
+                "HumanName": "Die Verheißene Zee",
+                "Description": "Die Verheißene Zee. Überall liegt der Gesang der Ertrunkenen schaudernd süß im Wind.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -11043,7 +11043,7 @@
                         "Name": "PromisedSeaFluke",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Die Lorn-Egel des Gelobten Meeres entdeckt!",
+                        "Description": "Die verlorenen Flukes der Verheißenen Zee entdeckt!",
                         "Position": {
                             "X": 547,
                             "Y": 495
@@ -11450,7 +11450,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Die Festung des Tiefenkönigs",
+                        "Label": "Tiefenkönigs Feste",
                         "Description": "",
                         "Position": {
                             "X": 665,
@@ -11502,7 +11502,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Elifaus-Rift",
+                        "Label": "Elifaus-Spalte",
                         "Description": "",
                         "Position": {
                             "X": 1210,
@@ -11542,7 +11542,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Rattsey",
-                "Description": "Kratzen und Zwitschern in den Ecken des Laderaums. Buckelförmige Formen auf der Deckschiene. Rattsey-Luft ermutigt Ungeziefer.",
+                "Description": "Trippeln und Fiepen in den Ecken des Laderaums. Bucklige Schemen an der Reling. Rattseys Luft macht Ungeziefer kühn.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -12005,7 +12005,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Nuntius",
+                        "Label": "Nuncio",
                         "Description": "",
                         "Position": {
                             "X": 1098,
@@ -12057,7 +12057,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "McMaster's Haven",
+                        "Label": "McMasters Hafen",
                         "Description": "",
                         "Position": {
                             "X": 1139,
@@ -12070,7 +12070,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Winkel",
+                        "Label": "Schlupfwinkel",
                         "Description": "",
                         "Position": {
                             "X": 238,
@@ -12151,7 +12151,7 @@
                 "ParentGroupName": null,
                 "Position": null,
                 "HumanName": "Salzsteppen",
-                "Description": "Die Salzsteppe. Dies ist die Domäne des Neuen Khanats, dessen Vorfahren lange vor dem Fall Londons hierher kamen ...",
+                "Description": "Die Salzsteppen. Das Reich des Neuen Khanats, dessen Ahnen lange vor Londons Fall hierherkamen ...",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -12243,7 +12243,7 @@
                         "Name": "SaltSteppesTrimaran",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die Trimarane des Khanats.",
+                        "Description": "Die Trimarane des Khanats entdeckt.",
                         "Position": {
                             "X": 1194,
                             "Y": 1186
@@ -12264,7 +12264,7 @@
                         "Name": "SaltSteppesTrimaran",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die Trimarane des Khanats.",
+                        "Description": "Die Trimarane des Khanats entdeckt.",
                         "Position": {
                             "X": 1197,
                             "Y": 590
@@ -12285,7 +12285,7 @@
                         "Name": "SaltSteppesTrimaran",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die Trimarane des Khanats.",
+                        "Description": "Die Trimarane des Khanats entdeckt.",
                         "Position": {
                             "X": 327,
                             "Y": 1172
@@ -13226,7 +13226,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "House of Ahnen",
+                        "Label": "Haus der Ahnen",
                         "Description": null,
                         "Position": {
                             "X": 829,
@@ -13252,7 +13252,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Ogedei-Brücke",
+                        "Label": "Ogedeis Brücke",
                         "Description": null,
                         "Position": {
                             "X": 463,
@@ -13343,7 +13343,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Nephrite-Viertel",
+                        "Label": "Nephritviertel",
                         "Description": null,
                         "Position": {
                             "X": 261,
@@ -13382,7 +13382,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Khans Ruhm",
+                        "Label": "Khans Glanz",
                         "Description": null,
                         "Position": {
                             "X": 479,
@@ -13408,7 +13408,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Wanderer's Haven",
+                        "Label": "Wanderers Hafen",
                         "Description": null,
                         "Position": {
                             "X": 1167,
@@ -13447,8 +13447,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Das Meer der Herbste",
-                "Description": "Die Nebel des Herbstmeeres dringen in die Augen, ins Herz. Es ist nicht ungewöhnlich, dass man unerwartet in Tränen ausbricht.",
+                "HumanName": "Die Zee der Herbste",
+                "Description": "Die Nebel der Herbstzee dringen in die Augen, ins Herz. Nicht selten findet man sich unversehens in Tränen.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -13957,7 +13957,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Lipiäinen-Punkt",
+                        "Label": "Kap Lipiäinen",
                         "Description": "",
                         "Position": {
                             "X": 1149,
@@ -13983,7 +13983,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Das Mangrove College",
+                        "Label": "Das Mangrovenkolleg",
                         "Description": "",
                         "Position": {
                             "X": 580,
@@ -14009,7 +14009,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Verschluckende Inseln",
+                        "Label": "Verschlingende Inseln",
                         "Description": "",
                         "Position": {
                             "X": 1021,
@@ -14061,8 +14061,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Das Lilienmeer",
-                "Description": "Wir halten Ausschau nach Pilzbefall im Lilienmeer. Hier gibt es ein Gefängnis, bewacht von Knotenorakeln ...",
+                "HumanName": "Die Lilienzee",
+                "Description": "Wir halten in der Lilienzee nach Pilzblättern Ausschau. Hier liegt ein Gefängnis, bewacht von Knotenorakeln ...",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -14523,7 +14523,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Meer aus Lilien",
+                        "Label": "Lilienzee",
                         "Description": "",
                         "Position": {
                             "X": 433,
@@ -14549,7 +14549,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Hafen Nuppmiddt",
+                        "Label": "Nuppmiddt-Hafen",
                         "Description": "",
                         "Position": {
                             "X": 859,
@@ -14562,7 +14562,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Petersons Riss",
+                        "Label": "Petersons Spalte",
                         "Description": "",
                         "Position": {
                             "X": 390,
@@ -14614,8 +14614,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Meer der Statuen",
-                "Description": "Wir haben das Meer der Statuen betreten. Riesen starren uns an. Kingeater's Castle erhebt sich vor uns, wo Narren ihre Zukunft aufgeben.",
+                "HumanName": "Statuenzee",
+                "Description": "Wir sind in der Statuenzee. Riesen starren uns offenen Mundes an. Vor uns ragt Königsfressers Burg auf, wo Narren ihre Zukunft preisgeben.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -15051,7 +15051,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Kingeaters Schloss",
+                        "Label": "Königsfressers Burg",
                         "Description": "",
                         "Position": {
                             "X": 937,
@@ -15077,7 +15077,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Meer der Statuen",
+                        "Label": "Statuenzee",
                         "Description": "",
                         "Position": {
                             "X": 507,
@@ -15090,7 +15090,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Ptaceks Zorn",
+                        "Label": "Ptaceks Wut",
                         "Description": "",
                         "Position": {
                             "X": 1252,
@@ -15103,7 +15103,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Vinnos Kluft",
+                        "Label": "Vinnos Spalte",
                         "Description": "",
                         "Position": {
                             "X": 322,
@@ -15116,7 +15116,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Bluff verbieten",
+                        "Label": "Banningklippe",
                         "Description": "",
                         "Position": {
                             "X": 888,
@@ -15250,8 +15250,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Das Meer der Stimmen",
-                "Description": "„Wir hören die Stimmen, die nicht untergehen.“ Das ist das Meer der Stimmen: Wir sind in der Nähe von Polythreme, wo nichts wirklich tot ist.",
+                "HumanName": "Die Zee der Stimmen",
+                "Description": "„Wir hören jene Stimmen, die sich nicht ertränken lassen.“ Dies ist die Zee der Stimmen: Nahe liegt Polythreme, wo nichts wahrhaft tot ist.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -15844,7 +15844,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Godfall",
+                        "Label": "Göttersturz",
                         "Description": "",
                         "Position": {
                             "X": 600,
@@ -15883,7 +15883,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Gezeiten des Appetits",
+                        "Label": "Gezeiten der Begierde",
                         "Description": "",
                         "Position": {
                             "X": 1113,
@@ -15909,7 +15909,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Gehorchen",
+                        "Label": "Gehorche",
                         "Description": "",
                         "Position": {
                             "X": 1018,
@@ -15922,7 +15922,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Aushalten",
+                        "Label": "Erdulde",
                         "Description": "",
                         "Position": {
                             "X": 1252,
@@ -15935,7 +15935,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Verlassen",
+                        "Label": "Verloren",
                         "Description": "",
                         "Position": {
                             "X": 1144,
@@ -15948,7 +15948,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Mischen",
+                        "Label": "Vermische dich",
                         "Description": "",
                         "Position": {
                             "X": 1099,
@@ -16000,8 +16000,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": null,
                 "Position": null,
-                "HumanName": "Meer der Flügel",
-                "Description": "Hutmacherfledermäuse sitzen auf dem Trichter, bunt mit gestohlenem Gefieder. Das muss das Gefiederte Meer sein.",
+                "HumanName": "Flügelzee",
+                "Description": "Hutmacherfledermäuse hocken auf dem Schlot, bunt von gestohlenen Federn. Dies muss die Gefiederte Zee sein.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 6,
@@ -16104,8 +16104,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Shepherd's Wash",
-                "Description": "Shepherd's Wash, das salzige Hinterland von London, Heimat von Einsiedlern, Nonnen und zwielichtigen Geschäften.",
+                "HumanName": "Hirtenwatt",
+                "Description": "Hirtenwatt, Londons salziges Hinterland, Heimat von Eremiten, Nonnen und lichtscheuen Geschäften.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -16636,7 +16636,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Flitterstone-Insel",
+                        "Label": "Flattersteininsel",
                         "Description": "",
                         "Position": {
                             "X": 514,
@@ -16649,7 +16649,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Thornwell Croft",
+                        "Label": "Thornwell-Hof",
                         "Description": "",
                         "Position": {
                             "X": 859,
@@ -16675,7 +16675,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Wolfsriss",
+                        "Label": "Wolfsspalte",
                         "Description": "",
                         "Position": {
                             "X": 982,
@@ -16688,7 +16688,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Fieldhaven",
+                        "Label": "Feldhafen",
                         "Description": "",
                         "Position": {
                             "X": 768,
@@ -16740,7 +16740,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Abbey Rock",
+                        "Label": "Abteifelsen",
                         "Description": "",
                         "Position": {
                             "X": 450,
@@ -16753,7 +16753,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Shepherd-Inseln",
+                        "Label": "Hirteninseln",
                         "Description": "",
                         "Position": {
                             "X": 771,
@@ -16793,7 +16793,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Südlicher Archipel",
-                "Description": "Heimatgewässer. Zailors trödeln an der Reling und halten Ausschau nach den Lichtern von London.",
+                "Description": "Heimatgewässer. Zeeleute lehnen müßig an der Reling und spähen nach Londons Lichtern.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -17033,7 +17033,7 @@
                         "PrefabName": "SouthernArchipelago/HuntersKeep",
                         "SubsurfacePrefabName": "",
                         "Name": "HuntersKeep",
-                        "Description": "Ein prächtiges Haus erhebt sich über einer bescheidenen Insel ",
+                        "Description": "Ein herrschaftliches Haus erhebt sich über eine bescheidene Insel ",
                         "Position": {
                             "X": 1232,
                             "Y": 1293
@@ -17384,7 +17384,7 @@
                         "PrefabName": "",
                         "SubsurfacePrefabName": "ZubmarinerCities/LowBarnet",
                         "Name": "Low Barnet",
-                        "Description": "Eine Platzhalterstadt, deren hoch aufragende Merkmale vor Ihnen blinzeln und verblassen, ein Wunder der momentanen Existenz.",
+                        "Description": "Eine Platzhalterstadt: Ihre ragenden Züge flimmern und verblassen vor dir, ein Wunder flüchtigen Daseins.",
                         "Position": {
                             "X": 863,
                             "Y": 1395
@@ -17640,7 +17640,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Wolfstack Docks",
+                        "Label": "Wolfstack-Docks",
                         "Description": "",
                         "Position": {
                             "X": 600,
@@ -17653,7 +17653,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Abteilung für Bedrohungsbekämpfung",
+                        "Label": "Amt für Gefahrenbeseitigung",
                         "Description": "",
                         "Position": {
                             "X": 573,
@@ -17666,7 +17666,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Murray-Straße",
+                        "Label": "Murraystraße",
                         "Description": "",
                         "Position": {
                             "X": 1052,
@@ -17679,7 +17679,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Mutton Island",
+                        "Label": "Hammelinsel",
                         "Description": "",
                         "Position": {
                             "X": 1368,
@@ -17718,7 +17718,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Jägerfestung",
+                        "Label": "Jägersfeste",
                         "Description": "",
                         "Position": {
                             "X": 1205,
@@ -17731,7 +17731,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Prickfinger-Abfälle",
+                        "Label": "Stechfingerödnis",
                         "Description": "",
                         "Position": {
                             "X": 417,
@@ -17757,7 +17757,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Der Echo-Basar",
+                        "Label": "Der Echobasar",
                         "Description": "",
                         "Position": {
                             "X": 366,
@@ -17770,7 +17770,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Niedriger Barnet",
+                        "Label": "Nieder-Barnet",
                         "Description": "",
                         "Position": {
                             "X": 871,
@@ -17783,7 +17783,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Niedriger Barnet",
+                        "Label": "Nieder-Barnet",
                         "Description": "",
                         "Position": {
                             "X": 954,
@@ -17843,8 +17843,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Die Südmauer",
-                "Description": "Eine butterweiche Lichtblüte am südlichen Horizont! Sie nähern sich Varchas, der gespiegelten Stadt.",
+                "HumanName": "Die Südwand",
+                "Description": "Ein buttergelbes Blühen am Südhorizont! Du näherst dich Varchas, der Spiegelstadt.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -18243,7 +18243,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Jack-a-Dandy Stack",
+                        "Label": "Geckenfelsen",
                         "Description": "",
                         "Position": {
                             "X": 874,
@@ -18284,7 +18284,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Die Südwand (Kachelversion)",
-                "Description": "Dieser Teil der Unterzee (Südmauer) ist noch nicht angelegt!",
+                "Description": "Dieser Teil der Unterzee (die Südwand) wurde noch nicht erstellt!",
                 "ProcLocations": [
                     {
                         "SpawnCount": 5,
@@ -18459,7 +18459,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Stamfords Weite",
-                "Description": "Die falschen Sterne oben sind wilder Bernstein, wie Tigeraugen. Stamford's Expanse, benannt nach einem Menschen, der sein Kind durch Katzen verloren hat.",
+                "Description": "Die falschen Sterne droben glühen wild bernsteinfarben wie Tigeraugen. Stamfords Weite, benannt nach einem, dessen Kind den Katzen zum Opfer fiel.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -19020,7 +19020,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Insel der Katzen",
+                        "Label": "Katzeninsel",
                         "Description": "",
                         "Position": {
                             "X": 652,
@@ -19046,7 +19046,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Antlitz",
+                        "Label": "Visage",
                         "Description": "",
                         "Position": {
                             "X": 337,
@@ -19059,7 +19059,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Blühende Jahre",
+                        "Label": "Blüte der Jahre",
                         "Description": "",
                         "Position": {
                             "X": 424,
@@ -19124,7 +19124,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Rosegate",
+                        "Label": "Rosentor",
                         "Description": "",
                         "Position": {
                             "X": 860,
@@ -19163,8 +19163,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Stonesoul-Inseln",
-                "Description": "Eine warme Brise steigt auf, der unwahrscheinliche Geruch von Stein aus einer fernen Wüste. Sie sind den Salt Lions nahe.",
+                "HumanName": "Steinseeleninseln",
+                "Description": "Ein glutheißer Hauch steigt auf, der unwahrscheinliche Duft von Stein aus einer fernen Wüste. Die Salzlöwen sind nah.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -19660,7 +19660,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Hafen von Zeel",
+                        "Label": "Zeelhafen",
                         "Description": "",
                         "Position": {
                             "X": 760,
@@ -19725,8 +19725,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Sturmknochen",
-                "Description": "Wir betreten Stormbones. Der heilige Eligius lässt sein Feuer an Deck in der Luft tanzen. Ganz in der Ferne sehen wir das große Licht der Ragged Crow.",
+                "HumanName": "Sturmgebein",
+                "Description": "Wir erreichen Sturmgebein. Sankt Eligius lässt sein Feuer in der Luft und an Deck tanzen. Ganz fern sehen wir das große Licht der Zerzausten Krähe.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -19818,7 +19818,7 @@
                         "Name": "StormbonesMoth",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die Tyrannenmotten von The Ragged Crow.",
+                        "Description": "Die Tyrannenmotten der Zerzausten Krähe entdeckt.",
                         "Position": {
                             "X": 750,
                             "Y": 650
@@ -20244,7 +20244,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Die Undercrow",
+                        "Label": "Die Unterkrähe",
                         "Description": "",
                         "Position": {
                             "X": 770,
@@ -20257,7 +20257,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Die zerlumpte Krähe",
+                        "Label": "Die Zerzauste Krähe",
                         "Description": "",
                         "Position": {
                             "X": 785,
@@ -20270,7 +20270,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Elifaus Abyss",
+                        "Label": "Elifaus-Abgrund",
                         "Description": "",
                         "Position": {
                             "X": 1151,
@@ -20283,7 +20283,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Chong-Yi-Riss",
+                        "Label": "Chong-Yi-Spalte",
                         "Description": "",
                         "Position": {
                             "X": 252,
@@ -20345,7 +20345,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Die Verleumdungen",
-                "Description": "Und jetzt betreten wir die Verleumdungen. Es liegt ein wilder und herrlicher Duft in der Luft. Eine Art Licht. Warum fürchten Zailoren diesen Ort?",
+                "Description": "Nun erreichen wir die Verleumdungen. Ein wilder, herrlicher Duft liegt in der Luft. Eine Art Licht. Warum fürchten Zeeleute diesen Ort?",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -20742,7 +20742,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Cob's Way Bay",
+                        "Label": "Cobswegbucht",
                         "Description": "",
                         "Position": {
                             "X": 943,
@@ -20755,7 +20755,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Ästhetisch",
+                        "Label": "Aestival",
                         "Description": "",
                         "Position": {
                             "X": 913,
@@ -20768,7 +20768,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Nathans Bluff",
+                        "Label": "Nathans Klippe",
                         "Description": "",
                         "Position": {
                             "X": 935,
@@ -20794,7 +20794,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Der azaquorische Abgrund",
+                        "Label": "Der Azaquorische Abgrund",
                         "Description": "",
                         "Position": {
                             "X": 347,
@@ -20820,7 +20820,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Versteck",
+                        "Label": "Zuflucht",
                         "Description": "",
                         "Position": {
                             "X": 1206,
@@ -20898,8 +20898,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "The Snares",
-                "Description": "Creeping tendrils of fungus, zee-weed, unnamable flora. We enter the Snares.",
+                "HumanName": "Die Schlingen",
+                "Description": "Kriechende Pilzranken, Zeetang, namenlose Gewächse. Wir geraten in die Schlingen.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -21239,7 +21239,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Labyrinth of Eels",
+                        "Label": "Labyrinth der Aale",
                         "Description": "",
                         "Position": {
                             "X": 551,
@@ -21252,7 +21252,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "The Dubois Maelstrom",
+                        "Label": "Der Dubois-Mahlstrom",
                         "Description": "",
                         "Position": {
                             "X": 1148,
@@ -21265,7 +21265,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Pigmote Isle",
+                        "Label": "Pigmote-Insel",
                         "Description": "",
                         "Position": {
                             "X": 875,
@@ -21278,7 +21278,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Lick-a-Monkey Crag",
+                        "Label": "Affenleckfelsen",
                         "Description": "",
                         "Position": {
                             "X": 1190,
@@ -21291,7 +21291,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Crabcake",
+                        "Label": "Krabbenküchlein",
                         "Description": "",
                         "Position": {
                             "X": 389,
@@ -21304,7 +21304,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Saints-Haven",
+                        "Label": "Heiligenhafen",
                         "Description": "",
                         "Position": {
                             "X": 1044,
@@ -21385,7 +21385,7 @@
                 "ParentGroupName": "",
                 "Position": null,
                 "HumanName": "Die Grabkolonien",
-                "Description": "Staub, Echos: sogar eine Sepiatönung in der Luft. Dies sind die Gewässer rund um die Grabkolonien.",
+                "Description": "Staub, Echos; selbst die Luft ist sepiafarben. Dies sind die Gewässer um die Grabkolonien.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -21505,7 +21505,7 @@
                         "Name": "TombPinnace",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die Fledermausschwärme außerhalb der Grabkolonien.",
+                        "Description": "Die Fledermausschwärme vor den Grabkolonien entdeckt.",
                         "Position": {
                             "X": 750,
                             "Y": 250
@@ -21526,7 +21526,7 @@
                         "Name": "TombBats",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die Fledermausschwärme außerhalb der Grabkolonien.",
+                        "Description": "Die Fledermausschwärme vor den Grabkolonien entdeckt.",
                         "Position": {
                             "X": 1250,
                             "Y": 250
@@ -21547,7 +21547,7 @@
                         "Name": "TombMegalops",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Eine Gruppe Auroral-Megalops außerhalb der Grabkolonien entdeckt.",
+                        "Description": "Eine Gruppe Aurora-Megalops vor den Grabkolonien entdeckt.",
                         "Position": {
                             "X": 1250,
                             "Y": 750
@@ -21568,7 +21568,7 @@
                         "Name": "TombBats",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die Fledermausschwärme außerhalb der Grabkolonien.",
+                        "Description": "Die Fledermausschwärme vor den Grabkolonien entdeckt.",
                         "Position": {
                             "X": 750,
                             "Y": 1250
@@ -21589,7 +21589,7 @@
                         "Name": "TombBats",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Entdeckte die Fledermausschwärme außerhalb der Grabkolonien.",
+                        "Description": "Die Fledermausschwärme vor den Grabkolonien entdeckt.",
                         "Position": {
                             "X": 1250,
                             "Y": 1250
@@ -22015,7 +22015,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Davies Bay",
+                        "Label": "Davies-Bucht",
                         "Description": "",
                         "Position": {
                             "X": 345,
@@ -22028,7 +22028,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Carissas Punkt",
+                        "Label": "Carissas Kap",
                         "Description": "",
                         "Position": {
                             "X": 757,
@@ -22067,7 +22067,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Picketts Bluff",
+                        "Label": "Picketts Klippe",
                         "Description": "",
                         "Position": {
                             "X": 400,
@@ -22080,7 +22080,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Cant's Abyss",
+                        "Label": "Cants Abgrund",
                         "Description": "",
                         "Position": {
                             "X": 1056,
@@ -22093,7 +22093,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Harper's Ferry",
+                        "Label": "Harpers Fähre",
                         "Description": "",
                         "Position": {
                             "X": 243,
@@ -22132,8 +22132,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": "",
                 "Position": null,
-                "HumanName": "Voids Ansatz",
-                "Description": "Das muss Voids Ansatz sein. Die Luft knistert vor frostiger Strahlung. Im Norden versagen die falschen Sterne in der Dunkelheit.",
+                "HumanName": "Vor der Leere",
+                "Description": "Dies muss der Vorhof der Leere sein. Die Luft knistert vor frostiger Strahlung. Im Norden erlöschen die falschen Sterne in der Dunkelheit.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -22225,7 +22225,7 @@
                         "Name": "MtNomad",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "entdeckte Mt. Nomad, den schwarzen Glasberg, der Schiffe frisst.",
+                        "Description": "Berg Nomad entdeckt, den schwarzen Glasberg, der Schiffe frisst.",
                         "Position": {
                             "X": 750,
                             "Y": 750
@@ -22585,7 +22585,7 @@
                 "LabelData": [
                     {
                         "ParentTile": null,
-                        "Label": "Der Avid-Horizont",
+                        "Label": "Der Gierige Horizont",
                         "Description": "",
                         "Position": {
                             "X": 1240,
@@ -22598,7 +22598,7 @@
                     },
                     {
                         "ParentTile": null,
-                        "Label": "Die Lichterkapelle",
+                        "Label": "Die Kapelle der Lichter",
                         "Description": "",
                         "Position": {
                             "X": 805,
@@ -22712,8 +22712,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": null,
                 "Position": null,
-                "HumanName": "das dunkle Unterzee",
-                "Description": "Kein Landratte würde die Veränderung bemerken. Aber Sie spüren, wie die Luft auf Ihrer Haut kribbelt. Irgendwo neu.",
+                "HumanName": "die dunkle Unterzee",
+                "Description": "Keine Landratte würde den Wandel bemerken. Doch du spürst die Luft auf deiner Haut prickeln. Ein neuer Ort.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -22807,7 +22807,7 @@
                         "Name": "GenericBats",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Bin der Fledermauskolonie begegnet!",
+                        "Description": "Der Fledermauskolonie begegnet!",
                         "Position": {
                             "X": 1105,
                             "Y": 365
@@ -23155,8 +23155,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": null,
                 "Position": null,
-                "HumanName": "Das dunkle Unterzee",
-                "Description": "Hier wirkt das schieferschwarze Meer wie geriffeltes Glas, durch das das Licht vom Dach fällt.",
+                "HumanName": "Die dunkle Unterzee",
+                "Description": "Hier gleicht die schieferschwarze Zee gewelltem Glas, durchstochen vom Licht der Höhlendecke.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -23570,8 +23570,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": null,
                 "Position": null,
-                "HumanName": "Das dunkle Unterzee",
-                "Description": "Die Welt ist mit unsichtbaren Linien vernetzt. Du hast eine überschritten. Ziehen Sie sie fest, und es würde wie eine Frucht platzen.",
+                "HumanName": "Die dunkle Unterzee",
+                "Description": "Unsichtbare Linien umspinnen die Welt. Du hast eine überquert. Zöge man sie straff, platzte die Welt wie eine Frucht.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -23637,7 +23637,7 @@
                         "Name": "GenericJillyfleur",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Bin einer Gruppe Jillyfleurs begegnet!",
+                        "Description": "Einer Gruppe Quallenblüten begegnet!",
                         "Position": {
                             "X": 545,
                             "Y": 1140
@@ -23658,7 +23658,7 @@
                         "Name": "GenericBats",
                         "Subsurface": false,
                         "QualityRequired": null,
-                        "Description": "Bin einer Gruppe Fledermäuse begegnet!",
+                        "Description": "Einer Gruppe Fledermäuse begegnet!",
                         "Position": {
                             "X": 645,
                             "Y": 415
@@ -23985,8 +23985,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": null,
                 "Position": null,
-                "HumanName": "Das dunkle Unterzee",
-                "Description": "Stachelige Türme erheben sich im Licht der falschen Sterne. Ware-Riffe.",
+                "HumanName": "Die dunkle Unterzee",
+                "Description": "Dornige Türme ragen im Licht der falschen Sterne auf. Hüte dich vor Riffen.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -24366,8 +24366,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": null,
                 "Position": null,
-                "HumanName": "Das dunkle Unterzee",
-                "Description": "Der Wind trägt das Echo ferner Gesänge. Längst verstorbene Priester zählen noch immer die Stunden an diesem Ort.",
+                "HumanName": "Die dunkle Unterzee",
+                "Description": "Der Wind trägt das Echo ferner Gesänge. Längst tote Priester zählen hier noch immer die Stunden.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -24804,8 +24804,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": null,
                 "Position": null,
-                "HumanName": "Das dunkle Unterzee",
-                "Description": "Ein plötzlicher Sporennebel! Zailors niesen. Das Geräusch hallt in der suppigen Luft wider.",
+                "HumanName": "Die dunkle Unterzee",
+                "Description": "Plötzlich Sporennebel! Zeeleute niesen. Der Laut hallt dumpf in der suppigen Luft.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,
@@ -25172,7 +25172,7 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": null,
                 "Position": null,
-                "HumanName": "Das dunkle Unterzee",
+                "HumanName": "Die dunkle Unterzee",
                 "Description": "Etwas Vergessenes ist hier.",
                 "ProcLocations": [
                     {
@@ -25342,8 +25342,8 @@
                 "MaxPhenomPopulation": 0,
                 "ParentGroupName": null,
                 "Position": null,
-                "HumanName": "Das dunkle Unterzee",
-                "Description": "Das Meer hier ist warm. Blasen steigen auf und platzen vor träger Drohung. Das Feuer in der Erde ist unruhig.",
+                "HumanName": "Die dunkle Unterzee",
+                "Description": "Die Zee ist hier warm. Blasen steigen auf und platzen träge, drohend. Das Feuer in der Erde ist ruhelos.",
                 "ProcLocations": [
                     {
                         "SpawnCount": 1,

@@ -148,7 +148,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "PlayerInit",
-        "Description": "Setup for player on startup",
+        "Description": "Einrichtung der Spielfigur beim Spielstart",
         "Setting": {
             "Id": 100233
         },
@@ -174,7 +174,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Elite",
-        "Description": "[will be obsolete]",
+        "Description": "[wird überflüssig]",
         "Setting": {
             "Id": 100233
         },
@@ -249,7 +249,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship III",
-        "Description": "Ship III",
+        "Description": "Schiff III",
         "Setting": {
             "Id": 100233
         },
@@ -324,7 +324,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship VIII",
-        "Description": "Ship VIII",
+        "Description": "Schiff VIII",
         "Setting": {
             "Id": 100233
         },
@@ -406,7 +406,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship 0",
-        "Description": "Starter enemy",
+        "Description": "Einstiegsgegner",
         "Setting": {
             "Id": 100233
         },
@@ -425,7 +425,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "AttackCrush",
-        "Description": "This is a persona for lifebergs and other giant crushing monsters",
+        "Description": "Persona für Lebberge und andere riesige, zermalmende Monster",
         "Setting": {
             "Id": 100233
         },
@@ -444,7 +444,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "AttackBite",
-        "Description": "This is a persona for eels, sharks and whatnot.",
+        "Description": "Persona für Aale, Haie und dergleichen.",
         "Setting": {
             "Id": 100233
         },
@@ -519,7 +519,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship V",
-        "Description": "Ship V",
+        "Description": "Schiff V",
         "Setting": {
             "Id": 100233
         },
@@ -594,7 +594,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship I",
-        "Description": "Pinnaces, etc.",
+        "Description": "Barkassen usw.",
         "Setting": {
             "Id": 100233
         },
@@ -669,7 +669,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship VII",
-        "Description": "Ship VII",
+        "Description": "Schiff VII",
         "Setting": {
             "Id": 100233
         },
@@ -688,7 +688,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "AttackSpeculate",
-        "Description": "Beasts and ships that can attack using Speculation.",
+        "Description": "Bestien und Schiffe, die mit Speculation angreifen können.",
         "Setting": {
             "Id": 100233
         },
@@ -714,7 +714,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Fragile",
-        "Description": "Reduces Hull and Life by 50 each",
+        "Description": "Verringert Rumpf und Leben um jeweils 50",
         "Setting": {
             "Id": 100233
         },
@@ -768,7 +768,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "MiniBeastie",
-        "Description": "This is a trivially swattable starter beastie. ",
+        "Description": "Eine mühelos zu erschlagende Einstiegsbestie. ",
         "Setting": {
             "Id": 100233
         },
@@ -843,7 +843,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship IX",
-        "Description": "Ship IX",
+        "Description": "Schiff IX",
         "Setting": {
             "Id": 100233
         },
@@ -904,7 +904,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Swarmer",
-        "Description": "Does more damage the more crew you have; Terror effects increase with Crew, Supplies can be damaged.",
+        "Description": "Verursacht bei größerer Besatzung mehr Schaden; Schrecken wächst mit der Besatzung, Vorräte können beschädigt werden.",
         "Setting": {
             "Id": 100233
         },
@@ -937,7 +937,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "SmallBand",
-        "Description": "Small group of terrestrial enemies.",
+        "Description": "Kleine Gruppe von Gegnern an Land.",
         "Setting": {
             "Id": 100233
         },
@@ -964,7 +964,7 @@
             }
         ],
         "Name": "Navigator",
-        "Description": "This is a basic FL integration persona.",
+        "Description": "Grundlegende Persona für die FL-Anbindung.",
         "Setting": {
             "Id": 100233
         },
@@ -1004,7 +1004,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "ModestlyArmed",
-        "Description": "Modestly dangerous armed land band. NB the 9 on the end of the Iron is for /10 +1 rounding in the relevant Acts",
+        "Description": "Mäßig gefährliche bewaffnete Gruppe an Land. Hinweis: Die 9 am Ende des Eisenwerts dient der Rundung /10 +1 in den betreffenden Aktionen.",
         "Setting": {
             "Id": 100233
         },
@@ -1079,7 +1079,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship X",
-        "Description": "Ship X",
+        "Description": "Schiff X",
         "Setting": {
             "Id": 100233
         },
@@ -1140,7 +1140,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Beastie I",
-        "Description": "Beastie I",
+        "Description": "Bestie I",
         "Setting": {
             "Id": 100233
         },
@@ -1201,7 +1201,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Beastie III",
-        "Description": "Beastie III",
+        "Description": "Bestie III",
         "Setting": {
             "Id": 100233
         },
@@ -1262,7 +1262,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Beastie V",
-        "Description": "Beastie V",
+        "Description": "Bestie V",
         "Setting": {
             "Id": 100233
         },
@@ -1316,7 +1316,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Beastie VII",
-        "Description": "Beastie VII",
+        "Description": "Bestie VII",
         "Setting": {
             "Id": 100233
         },
@@ -1377,7 +1377,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Beastie VIII",
-        "Description": "Beastie VIII",
+        "Description": "Bestie VIII",
         "Setting": {
             "Id": 100233
         },
@@ -1438,7 +1438,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Beastie IX",
-        "Description": "Beastie IX",
+        "Description": "Bestie IX",
         "Setting": {
             "Id": 100233
         },
@@ -1499,7 +1499,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Beastie X",
-        "Description": "Beastie X",
+        "Description": "Bestie X",
         "Setting": {
             "Id": 100233
         },
@@ -1525,7 +1525,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Clay Men",
-        "Description": "Increases Crew and Hull",
+        "Description": "Erhöht Besatzung und Rumpf",
         "Setting": {
             "Id": 100233
         },
@@ -1552,7 +1552,7 @@
             }
         ],
         "Name": "FL_Whisper-Locked Box",
-        "Description": "FL integration unlock for a box that can only be opened in SS.",
+        "Description": "Freischaltung per FL-Anbindung für eine Kiste, die sich nur in SS öffnen lässt.",
         "Setting": {
             "Id": 100233
         },
@@ -1590,7 +1590,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "UsesObscureOverload",
-        "Description": "Has an Obscure Energies Device - can use Obscure Overload",
+        "Description": "Besitzt ein Gerät für obskure Energien – kann Obscure Overload einsetzen",
         "Setting": {
             "Id": 100233
         },
@@ -1609,7 +1609,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "HasUnclearDevices",
-        "Description": "Three Unclear Devices - can use Unclear Device",
+        "Description": "Drei unklare Vorrichtungen – kann Unclear Device einsetzen",
         "Setting": {
             "Id": 100233
         },
@@ -1636,7 +1636,7 @@
             }
         ],
         "Name": "FL_Panther",
-        "Description": "FL Panther linkup",
+        "Description": "FL-Panther-Anbindung",
         "Setting": {
             "Id": 100233
         },
@@ -1697,7 +1697,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Beastie II",
-        "Description": "Beastie II",
+        "Description": "Bestie II",
         "Setting": {
             "Id": 100233
         },
@@ -1758,7 +1758,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Beastie IV",
-        "Description": "Beastie IV",
+        "Description": "Bestie IV",
         "Setting": {
             "Id": 100233
         },
@@ -1819,7 +1819,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Beastie VI",
-        "Description": "Beastie VI",
+        "Description": "Bestie VI",
         "Setting": {
             "Id": 100233
         },
@@ -1894,7 +1894,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship II",
-        "Description": "Ship II",
+        "Description": "Schiff II",
         "Setting": {
             "Id": 100233
         },
@@ -1969,7 +1969,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship IV",
-        "Description": "Ship IV",
+        "Description": "Schiff IV",
         "Setting": {
             "Id": 100233
         },
@@ -2044,7 +2044,7 @@
         ],
         "QualitiesRequired": [],
         "Name": "Ship VI",
-        "Description": "Ship VI",
+        "Description": "Schiff VI",
         "Setting": {
             "Id": 100233
         },
@@ -2071,7 +2071,7 @@
             }
         ],
         "Name": "FL_PantherKitten",
-        "Description": "FL integration for Parabolan Kitten",
+        "Description": "FL-Anbindung für das parabolische Kätzchen",
         "Setting": {
             "Id": 100233
         },
@@ -2098,7 +2098,7 @@
             }
         ],
         "Name": "Long Boxer",
-        "Description": "This supports a Fallen London metaquality provided via a launch-promotion access code.",
+        "Description": "Unterstützt eine Fallen-London-Metaeigenschaft, die per Aktionscode zur Veröffentlichung vergeben wird.",
         "Setting": {
             "Id": 100233
         },
